@@ -532,7 +532,8 @@
         ],
         "tripType": [
             "Peakbagging",
-            "Local Hiking"
+            "Local Hiking",
+            "Wilderness Travel Course"
         ],
         "tripName": [
             "San Jacinto Peako Baggins",
@@ -543,6 +544,11 @@
                 "anchor": "San Jacinto Peak",
                 "url": "http://www.peakbagger.com/peak.aspx?pid=1480",
                 "height": "10,839’"
+            },
+            {
+                "anchor": "Jean Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1482",
+                "height": "10,670'"
             },
             {
                 "anchor": "Tahquitz Peak",
@@ -3079,7 +3085,7 @@
             "Sierra Climbing"
         ],
         "tripName": [
-            "Iron Mountain Laurent Provisional"
+            "Iron Mountain For Laurent's I Provisional"
         ],
         "peaks": [
             {
@@ -4306,7 +4312,7 @@
         ],
         "tripName": [
             "Angels Landing Zion",
-            "Sierra Club E Provisional #1"
+            "Matt's E Provisional #1"
         ],
         "peaks": [
             {
@@ -4332,7 +4338,7 @@
         ],
         "tripName": [
             "Mountain of the Sun Zion",
-            "Sierra Club E Provisional #1"
+            "Matt's E Provisional #1"
         ],
         "peaks": [
             {
@@ -4358,7 +4364,7 @@
         ],
         "tripName": [
             "North Guardian Angel Zion",
-            "Sierra Club E Provisional #1"
+            "Matt's E Provisional #1"
         ],
         "peaks": [
             {
@@ -4387,7 +4393,7 @@
         ],
         "tripName": [
             "South Guarian Angel Zion",
-            "Sierra Club E Provisional #1"
+            "Matt's E Provisional #1 "
         ],
         "peaks": [
             {
@@ -7187,7 +7193,7 @@
             "Sierra Climbing"
         ],
         "tripName": [
-            "Cheryl's Provisional Scout of Pilot Knob With Bonus Peaks"
+            "Cheryl's I Provisional Scout of Pilot Knob With Bonus Peaks"
         ],
         "peaks": [
             {
@@ -7259,7 +7265,8 @@
             "Sierra Climbing"
         ],
         "tripName": [
-            "Ritter & Banner (Attempt) M-Snow Provisional"
+            "Ritter & Banner (Attempt) ",
+            "Matt's M-Snow Provisional"
         ],
         "peaks": [
             {
@@ -7602,7 +7609,7 @@
         ],
         "tripName": [
             "Eagle #2, Smith, & Corkscrew Death Valley",
-            "M-Rock Provisional"
+            "Matt's M-Rock Provisional"
         ],
         "peaks": [
             {
@@ -7662,7 +7669,7 @@
             "Desert Climbing"
         ],
         "tripName": [
-            "Death Valley Provisional Scout & Bivy"
+            "Death Valley M-Rock Provisional Scout & Bivy"
         ],
         "peaks": [
             {
@@ -7942,7 +7949,7 @@
             "Sierra Climbing"
         ],
         "tripName": [
-            "Cheryl's Pickering Provisional Scout"
+            "Cheryl's Pickering I Provisional Scout"
         ],
         "peaks": [
             {
@@ -8004,7 +8011,8 @@
             "Local Hiking"
         ],
         "tripName": [
-            "Copter to Hawkins Ridge I Provisional"
+            "Copter to Hawkins Ridge ",
+            "Matt's I Provisional"
         ],
         "peaks": [
             {
@@ -8273,7 +8281,8 @@
             "Local Hiking"
         ],
         "tripName": [
-            "Cooper Canyon Pawnee Mine I Provisional Backpack"
+            "Cooper Canyon Pawnee Mine I Provisional Backpack",
+            "Matt's I Provisional"
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157616608364813/"

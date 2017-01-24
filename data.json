@@ -44,6 +44,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157677730642121"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/01/2017-mustache-mosey-day-1-kelso-peak.html"
         ]
     },
     {
@@ -68,6 +71,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157675844406483"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/01/2017-mustache-mosey-day-1-kelso-peak.html"
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/32350729366/in/album-72157675844406483/"
@@ -552,7 +558,7 @@
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157673724800766"
         ],
-        "tripRpt": [
+        "maps": [
             "https://www.flickr.com/photos/matthewhengst/29370244940/in/album-72157673724800766/"
         ]
     },
@@ -585,7 +591,7 @@
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157672729031121"
         ],
-        "tripRpt": [
+        "maps": [
             "https://www.flickr.com/photos/matthewhengst/29367145254/in/dateposted-public/"
         ]
     },
@@ -644,7 +650,7 @@
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157669748104453"
         ],
-        "tripRpt": [
+        "maps": [
             "https://www.flickr.com/photos/matthewhengst/29700903950/in/dateposted-public/"
         ]
     },
@@ -943,7 +949,8 @@
         "peaks": [
             {
                 "anchor": "Tehipite Dome",
-                "url": "http://www.peakbagger.com/peak.aspx?pid=2718"
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2718",
+                "height": "7,708'"
             },
             {
                 "anchor": "Spanish Mtn",
@@ -955,6 +962,9 @@
             "https://www.flickr.com/photos/matthewhengst/albums/72157670102483345"
         ],
         "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2016/06/tehipite-dome-attempt-3-ish-and-spanish.html"
+        ],
+        "maps": [
             "https://www.flickr.com/photos/matthewhengst/27816321365/in/album-72157670102483345/"
         ]
     },
@@ -1011,7 +1021,7 @@
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157669190329935"
         ],
-        "tripRpt": [
+        "maps": [
             "https://www.flickr.com/photos/matthewhengst/27331753722/in/album-72157669190329935/"
         ]
     },
@@ -2599,7 +2609,7 @@
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157638501246504"
         ],
-        "tripRpt": [
+        "maps": [
             "https://www.flickr.com/photos/matthewhengst/11295592255/in/album-72157638501246504/"
         ]
     },
@@ -3024,7 +3034,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157635040082593/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/9504155455/in/set-72157635040082593"
         ]
     },
@@ -3055,7 +3065,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157634849305548/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/9403340660/in/set-72157634849305548"
         ]
     },
@@ -3149,7 +3159,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157634553915290/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/9250259577/in/set-72157634553915290"
         ]
     },
@@ -3466,7 +3476,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157633418934665/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/8713949355/in/set-72157633418934665"
         ]
     },
@@ -3491,7 +3501,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157633365648609/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/8692672255/in/set-72157633365648609"
         ]
     },
@@ -3607,7 +3617,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157633086533682/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/8588953128/in/set-72157633086533682"
         ]
     },
@@ -3632,7 +3642,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157633086533682/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/8587852261/in/set-72157633086533682"
         ]
     },
@@ -3662,11 +3672,8 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157632799347819/"
         ],
-        "tripRpt": [
-            "http://www.flickr.com/photos/matthewhengst/8490330802/in/set-72157632799347819"
-        ],
         "maps": [
-            "http://www.flickr.com/photos/matthewhengst/8489231759/in/set-72157632799347819"
+            "http://www.flickr.com/photos/matthewhengst/8490330802/in/set-72157632799347819"
         ]
     },
     {
@@ -3690,7 +3697,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157632799347819/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/8490330708/in/set-72157632799347819"
         ]
     },
@@ -3715,7 +3722,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157632688177135/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/8447307999/in/set-72157632688177135"
         ]
     },
@@ -3740,7 +3747,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157632688172107/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/8448396848/in/set-72157632688172107"
         ]
     },
@@ -3858,11 +3865,8 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157632161601059/"
         ],
-        "tripRpt": [
-            "http://www.flickr.com/photos/matthewhengst/8243082766/in/photostream"
-        ],
         "maps": [
-            "http://www.flickr.com/photos/matthewhengst/8242014689/in/photostream"
+            "http://www.flickr.com/photos/matthewhengst/8243082766/in/photostream"
         ]
     },
     {
@@ -3892,7 +3896,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157632161608903/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/8243082312/in/photostream"
         ]
     },
@@ -3918,7 +3922,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157632161620417/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/8242014429/in/photostream"
         ]
     },
@@ -4070,7 +4074,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157632047514475/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://farm9.staticflickr.com/8063/8200439106_ace8432f25_o.jpg"
         ]
     },
@@ -4100,10 +4104,8 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157632051662570/"
         ],
-        "tripRpt": [
-            "http://farm9.staticflickr.com/8482/8200439350_79ed9eedb9_o.jpg"
-        ],
         "maps": [
+            "http://farm9.staticflickr.com/8482/8200439350_79ed9eedb9_o.jpg",
             "http://farm9.staticflickr.com/8481/8200439268_fa86b9c06d_o.jpg"
         ]
     },
@@ -4206,7 +4208,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157631886486781/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://farm9.staticflickr.com/8473/8139325120_db76c702ec_o.jpg"
         ]
     },
@@ -4290,7 +4292,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157631668381932/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://farm9.staticflickr.com/8312/8044541275_b0c5ec4d7a_o.jpg"
         ]
     },
@@ -4433,7 +4435,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157631562166167/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://farm9.staticflickr.com/8174/7998199146_f8a755899e_o.jpg"
         ]
     },
@@ -4541,7 +4543,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157631167330424/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/7829196448/sizes/o/in/set-72157631167330424/"
         ]
     },
@@ -4572,7 +4574,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157630495873570/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://farm9.staticflickr.com/8151/7536274702_8939ebd26e_o.jpg"
         ]
     },
@@ -4636,7 +4638,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157630193187494/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://farm9.staticflickr.com/8147/7401651366_bc0133e451_o.jpg"
         ]
     },
@@ -4667,7 +4669,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157630102345974/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://farm8.staticflickr.com/7103/7178191323_d68dffeac4_o.jpg"
         ]
     },
@@ -4764,7 +4766,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157629973642446/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://farm8.staticflickr.com/7086/7303322474_918895d1b3_o.jpg"
         ]
     },
@@ -4790,7 +4792,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157629718746524/with/7193854636/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://farm8.staticflickr.com/7079/7193797294_3b68233703_o.jpg"
         ]
     },
@@ -4886,11 +4888,8 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157629464068952/"
         ],
-        "tripRpt": [
-            "http://www.flickr.com/photos/matthewhengst/6939182794/sizes/o/in/photostream/"
-        ],
         "maps": [
-            "http://www.flickr.com/photos/matthewhengst/7085257677/sizes/o/in/photostream/"
+            "http://www.flickr.com/photos/matthewhengst/6939182794/sizes/o/in/photostream/"
         ]
     },
     {
@@ -4913,9 +4912,6 @@
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157629777856139/"
-        ],
-        "tripRpt": [
-            "http://www.flickr.com/photos/matthewhengst/6916248570/in/set-72157629777856139"
         ],
         "maps": [
             "http://www.flickr.com/photos/matthewhengst/6916248426/sizes/o/in/set-72157629777856139/"
@@ -4942,11 +4938,8 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157629777856139/"
         ],
-        "tripRpt": [
-            "http://www.flickr.com/photos/matthewhengst/6916248570/in/set-72157629777856139"
-        ],
         "maps": [
-            "http://www.flickr.com/photos/matthewhengst/7062329651/sizes/o/in/set-72157629777856139/"
+            "http://www.flickr.com/photos/matthewhengst/6916248570/in/set-72157629777856139"
         ]
     },
     {
@@ -4970,7 +4963,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157629777856139/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/6916248570/in/set-72157629777856139"
         ]
     },
@@ -5011,7 +5004,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157629566876575/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/6829093812/sizes/o/in/set-72157629566876575/"
         ]
     },
@@ -5036,7 +5029,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157629193931638/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/6975219269/sizes/o/in/set-72157629193931638/"
         ]
     },
@@ -5091,7 +5084,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157629001391395/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/6753251339/sizes/o/in/set-72157629001391395/"
         ]
     },
@@ -5123,7 +5116,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157628912716309/with/6709300803/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/6715004783/sizes/o/in/set-72157628912716309/"
         ]
     },
@@ -5255,7 +5248,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157628393185367/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/6501457741/sizes/o/in/set-72157628393185367/"
         ]
     },
@@ -5280,7 +5273,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157628393196623/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/6501457903/sizes/o/in/set-72157628393196623/"
         ]
     },
@@ -5311,11 +5304,8 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157628298600269/"
         ],
-        "tripRpt": [
-            "http://www.flickr.com/photos/matthewhengst/6485414183/sizes/o/in/set-72157628298600269/"
-        ],
         "maps": [
-            "http://www.flickr.com/photos/matthewhengst/6485414237/sizes/o/in/set-72157628298600269/"
+            "http://www.flickr.com/photos/matthewhengst/6485414183/sizes/o/in/set-72157628298600269/"
         ]
     },
     {
@@ -5379,11 +5369,8 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157628083153743/"
         ],
-        "tripRpt": [
-            "http://www.flickr.com/photos/matthewhengst/6377428917/sizes/o/in/set-72157628083153743/"
-        ],
         "maps": [
-            "http://www.flickr.com/photos/matthewhengst/6377429319/sizes/o/in/set-72157628083153743/"
+            "http://www.flickr.com/photos/matthewhengst/6377428917/sizes/o/in/set-72157628083153743/"
         ]
     },
     {
@@ -5413,11 +5400,8 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157628004697837/"
         ],
-        "tripRpt": [
-            "http://www.flickr.com/photos/matthewhengst/6343381501/sizes/o/in/set-72157628004697837/"
-        ],
         "maps": [
-            "http://www.flickr.com/photos/matthewhengst/6344130538/sizes/o/in/set-72157628004697837/"
+            "http://www.flickr.com/photos/matthewhengst/6343381501/sizes/o/in/set-72157628004697837/"
         ]
     },
     {
@@ -5522,7 +5506,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157627816202726/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/6438569443/sizes/o/in/photostream/"
         ]
     },
@@ -5562,7 +5546,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157627707777126/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/6439257241/sizes/o/in/set-72157627707777126/"
         ]
     },
@@ -5742,7 +5726,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157627152027941/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/5974001368/sizes/o/in/photostream/"
         ]
     },
@@ -5769,7 +5753,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157627102132733/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/5949991997/sizes/o/in/set-72157627102132733/"
         ]
     },
@@ -5796,7 +5780,7 @@
             "http://www.flickr.com/photos/matthewhengst/sets/72157627102111503/"
         ],
         "tripRpt": [
-            "http://firstchurchofthemasochist.blogspot.com/2011/07/alta-peak-panther-dayhike-from-wolverton.html"
+            "http://www.firstchurchofthemasochist.com/2011/07/alta-peak-panther-dayhike-from-wolverton.html"
         ],
         "maps": [
             "http://www.flickr.com/photos/matthewhengst/5950549890/sizes/o/in/set-72157627102111503/"
@@ -5858,7 +5842,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157627132562086/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/5910151674/sizes/o/in/photostream/"
         ]
     },
@@ -5929,7 +5913,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157627006000272/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/5853470028/sizes/o/in/set-72157627006000272/"
         ]
     },
@@ -6003,7 +5987,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157626771205551/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/5802618567/sizes/o/in/set-72157626771205551/"
         ]
     },
@@ -6143,7 +6127,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157626556585147/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/5703306198/sizes/o/in/set-72157626556585147/"
         ]
     },
@@ -6399,7 +6383,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157626217062258/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/5510175879/sizes/o/in/photostream/"
         ]
     },
@@ -6416,7 +6400,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157626163195412/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/5485086347/sizes/o/in/set-72157626163195412/"
         ]
     },
@@ -6505,7 +6489,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157625867098211/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/5436719357/sizes/o/in/set-72157625867098211/"
         ]
     },
@@ -6781,7 +6765,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157625114794461/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/5115200222/sizes/o/in/set-72157625114794461/"
         ]
     },
@@ -6892,7 +6876,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157624995761688/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/5008250508/sizes/o/in/set-72157624995761688/"
         ]
     },
@@ -6928,7 +6912,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157624820275607/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/4985225163/sizes/o/in/set-72157624820275607/"
         ]
     },
@@ -7021,7 +7005,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157624838878074/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/4941218388/sizes/o/in/set-72157624838878074/"
         ]
     },
@@ -7225,7 +7209,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157624685233564/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/4876006593/sizes/o/in/set-72157624685233564/"
         ]
     },
@@ -7261,7 +7245,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157624645090638/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/4857778700/sizes/o/in/set-72157624645090638/"
         ]
     },
@@ -7346,7 +7330,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157624054888543/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/4668640708/sizes/o/in/set-72157624054888543/"
         ]
     },
@@ -7364,7 +7348,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157624000360697/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/4635063458/in/set-72157624000360697/"
         ]
     },
@@ -7401,7 +7385,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157623953251243/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/4617298581/sizes/o/in/set-72157623953251243/"
         ]
     },
@@ -7603,7 +7587,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157623264512639/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/4540435501/in/set-72157623264512639/"
         ]
     },
@@ -8386,7 +8370,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157613220894415/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/3246788524/sizes/o/in/set-72157613220894415/"
         ]
     },
@@ -8456,7 +8440,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157612224469378/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/3175661659/sizes/o/in/set-72157612224469378/"
         ]
     },
@@ -8470,7 +8454,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157612074867669/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/3175648431/sizes/o/in/set-72157612074867669/"
         ]
     },
@@ -8578,11 +8562,8 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157610517132744/"
         ],
-        "tripRpt": [
-            "http://www.flickr.com/photos/matthewhengst/3074681379/sizes/o/in/set-72157610517132744/"
-        ],
         "maps": [
-            "http://www.flickr.com/photos/matthewhengst/3075517254/sizes/o/in/set-72157610517132744/"
+            "http://www.flickr.com/photos/matthewhengst/3074681379/sizes/o/in/set-72157610517132744/"
         ]
     },
     {
@@ -8679,7 +8660,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157607972988206/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/2939796866/sizes/o/in/set-72157607972988206/"
         ]
     },
@@ -8704,7 +8685,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157607798332923/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/2920562902/sizes/o/in/set-72157607798332923/"
         ]
     },
@@ -8744,7 +8725,7 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157607708688161/"
         ],
-        "tripRpt": [
+        "maps": [
             "http://www.flickr.com/photos/matthewhengst/3551669451/sizes/o/in/set-72157607708688161/"
         ]
     },

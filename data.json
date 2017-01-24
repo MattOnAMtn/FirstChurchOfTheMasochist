@@ -19,6 +19,31 @@
                 "url": "http://www.peakbagger.com/peak.aspx?pid=3781",
                 "height": "5,755'"
             }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157679507718395"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/01/2017-mustache-mosey-day-2-teutonia-peak.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/31547380224"
+        ]
+    },
+    {
+        "date": [
+            "01/14/2017"
+        ],
+        "tripType": [
+            "Caving",
+            "Mustache Mosey"
+        ],
+        "tripName": [
+            "Mojave Lava Tubes",
+            "Mustache Mosey 2017 - Mojave Edition"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157677730642121"
         ]
     },
     {
@@ -31,7 +56,7 @@
             "Mustache Mosey"
         ],
         "tripName": [
-            "Kelso & Mojave Lava Tubes",
+            "Kelso Peak",
             "Mustache Mosey 2017 - Mojave Edition"
         ],
         "peaks": [
@@ -40,6 +65,12 @@
                 "url": "http://www.peakbagger.com/peak.aspx?pid=3782",
                 "height": "4,777'"
             }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157675844406483"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/32350729366/in/album-72157675844406483/"
         ]
     },
     {
@@ -158,6 +189,12 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157673279677994"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2016/11/turktacular-2016-capital-reef-day-5.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/30535736263/in/album-72157673279677994/"
         ]
     },
     {
@@ -183,6 +220,13 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157673200737514"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2016/11/turktacular-2016-capital-reef-day-4.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/31307853556/in/album-72157673200737514/",
+            "https://www.flickr.com/photos/matthewhengst/31344149445/in/album-72157673200737514/"
         ]
     },
     {
@@ -215,6 +259,15 @@
                 "url": "http://www.peakbagger.com/peak.aspx?pid=-54816",
                 "height": "6,980’"
             }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157676843565341"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2016/11/turktacular-2016-capital-reef-day-3.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/32493701565/in/dateposted-public/"
         ]
     },
     {
@@ -230,6 +283,12 @@
             "Arrival, Lay of the Land, Cedar Mesa, Red Canyon, Thanksgiving Dinner",
             "Turktacular 2016 Day 2",
             "Capital Reef National Park"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157674652026324"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2016/11/turktacular-2016-capital-reef-day-2.html"
         ]
     },
     {
@@ -254,6 +313,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157676042182962"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2016/11/turktacular-2016-capital-reef-day-1.html"
         ]
     },
     {
@@ -4353,7 +4415,8 @@
             "Wilderness Travel Course"
         ],
         "tripName": [
-            "Bago & RixfordWTC Experience Trip"
+            "Bago & Rixford",
+            "WTC Experience Trip"
         ],
         "peaks": [
             {
@@ -4465,7 +4528,7 @@
             "Wilderness Travel Course"
         ],
         "tripName": [
-            "Stanford (N)",
+            "Mount Stanford (N)",
             "WTC Experience Trip"
         ],
         "peaks": [
@@ -4635,30 +4698,7 @@
                 "anchor": "Excelsior Mountain",
                 "url": "http://www.peakbagger.com/peak.aspx?pid=2599",
                 "height": "12,446'"
-            }
-        ],
-        "pics": [
-            "http://www.flickr.com/photos/matthewhengst/sets/72157630044220962/"
-        ],
-        "tripRpt": [
-            "https://docs.google.com/open?id=0Bxs4R_Khzq1Wb2tNMHpwcFhQOEE"
-        ],
-        "maps": [
-            "http://www.flickr.com/photos/matthewhengst/7335284980/in/set-72157630044220962"
-        ]
-    },
-    {
-        "date": [
-            "06/03/2012"
-        ],
-        "tripType": [
-            "Peakbagging",
-            "Sierra Climbing"
-        ],
-        "tripName": [
-            "Excelsior & Dunderberg"
-        ],
-        "peaks": [
+            },
             {
                 "anchor": "Dunderberg Peak",
                 "url": "http://www.peakbagger.com/peak.aspx?pid=2597",
@@ -4672,7 +4712,7 @@
             "https://docs.google.com/open?id=0Bxs4R_Khzq1Wb2tNMHpwcFhQOEE"
         ],
         "maps": [
-            "http://www.flickr.com/photos/matthewhengst/7335284712/in/set-72157630044220962"
+            "http://www.flickr.com/photos/matthewhengst/7335284980/in/set-72157630044220962"
         ]
     },
     {
@@ -6898,7 +6938,8 @@
             "09/06/2010"
         ],
         "tripType": [
-            "Peakbagging"
+            "Peakbagging",
+            "Out of State"
         ],
         "tripName": [
             "Seven Devils - Revenge of the Coccyx",
@@ -7683,6 +7724,9 @@
             "12/20/2009",
             "12/25/2009"
         ],
+        "tripType": [
+            "Out of State"
+        ],
         "tripName": [
             "Christmas Visit To Poudre Canyon, Colorado"
         ],
@@ -7786,6 +7830,9 @@
         "date": [
             "09/06/2009"
         ],
+        "tripType": [
+            "Out of State"
+        ],
         "tripName": [
             "Shoshone Falls, Ice Cave, and Craters of the Moon National Monument"
         ],
@@ -7796,6 +7843,9 @@
     {
         "date": [
             "09/05/2009"
+        ],
+        "tripType": [
+            "Out of State"
         ],
         "tripName": [
             "Leslie Gulch, Oregon"
@@ -8146,6 +8196,10 @@
         "date": [
             "05/02/2009"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Big Iron"
         ],
@@ -8156,6 +8210,10 @@
     {
         "date": [
             "04/26/2009"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
         ],
         "tripName": [
             "Yeager Mesa Pinos Solo Hike"
@@ -8168,6 +8226,10 @@
         "date": [
             "04/23/2009"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Joplin Sunset Hike With John"
         ],
@@ -8178,6 +8240,10 @@
     {
         "date": [
             "04/20/2009"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
         ],
         "tripName": [
             "Joplin Sunset Solo Hike"
@@ -8190,6 +8256,9 @@
         "date": [
             "04/16/2009"
         ],
+        "tripType": [
+            "Out of State"
+        ],
         "tripName": [
             "Boise Lucky Peak Trail"
         ],
@@ -8200,6 +8269,9 @@
     {
         "date": [
             "04/15/2009"
+        ],
+        "tripType": [
+            "Out of State"
         ],
         "tripName": [
             "Boise 8th Street Trails"
@@ -8212,6 +8284,9 @@
         "date": [
             "04/11/2009",
             "04/12/2009"
+        ],
+        "tripType": [
+            "Local Hiking"
         ],
         "tripName": [
             "Cooper Canyon Pawnee Mine I Provisional Backpack"
@@ -8230,6 +8305,9 @@
         "date": [
             "04/09/2009"
         ],
+        "tripType": [
+            "Out of State"
+        ],
         "tripName": [
             "Table Rock, Boise Idaho"
         ],
@@ -8241,6 +8319,9 @@
         "date": [
             "04/04/2009",
             "04/05/2009"
+        ],
+        "tripType": [
+            "Out of State"
         ],
         "tripName": [
             "Boise Idaho Weekend Bruneau Dunes, Bruneau Canyon Overlook, Shoshone Falls, Leslie Gulch"
@@ -8265,6 +8346,10 @@
         "date": [
             "03/14/2009"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Beauty Peak From The South"
         ],
@@ -8276,6 +8361,10 @@
         "date": [
             "02/01/2009"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Beauty & Iron Backpack Scout"
         ],
@@ -8286,6 +8375,10 @@
     {
         "date": [
             "01/31/2009"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
         ],
         "tripName": [
             "Santiago & Modjeska HPS"
@@ -8302,6 +8395,10 @@
             "01/24/2009",
             "01/25/2009"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Todd Clark's Round Valley I Provisional"
         ],
@@ -8312,6 +8409,9 @@
     {
         "date": [
             "01/17/2009"
+        ],
+        "tripType": [
+            "Local Hiking"
         ],
         "tripName": [
             "Big Bear Weekend With Kim's Friends"
@@ -8324,8 +8424,19 @@
         "date": [
             "01/10/2009"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Sitton Peak Bill Payne's O Provisional"
+        ],
+        "peaks": [
+            {
+                "anchor": "Sitton Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1440",
+                "height": 3273
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157612469511714/"
@@ -8334,6 +8445,10 @@
     {
         "date": [
             "01/14/2009"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
         ],
         "tripName": [
             "Doggett List Lead Finish At Cuyama Lookout"
@@ -8553,8 +8668,13 @@
             "10/10/2008",
             "10/12/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
-            "FrigidWTC Experience Tripto Dry Lake"
+            "Frigid Backpack to Dry Lake",
+            "WTC Experience Trip"
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157607972988206/"
@@ -8567,8 +8687,19 @@
         "date": [
             "10/05/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Cactus To Clouds"
+        ],
+        "peaks": [
+            {
+                "anchor": "San Jacinto Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1480",
+                "height": 10839
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157607798332923/"
@@ -8581,8 +8712,34 @@
         "date": [
             "09/27/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Baldy & 3 Ts With John & Dave"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount San Antonio",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1338",
+                "height": 10064
+            },
+            {
+                "anchor": "Timber Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1354",
+                "height": 8303
+            },
+            {
+                "anchor": "Thunder Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1349",
+                "height": 8587
+            },
+            {
+                "anchor": "Telegraph Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1350",
+                "height": 8985
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157607708688161/"
@@ -8607,8 +8764,13 @@
             "09/15/2008",
             "09/16/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Sierra Climbing"
+        ],
         "tripName": [
-            "Sam Mack Meadow Winchell Trip WTC Experience Trip"
+            "Sam Mack Meadow Winchell Attempt Trip",
+            "WTC Experience Trip"
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157607331591499/"
@@ -8646,8 +8808,39 @@
         "date": [
             "08/23/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "San Bernardino 9 Peak Challenge Momeyer Trail To Dobbs"
+        ],
+        "peaks": [
+            {
+                "anchor": "San Bernardino Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1412",
+                "height": 10649
+            },
+            {
+                "anchor": "San Bernardino East Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1410",
+                "height": 10691
+            },
+            {
+                "anchor": "Shields Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1408",
+                "height": 10680
+            },
+            {
+                "anchor": "Anderson Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1411",
+                "height": 10840
+            },
+            {
+                "anchor": "Charlton Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1413",
+                "height": 10806
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157606939245717/"
@@ -8657,8 +8850,40 @@
         "date": [
             "08/16/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
-            "Lily Rock, Suicide Rock, Castle Rocks, Black Mountain #1, and lastly Indian Mountain via headlamp"
+            "Lily Rock, Suicide Rock, Castle Rocks, Black Mountain #1 ",
+            "And lastly Indian Mountain via headlamp"
+        ],
+        "peaks": [
+            {
+                "anchor": "Lily Rock",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1486",
+                "height": 8000
+            },
+            {
+                "anchor": "Suicide Rock",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1485",
+                "height": 7528
+            },
+            {
+                "anchor": "Castle Rocks",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1477",
+                "height": 8600
+            },
+            {
+                "anchor": "Black Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1478",
+                "height": 7772
+            },
+            {
+                "anchor": "Indian Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1484",
+                "height": 5790
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157606794748899/"
@@ -8682,8 +8907,34 @@
         "date": [
             "08/10/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Baldy & The Three Ts"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount San Antonio",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1338",
+                "height": 10064
+            },
+            {
+                "anchor": "Timber Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1354",
+                "height": 8303
+            },
+            {
+                "anchor": "Thunder Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1349",
+                "height": 8587
+            },
+            {
+                "anchor": "Telegraph Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1350",
+                "height": 8985
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157606681513418/"
@@ -8696,8 +8947,29 @@
         "date": [
             "08/02/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Grinnell Peak, Lake Peak, 10K Ridge HPS"
+        ],
+        "peaks": [
+            {
+                "anchor": "Grinnell Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1409",
+                "height": 10284
+            },
+            {
+                "anchor": "Lake Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1414",
+                "height": 10161
+            },
+            {
+                "anchor": "Ten Thousand Foot Ridge",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1415",
+                "height": 10094
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157606543168037/"
@@ -8707,8 +8979,34 @@
         "date": [
             "08/03/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Onyx Peak, Sugarloaf Mountain, Heart Bar Peak, Constance Peak"
+        ],
+        "peaks": [
+            {
+                "anchor": "Onyx Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1404",
+                "height": 9113
+            },
+            {
+                "anchor": "Heart Bar Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1405",
+                "height": 8332
+            },
+            {
+                "anchor": "Sugarloaf Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1356",
+                "height": 6924
+            },
+            {
+                "anchor": "Constance Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1407",
+                "height": 6645
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157606546448083/"
@@ -8718,8 +9016,34 @@
         "date": [
             "07/28/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Mount Hawkins, Copter Ridge, South Hawkins, & Middle Hawkins HPS"
+        ],
+        "peaks": [
+            {
+                "anchor": "South Mount Hawkins",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1334",
+                "height": 7783
+            },
+            {
+                "anchor": "Copter Ridge",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1329",
+                "height": 7499
+            },
+            {
+                "anchor": "Mount Hawkins",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1322",
+                "height": 8850
+            },
+            {
+                "anchor": "Middle Hawkins",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1325",
+                "height": 8505
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157606425507670/"
@@ -8729,8 +9053,24 @@
         "date": [
             "07/26/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Twin Peak & HPS Waterman Rendezvous"
+        ],
+        "peaks": [
+            {
+                "anchor": "Twin Peaks",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1330",
+                "height": 1241
+            },
+            {
+                "anchor": "Waterman Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1324",
+                "height": 1438
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157606393663245/"
@@ -8740,8 +9080,34 @@
         "date": [
             "07/20/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "San Gorgonio, Jepson, & Dobbs"
+        ],
+        "peaks": [
+            {
+                "anchor": "San Gorgonio Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1417",
+                "height": 11499
+            },
+            {
+                "anchor": "Jepson Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1416",
+                "height": 11205
+            },
+            {
+                "anchor": "Dobbs Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1418",
+                "height": 10459
+            },
+            {
+                "anchor": "Little Dobbs Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=14550",
+                "height": 10520
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157606302099366/"
@@ -8751,8 +9117,24 @@
         "date": [
             "07/19/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Mt Gleason & Hoyt HPS"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount Gleason",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1305",
+                "height": 6520
+            },
+            {
+                "anchor": "Hoyt Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=27009",
+                "height": 4404
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157606299639998/"
@@ -8766,8 +9148,24 @@
             "07/11/2008",
             "07/13/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Kim & Fran 02 Provisional To San Jacinto + Cornell"
+        ],
+        "peaks": [
+            {
+                "anchor": "San Jacinto Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1480",
+                "height": 10839
+            },
+            {
+                "anchor": "Cornell Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1481",
+                "height": 9750
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157606177020649/"
@@ -8776,6 +9174,10 @@
     {
         "date": [
             "07/05/2008"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
         ],
         "tripName": [
             "Tahquitz Peak Fire Lookout In Tower Training"
@@ -8791,8 +9193,19 @@
         "date": [
             "06/29/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "San Jacinto Kim & Fran Scout"
+        ],
+        "peaks": [
+            {
+                "anchor": "San Jacinto Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1480",
+                "height": 10839
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157605975030948/"
@@ -8803,8 +9216,19 @@
             "06/20/2008",
             "06/22/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Cornell Peak Backpack"
+        ],
+        "peaks": [
+            {
+                "anchor": "Cornell Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1481",
+                "height": 9750
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157605763905680/"
@@ -8817,8 +9241,19 @@
         "date": [
             "06/14/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Galena Peak HPS"
+        ],
+        "peaks": [
+            {
+                "anchor": "Galena Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1421",
+                "height": 9324
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157605665356732/"
@@ -8846,8 +9281,34 @@
         "date": [
             "05/26/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Hoyt, Strayberry, Lawlor, & Josephine HPS"
+        ],
+        "peaks": [
+            {
+                "anchor": "Strawberry Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1342",
+                "height": 6164
+            },
+            {
+                "anchor": "Mount Lawlor",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1347",
+                "height": 5957
+            },
+            {
+                "anchor": "Josephine Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1341",
+                "height": 5558
+            },
+            {
+                "anchor": "Hoyt Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=27009",
+                "height": 4404
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157605284199224/"
@@ -8869,8 +9330,39 @@
         "date": [
             "05/03/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "HPS Mount Wilson Peaks"
+        ],
+        "peaks": [
+            {
+                "anchor": "San Gabriel Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1355",
+                "height": 6161
+            },
+            {
+                "anchor": "Mount Markham",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1357",
+                "height": 5742
+            },
+            {
+                "anchor": "Mount Lowe",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1360",
+                "height": 5603
+            },
+            {
+                "anchor": "Mount Disappointment",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1353",
+                "height": 5960
+            },
+            {
+                "anchor": "Mount Deception",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1351",
+                "height": 5796
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157604880677225/"
@@ -8880,8 +9372,34 @@
         "date": [
             "04/27/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Bare Peak, Kratka Ridge"
+        ],
+        "peaks": [
+            {
+                "anchor": "Winston Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1311",
+                "height": 7502
+            },
+            {
+                "anchor": "Winston Ridge",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1308",
+                "height": 7003
+            },
+            {
+                "anchor": "Kratka Ridge",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1319",
+                "height": 7515
+            },
+            {
+                "anchor": "Bare Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1299",
+                "height": 6388
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157604781695209/"
@@ -8891,8 +9409,19 @@
         "date": [
             "03/29/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Mt Lukens HPS"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount Lukens",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1348",
+                "height": 5074
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157604326298177/"
@@ -8902,8 +9431,19 @@
         "date": [
             "03/08/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Sitton Peak"
+        ],
+        "peaks": [
+            {
+                "anchor": "Sitton Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1440",
+                "height": 3273
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157604086955147/"
@@ -8913,8 +9453,19 @@
         "date": [
             "03/05/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Sitton Peak Scout"
+        ],
+        "peaks": [
+            {
+                "anchor": "Sitton Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1440",
+                "height": 3273
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157604082969934/"
@@ -8939,8 +9490,34 @@
         "date": [
             "01/19/2008"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "HPS Little 4"
+        ],
+        "peaks": [
+            {
+                "anchor": "Granite Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1307",
+                "height": 6600
+            },
+            {
+                "anchor": "Iron Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1323",
+                "height": 5040
+            },
+            {
+                "anchor": "Round Top",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1315",
+                "height": 6316
+            },
+            {
+                "anchor": "Rabbit Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1313",
+                "height": 5307
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157603765604836/"
@@ -8964,6 +9541,10 @@
         "date": [
             "12/15/2007"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Los Pinos Via Yeager Mesa"
         ],
@@ -8974,6 +9555,10 @@
     {
         "date": [
             "12/01/2007"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
         ],
         "tripName": [
             "Los Pinos O Provisional in the hail"
@@ -8986,6 +9571,10 @@
         "date": [
             "11/25/2007"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Los Pinos, Alternate O Provisional Scout"
         ],
@@ -8997,6 +9586,10 @@
         "date": [
             "11/16/2007"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Out of State"
+        ],
         "tripName": [
             "Unnamed Peak Across From Grandpas, Poudre Canyon, CO"
         ],
@@ -9007,6 +9600,10 @@
     {
         "date": [
             "11/15/2007"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Out of State"
         ],
         "tripName": [
             "Twin Sisters Peak, Estes Park, Colorado"
@@ -9025,6 +9622,10 @@
     {
         "date": [
             "11/13/2007"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Out of State"
         ],
         "tripName": [
             "Blue Lake Trail, Poudre Canyon, Colorado"
@@ -9048,6 +9649,10 @@
         "date": [
             "10/20/2007"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Baldy from the Ski Hut"
         ],
@@ -9070,15 +9675,23 @@
         "date": [
             "10/07/2007"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Baden-Powell & Ross HPS, helicopter rescue"
         ],
         "peaks": [
             {
-                "anchor": "Mount Baden-Powell"
+                "anchor": "Mount Baden-Powell",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1312",
+                "height": 9399
             },
             {
-                "anchor": "Ross Mountain"
+                "anchor": "Ross Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1328",
+                "height": 7402
             }
         ],
         "pics": [
@@ -9092,12 +9705,18 @@
         "date": [
             "09/30/2007"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Sugarload Mountain Quasi-Fiasco, Big Bear"
         ],
         "peaks": [
             {
-                "anchor": "Sugarloaf Peak"
+                "anchor": "Sugarloaf Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1356",
+                "height": 6924
             }
         ],
         "pics": [
@@ -9111,6 +9730,9 @@
         "date": [
             "09/29/2007"
         ],
+        "tripType": [
+            "Local Hiking"
+        ],
         "tripName": [
             "Limestone Canyon Cardio Hike, Irvine Ranch Reserve"
         ],
@@ -9121,6 +9743,9 @@
     {
         "date": [
             "09/23/2007"
+        ],
+        "tripType": [
+            "Local Hiking"
         ],
         "tripName": [
             "Limestone Canyon Docent Hike, Irvine Ranch Reserve"
@@ -9134,6 +9759,9 @@
             "09/08/2007",
             "09/09/2007"
         ],
+        "tripType": [
+            "Local Hiking"
+        ],
         "tripName": [
             "Palomar Group Camp"
         ],
@@ -9145,6 +9773,9 @@
         "date": [
             "08/20/2007"
         ],
+        "tripType": [
+            "Local Hiking"
+        ],
         "tripName": [
             "Aliso Beach Cliffs"
         ],
@@ -9155,6 +9786,10 @@
     {
         "date": [
             "07/28/2007"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
         ],
         "tripName": [
             "Big Bear & Castle Rock"
@@ -9169,6 +9804,10 @@
     {
         "date": [
             "07/14/2007"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
         ],
         "tripName": [
             "Tahquitz & Red Tahquitz"
@@ -9196,6 +9835,10 @@
         "date": [
             "07/01/2007"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Los Pinos Via Yeager Mesa"
         ],
@@ -9213,6 +9856,10 @@
     {
         "date": [
             "06/30/2007"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
         ],
         "tripName": [
             "Castle Rocks & Black Peak HPS"
@@ -9237,6 +9884,10 @@
         "date": [
             "06/23/2007"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Baldy From Mahnker Flats"
         ],
@@ -9254,6 +9905,10 @@
     {
         "date": [
             "06/16/2007"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
         ],
         "tripName": [
             "Baden Powell Sierra Sage Hike"
@@ -9276,6 +9931,9 @@
         "date": [
             "06/09/2007"
         ],
+        "tripType": [
+            "Local Hiking"
+        ],
         "tripName": [
             "Trabuco Canyon Mine Hike"
         ],
@@ -9290,12 +9948,17 @@
         "date": [
             "05/18/2007"
         ],
+        "tripType": [
+            "Local Hiking"
+        ],
         "tripName": [
             "Palomar Car Camp With Intro Backpacking Course"
         ],
         "peaks": [
             {
-                "anchor": "Boucher Hill"
+                "anchor": "Boucher Hill",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1453",
+                "height": 5438
             }
         ],
         "pics": [
@@ -9329,12 +9992,18 @@
         "date": [
             "12/04/2004"
         ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
         "tripName": [
             "Santiago Completely Unprepared"
         ],
         "peaks": [
             {
-                "anchor": "Santiago Peak"
+                "anchor": "Santiago Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1436",
+                "height": 5687
             }
         ],
         "pics": [

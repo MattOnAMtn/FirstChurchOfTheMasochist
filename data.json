@@ -564,6 +564,9 @@
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157673724800766"
         ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2016/09/peako-baggins-wtc-experience-trip-to.html"
+        ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/29370244940/in/album-72157673724800766/"
         ]
@@ -655,6 +658,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157669748104453"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2016/08/mount-winchell-wtc-experience-trip.html"
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/29700903950/in/dateposted-public/"
@@ -1026,6 +1032,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157669190329935"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2016/05/memorial-day-massacre-2016-durrwood.html"
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/27331753722/in/album-72157669190329935/"
@@ -2081,7 +2090,7 @@
             "Sierra Climbing"
         ],
         "tripName": [
-            "Stanford"
+            "Mount Stanford In A Lot of Rain"
         ],
         "peaks": [
             {
@@ -2562,6 +2571,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157639319753564/"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2013/12/peppersauce-cave-arizona.html"
         ]
     },
     {
@@ -2575,6 +2587,16 @@
         "tripName": [
             "Crystal Cave",
             "New Year 2014 Trip"
+        ],
+        "pics": [
+            "http://www.flickr.com/photos/matthewhengst/sets/72157639330963173/",
+            "http://www.flickr.com/photos/59936585@N05/sets/72157639287775663/"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2013/12/crawling-around-chiricahua-crystal-cave.html"
+        ],
+        "maps": [
+            "http://www.flickr.com/photos/matthewhengst/9678509971/"
         ]
     },
     {
@@ -4214,6 +4236,9 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157631886486781/"
         ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2012/10/north-maggie-moses-from-maggie-lakes.html"
+        ],
         "maps": [
             "http://farm9.staticflickr.com/8473/8139325120_db76c702ec_o.jpg"
         ]
@@ -4862,6 +4887,9 @@
                 "url": "http://www.peakbagger.com/peak.aspx?pid=2886",
                 "height": "7,294'"
             }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157629464068952"
         ],
         "maps": [
             "http://www.flickr.com/photos/matthewhengst/6939183052/sizes/o/in/photostream/"
@@ -7732,6 +7760,32 @@
     },
     {
         "date": [
+            "10/14/2009"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
+        "peaks": [
+            {
+                "anchor": "Palm View Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1493",
+                "height": 7160
+            },
+            {
+                "anchor": "Apache Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1491",
+                "height": 7567
+            },
+            {
+                "anchor": "Spitler Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1492",
+                "height": 7440
+            }
+        ]
+    },
+    {
+        "date": [
             "09/27/2009"
         ],
         "tripName": [
@@ -7755,10 +7809,14 @@
         ],
         "peaks": [
             {
-                "anchor": "Mount Tom"
+                "anchor": "Mount Tom",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2673",
+                "height": 13652
             },
             {
-                "anchor": "Basin Mountain"
+                "anchor": "Basin Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2678",
+                "height": 13181
             }
         ],
         "pics": [
@@ -7782,10 +7840,14 @@
         ],
         "peaks": [
             {
-                "anchor": "Charybdis"
+                "anchor": "Charybdis",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2710",
+                "height": 13096
             },
             {
-                "anchor": "Mount McDuffie"
+                "anchor": "Mount McDuffie",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2711",
+                "height": 13282
             }
         ],
         "pics": [
@@ -7807,7 +7869,9 @@
         ],
         "peaks": [
             {
-                "anchor": "Borah Peak"
+                "anchor": "Borah Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=5142",
+                "height": 12662
             }
         ],
         "pics": [
@@ -7859,10 +7923,14 @@
         ],
         "peaks": [
             {
-                "anchor": "Mount Winchell"
+                "anchor": "Mount Winchell",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2723",
+                "height": 13775
             },
             {
-                "anchor": "Mount Robinson"
+                "anchor": "Mount Robinson",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=16762",
+                "height": 12967
             }
         ],
         "pics": [
@@ -7883,7 +7951,9 @@
         ],
         "peaks": [
             {
-                "anchor": "Half Dome"
+                "anchor": "Half Dome",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2611",
+                "height": 8840
             }
         ],
         "pics": [
@@ -7905,18 +7975,22 @@
         "peaks": [
             {
                 "anchor": "Mount Wynne",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2751",
                 "height": 13179
             },
             {
                 "anchor": "Cardinal Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2740",
                 "height": 13396
             },
             {
                 "anchor": "Striped Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2748",
                 "height": 13179
             },
             {
                 "anchor": "Goodale Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2747",
                 "height": 12730
             }
         ],
@@ -7989,10 +8063,14 @@
         ],
         "peaks": [
             {
-                "anchor": "Mount Lyell"
+                "anchor": "Mount Lyell",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2629",
+                "height": 13114
             },
             {
-                "anchor": "Mount Maclure"
+                "anchor": "Mount Maclure",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2628",
+                "height": 12880
             }
         ],
         "pics": [
@@ -8028,8 +8106,7 @@
                 "anchor": "South Mount Hawkins"
             },
             {
-                "anchor": "Sadie Hawkins",
-                "url": 8047
+                "anchor": "Sadie Hawkins"
             }
         ],
         "pics": [
@@ -8108,6 +8185,13 @@
         "tripName": [
             "Homer's Nose SPS"
         ],
+        "peaks": [
+            {
+                "anchor": "Homers Nose",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2850",
+                "height": 9023
+            }
+        ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157619059478978/"
         ],
@@ -8129,6 +8213,18 @@
         ],
         "tripName": [
             "Coyote & Angora First Official SPS"
+        ],
+        "peaks": [
+            {
+                "anchor": "Coyote Peaks",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=13514",
+                "height": 10892
+            },
+            {
+                "anchor": "Angora Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=13513",
+                "height": 10198
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157618723375727/"
@@ -8194,6 +8290,13 @@
         ],
         "tripName": [
             "Big Iron"
+        ],
+        "peaks": [
+            {
+                "anchor": "Iron Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1339",
+                "height": 8007
+            }
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157617554447739/"
@@ -10149,6 +10252,37 @@
     },
     {
         "date": [
+            "01/29/2017"
+        ],
+        "tripType": [
+            "Wilderness Travel Course",
+            "Peakbagging",
+            "Local Hiking",
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Conditioning Hike To Mount Wilson",
+            "WTC 2017",
+            "WTC Classroom Shots at Calvary Church",
+            "WTC 2017"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount Wilson",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1363",
+                "height": "5,713'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157679669195966",
+            "https://www.flickr.com/photos/matthewhengst/albums/72157675509482624"
+        ],
+        "maps": [
+            "http://caltopo.com/m/48C1"
+        ]
+    },
+    {
+        "date": [
             "10/22/2016"
         ],
         "tripType": [
@@ -10277,7 +10411,7 @@
             "Wilderness Travel Course"
         ],
         "tripName": [
-            "Snow Camp At Rock Creek",
+            "Snow Camp At Rock Creek Almost Without Snow",
             "WTC 2015"
         ],
         "pics": [

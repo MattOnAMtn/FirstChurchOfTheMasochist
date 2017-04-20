@@ -2,6 +2,141 @@
 "data": [
     {
         "date": [
+            "04/15/2017",
+            "04/16/2017"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Desert Climbing",
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Panamint City Via Suprise Canyon Featuring Naked Jews & Wild Asses",
+            "Gracia's I Provisional",
+            "WTC Experience Trip"
+        ],
+        "peaks": [
+            {
+                "anchor": "Sentinel Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=3663",
+                "height": "9,634'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157682738661235"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/33951131552/in/album-72157682738661235/"
+        ]
+    },
+    {
+        "date": [
+            "04/08/2017",
+            "04/09/2017"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking",
+            "Hot Springs"
+        ],
+        "tripName": [
+            "Sespe & Willet Hot Springs"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157682342487196"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/04/sespe-willett-hot-springs.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/33828395551/in/album-72157682342487196/"
+        ]
+    },
+    {
+        "date": [
+            "04/01/2017",
+            "04/02/2017"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Sierra Climbing"
+        ],
+        "tripName": [
+            "Mount Silliman in the Snow"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount Silliman",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=13521",
+                "height": "11,188'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157680172129751"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/33436390110/in/album-72157680172129751/"
+        ]
+    },
+    {
+        "date": [
+            "03/24/2017",
+            "03/26/2017"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Desert Climbing",
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Cottonwood Marble Canyon Loop With Canyon Point",
+            "Dave's I Provisional",
+            "WTC Experience Trip"
+        ],
+        "peaks": [
+            {
+                "anchor": "Canyon Point",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=13404",
+                "height": "5,890'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157678485733574"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/03/cottonwood-marble-canyon-loop-backpack.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/32862869263",
+            "https://caltopo.com/m/LJ8P"
+        ]
+    },
+    {
+        "date": [
+            "03/20/2017"
+        ],
+        "tripType": [
+            "Local Hiking"
+        ],
+        "tripName": [
+            "Rattlesnake Peak"
+        ],
+        "peaks": [
+            {
+                "anchor": "Rattlesnake Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1346",
+                "height": "5,826'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157681651257135"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/33571417636/in/album-72157681651257135/"
+        ]
+    },
+    {
+        "date": [
             "01/15/2017"
         ],
         "tripType": [
@@ -5984,7 +6119,7 @@
             "http://www.flickr.com/photos/matthewhengst/sets/72157626960412738/"
         ],
         "tripRpt": [
-            "https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0Bxs4R_Khzq1WM2I1MDI5Y2QtNDE5Yy00MDk3LWFiZGItMTk1ZDBlYjMwYTBk&hl=en_US"
+            "http://www.firstchurchofthemasochist.com/2011/06/horseshoe-meadow-to-sage-flats-traverse.html"
         ],
         "maps": [
             "http://www.flickr.com/photos/matthewhengst/5831357486/sizes/o/in/set-72157626960412738/"
@@ -10252,6 +10387,101 @@
     },
     {
         "date": [
+            "04/18/2017"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Kaweah Cotton Party",
+            "WTC 2017"
+        ]
+    },
+    {
+        "date": [
+            "04/05/2017"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Kaweah Multi Year Margarita Mashup @ Avilas",
+            "WTC 2017, WTC 2016, WTC 2015, WTC 2014, WTC 2013, WTC 2012"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157680531861450"
+        ]
+    },
+    {
+        "date": [
+            "03/10/2017",
+            "03/12/2017"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Camp At Rock Creek",
+            "WTC 2017"
+        ]
+    },
+    {
+        "date": [
+            "02/26/2017"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Travel Day Mount Waterman",
+            "WTC 2017"
+        ]
+    },
+    {
+        "date": [
+            "02/11/2017",
+            "02/12/2017"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Joshua Tree Weekend",
+            "WTC 2017"
+        ]
+    },
+    {
+        "date": [
+            "02/04/2017"
+        ],
+        "tripType": [
+            "Wilderness Travel Course",
+            "Peakbagging",
+            "Local Hiking"
+        ],
+        "tripName": [
+            "Mount Wilson via Chantry Flats with Long Beach Group 2",
+            "WTC 2017"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount Wilson",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1363",
+                "height": "5,713'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157680002937805"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/02/mount-wilson-loop-from-chantry-flats-lb.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/32806813145/"
+        ]
+    },
+    {
+        "date": [
             "01/29/2017"
         ],
         "tripType": [
@@ -10276,6 +10506,9 @@
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157679669195966",
             "https://www.flickr.com/photos/matthewhengst/albums/72157675509482624"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/01/wilderness-travel-course-2017.html"
         ],
         "maps": [
             "http://caltopo.com/m/48C1"

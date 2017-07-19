@@ -2,6 +2,38 @@
 "data": [
     {
         "date": [
+            "07/15/2017",
+            "07/16/2017"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Sierra Climbing",
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Stanford North Attempt With Too Much Snow",
+            "WTC Experience Trip"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount Stanford (Attempt)",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2652",
+                "height": "12,838'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157684165944650"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/07/stanford-north-wtc-experience-trip.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/35966815596/in/dateposted-public/",
+            "https://caltopo.com/m/A11G"
+        ]
+    },
+    {
+        "date": [
             "07/04/2017"
         ],
         "tripType": [
@@ -111,6 +143,16 @@
                 "url": "http://www.peakbagger.com/peak.aspx?pid=1136",
                 "height": "5,700'"
             }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157683106990344"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/06/canyon-creek-trail-trinity-alps.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/34891719434/in/album-72157683106990344/",
+            "https://caltopo.com/m/1KE5"
         ]
     },
     {
@@ -133,6 +175,16 @@
                 "url": "http://www.peakbagger.com/peak.aspx?pid=70205",
                 "height": "8,552'"
             }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157685538894225"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/06/hockett-peak-wtc-experience-trip.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/34769464363/in/album-72157685538894225/",
+            "https://caltopo.com/m/SD9D"
         ]
     },
     {

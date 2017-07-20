@@ -301,6 +301,18 @@
         "tripName": [
             "Crag Peaks (SPS & USGS) From Kennedy Meadows Campground PCT"
         ],
+        "peaks": [
+            {
+                "anchor": "Crag Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=13511",
+                "height": "9,480'"
+            },
+            {
+                "anchor": "Crag USGS",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=-60871",
+                "height": "9,440'"
+            }
+        ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157680805666193"
         ],

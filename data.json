@@ -2,6 +2,43 @@
 "data": [
     {
         "date": [
+            "07/22/2017",
+            "07/23/2017"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Sierra Climbing",
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Mount Warren Via Lake Canyon And Lake Oneida",
+            "WTC Experience Trip"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount Warren",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=16290",
+                "height": "12,327'"
+            },
+            {
+                "anchor": "Warren Fin",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=65959",
+                "height": "12,160'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157684165664571"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/07/mount-warren-via-lake-canyon-and-lake.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/36127279556/in/dateposted-public/",
+            "https://caltopo.com/m/E1U1"
+        ]
+    },
+    {
+        "date": [
             "07/15/2017",
             "07/16/2017"
         ],

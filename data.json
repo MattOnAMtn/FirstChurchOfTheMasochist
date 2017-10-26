@@ -3434,10 +3434,17 @@
             "Desert Climbing"
         ],
         "tripName": [
-            "Leviathan Cave"
+            "Leviathan Cave",
+            "Worthington Mountains"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157638744735066/"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2013/12/a-snowy-visit-to-leviathan-cave-in.html"
+        ],
+        "maps": [
+            "https://caltopo.com/m/1112"
         ]
     },
     {
@@ -10938,6 +10945,60 @@
     },
     {
         "date": [
+            "10/28/2017",
+            "10/29/2017"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP16 Fall 2017 Joshua Tree"
+        ]
+    },
+    {
+        "date": [
+            "10/21/2017"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP16 Fall 2017 Rappel Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157689713606896"
+        ]
+    },
+    {
+        "date": [
+            "10/14/2017"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP16 Fall 2017 Belay Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157687915741734"
+        ]
+    },
+    {
+        "date": [
+            "10/11/2017"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP16 Fall 2017 Knot & Harness Night"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157687915164384"
+        ]
+    },
+    {
+        "date": [
             "05/06/2017",
             "05/07/2017"
         ],
@@ -10945,7 +11006,10 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP15 Joshua Tree"
+            "AMP15 Spring 2017 Joshua Tree"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157681503631601"
         ]
     },
     {
@@ -10956,7 +11020,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP15 Rappel Day"
+            "AMP15 Spring 2017 Rappel Day"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157681456709320"
@@ -10970,7 +11034,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP15 Belay Day"
+            "AMP15 Spring 2017 Belay Day"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157681134695100"
@@ -10984,7 +11048,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP15 Knot & Harness Night"
+            "AMP15 Spring 2017 Knot & Harness Night"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157679701732064"
@@ -10999,7 +11063,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP14 Joshua Tree"
+            "AMP14 Fall 2016 Joshua Tree"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157675693981766/"
@@ -11013,7 +11077,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP14 Rappel Day"
+            "AMP14 Fall 2016 Rappel Day"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157671829964453/"
@@ -11027,7 +11091,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP14 Belay Day"
+            "AMP14 Fall 2016 Belay Day"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157671552217374/"
@@ -11041,7 +11105,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP14 Knots & Harness Night"
+            "AMP14 Fall 2016 Knots & Harness Night"
         ]
     },
     {
@@ -11053,7 +11117,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP13 Joshua Tree"
+            "AMP13 Spring 2016 Joshua Tree"
         ]
     },
     {
@@ -11064,7 +11128,10 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP13 Rappel Day"
+            "AMP13 Spring 2016 Rappel Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157667479803512"
         ]
     },
     {
@@ -11075,10 +11142,10 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP13 Belay Day"
+            "AMP13 Spring 2016 Belay Day"
         ],
         "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157667178600641/"
+            "https://www.flickr.com/photos/matthewhengst/albums/72157667178600641"
         ]
     },
     {
@@ -11089,7 +11156,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP13 Knots & Harness Night"
+            "AMP13 Spring 2016 Knots & Harness Night"
         ]
     },
     {
@@ -11101,7 +11168,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP12 Joshua Tree"
+            "AMP12 Fall 2015 Joshua Tree"
         ]
     },
     {
@@ -11112,7 +11179,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP12 Rappel Day"
+            "AMP12 Fall 2015 Rappel Day"
         ]
     },
     {
@@ -11123,7 +11190,10 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP12 Belay Day"
+            "AMP12 Fall 2015 Belay Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157662590250214"
         ]
     },
     {
@@ -11134,7 +11204,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP12 Knots & Harness Night"
+            "AMP12 Fall 2015 Knots & Harness Night"
         ]
     },
     {
@@ -11146,7 +11216,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP11 Joshua Tree"
+            "AMP11 Spring 2015 Joshua Tree"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157652249424030/"
@@ -11160,7 +11230,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP11 Rappel Day"
+            "AMP11 Spring 2015 Rappel Day"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157651878783407/"
@@ -11174,7 +11244,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP11 Belay Day"
+            "AMP11 Spring 2015 Belay Day"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157652188574962/"
@@ -11188,7 +11258,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP11 Knots & Harness Night"
+            "AMP11 Spring 2015 Knots & Harness Night"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157651714013479/"
@@ -11203,7 +11273,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP10 Joshua Tree"
+            "AMP10 Fall 2014 Joshua Tree"
         ]
     },
     {
@@ -11214,7 +11284,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP10 Rappel Day"
+            "AMP10 Fall 2014 Rappel Day"
         ]
     },
     {
@@ -11225,7 +11295,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP10 Belay Day"
+            "AMP10 Fall 2014 Belay Day"
         ]
     },
     {
@@ -11236,7 +11306,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP10 Knots & Harness Night"
+            "AMP10 Fall 2014 Knots & Harness Night"
         ]
     },
     {
@@ -11248,7 +11318,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP9 Joshua Tree"
+            "AMP9 Spring 2014 Joshua Tree"
         ]
     },
     {
@@ -11259,7 +11329,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP9 Rappel Day"
+            "AMP9 Spring 2014 Rappel Day"
         ]
     },
     {
@@ -11270,7 +11340,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP9 Belay Day"
+            "AMP9 Spring 2014 Belay Day"
         ]
     },
     {
@@ -11281,7 +11351,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP9 Knots & Harness Night"
+            "AMP9 Spring 2014 Knots & Harness Night"
         ]
     },
     {
@@ -11293,7 +11363,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP8 Joshua Tree"
+            "AMP8 Fall 2013 Joshua Tree"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157636950380065/"
@@ -11307,7 +11377,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP8 Rappel Day"
+            "AMP8 Fall 2013 Rappel Day"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157636587498636/"
@@ -11321,7 +11391,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP8 Belay Day"
+            "AMP8 Fall 2013 Belay Day"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157636295768666/"
@@ -11335,7 +11405,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP8 Knots & Harness Night"
+            "AMP8 Fall 2013 Knots & Harness Night"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157636295494975/"
@@ -11350,7 +11420,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP7 Joshua Tree"
+            "AMP7 Spring 2013 Joshua Tree"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157633473573565/"
@@ -11364,7 +11434,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP7 Rappel Day"
+            "AMP7 Spring 2013 Rappel Day"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157633434527410/"
@@ -11378,7 +11448,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP7 Belay Day"
+            "AMP7 Spring 2013 Belay Day"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157633365656931/"
@@ -11392,7 +11462,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP7 Knots & Harness Night"
+            "AMP7 Spring 2013 Knots & Harness Night"
         ]
     },
     {
@@ -11475,7 +11545,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP6 Joshua Tree"
+            "AMP6 Fall 2012 Joshua Tree"
         ]
     },
     {
@@ -11486,7 +11556,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP6 Rappel Day"
+            "AMP6 Fall 2012 Rappel Day"
         ]
     },
     {
@@ -11497,7 +11567,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP6 Belay Day"
+            "AMP6 Fall 2012 Belay Day"
         ]
     },
     {
@@ -11508,7 +11578,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP6 Knots & Harness Night"
+            "AMP6 Fall 2012 Knots & Harness Night"
         ]
     },
     {
@@ -11520,7 +11590,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP5 Joshua Tree"
+            "AMP5 Spring 2012 Joshua Tree"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157629620457870/"
@@ -11534,7 +11604,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP5 Rappel Day"
+            "AMP5 Spring 2012 Rappel Day"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157629921659339/"
@@ -11548,7 +11618,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP5 Belay Day"
+            "AMP5 Spring 2012 Belay Day"
         ]
     },
     {
@@ -11559,7 +11629,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP5 Knots & Harness Night"
+            "AMP5 Spring 2012 Knots & Harness Night"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157629513528108/"
@@ -11574,7 +11644,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP4 Joshua Tree"
+            "AMP4 Fall 2011 Joshua Tree"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157627794321049/"
@@ -11588,7 +11658,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP4 Rappel Day"
+            "AMP4 Fall 2011 Rappel Day"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157627746548389/"
@@ -11602,7 +11672,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP4 Belay Day"
+            "AMP4 Fall 2011 Belay Day"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157627816211702/"
@@ -11616,7 +11686,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP4 Knots & Harness Night"
+            "AMP4 Fall 2011 Knots & Harness Night"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157627654210757/"
@@ -11631,7 +11701,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP3 Joshua Tree"
+            "AMP3 Spring 2011 Joshua Tree"
         ]
     },
     {
@@ -11642,7 +11712,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP3 Rappel Day"
+            "AMP3 Spring 2011 Rappel Day"
         ]
     },
     {
@@ -11653,7 +11723,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP3 Belay Day"
+            "AMP3 Spring 2011 Belay Day"
         ]
     },
     {
@@ -11664,7 +11734,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP3 Knots & Harness Night"
+            "AMP3 Spring 2011 Knots & Harness Night"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157626453397907/"
@@ -11679,7 +11749,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP2 Joshua Tree"
+            "AMP2 Fall 2010 Joshua Tree"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157625194646698/"
@@ -11693,7 +11763,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP2 Rappel Day"
+            "AMP2 Fall 2010 Rappel Day"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157625138511894/"
@@ -11707,7 +11777,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP2 Belay Day"
+            "AMP2 Fall 2010 Belay Day"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157624957825519/"
@@ -11721,7 +11791,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP2 Knots & Harness Night"
+            "AMP2 Fall 2010 Knots & Harness Night"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157624951023535/"
@@ -11736,7 +11806,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP1 Joshua Tree"
+            "AMP1 Fall 2009 Joshua Tree"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157622490649403/"
@@ -11750,7 +11820,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP1 Rappel Day"
+            "AMP1 Fall 2009 Rappel Day"
         ]
     },
     {
@@ -11761,7 +11831,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP1 Belay Day"
+            "AMP1 Fall 2009 Belay Day"
         ]
     },
     {
@@ -11772,7 +11842,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP1 Knots & Harness Night"
+            "AMP1 Fall 2009 Knots & Harness Night"
         ]
     },
     {

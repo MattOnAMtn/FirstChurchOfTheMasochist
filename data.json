@@ -93,6 +93,9 @@
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157686562476324"
         ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/09/mount-baldwin-via-convict-canyon-to.html"
+        ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/37017775622/in/album-72157686562476324/",
             "https://caltopo.com/m/MRE4"
@@ -199,6 +202,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157687802394666"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/08/hengst-white-chief-mineral-king-wtc.html"
         ]
     },
     {
@@ -224,6 +230,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157685119301064"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/08/red-slate-mountain-wtc-experience-trip.html"
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/36475341571/in/album-72157685119301064/",
@@ -822,6 +831,23 @@
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/33571417636/in/album-72157681651257135/"
+        ]
+    },
+    {
+        "date": [
+            "02/25/2017"
+        ],
+        "tripType": [
+            "Local Hiking"
+        ],
+        "tripName": [
+            "Black Star Canyon Falls"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157677272010594"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/33002920732/in/album-72157677272010594/"
         ]
     },
     {
@@ -10945,6 +10971,21 @@
     },
     {
         "date": [
+            "11/11/2017",
+            "11/12/2017"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "LTC / AMP Rock Checkoff"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157687326543352"
+        ]
+    },
+    {
+        "date": [
             "10/28/2017",
             "10/29/2017"
         ],
@@ -10953,6 +10994,9 @@
         ],
         "tripName": [
             "AMP16 Fall 2017 Joshua Tree"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157690617377876"
         ]
     },
     {
@@ -10995,6 +11039,21 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157687915164384"
+        ]
+    },
+    {
+        "date": [
+            "05/20/2017",
+            "05/21/2017"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "LTC / AMP Rock Checkoff"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157684050669066"
         ]
     },
     {

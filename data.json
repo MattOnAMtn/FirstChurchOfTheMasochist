@@ -3447,8 +3447,21 @@
             "Finger Rock",
             "New Year 2014 Trip"
         ],
+        "peaks": [
+            {
+                "anchor": "Finger Rock",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=20307",
+                "height": "6,475'"
+            }
+        ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157639320695503/"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2013/12/finger-rock-north-of-tucson.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/24168407162/in/album-72157639320695503/"
         ]
     },
     {
@@ -3463,8 +3476,21 @@
             "Elephant Head",
             "New Year 2014 Trip"
         ],
+        "peaks": [
+            {
+                "anchor": "Elephant Head",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=34079",
+                "height": "5,641'"
+            }
+        ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157639331102754/"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2013/12/elephant-head-santa-rita-mountains-west.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/24282407805/in/album-72157639331102754/"
         ]
     },
     {
@@ -5629,7 +5655,10 @@
             "Boron Federal Prison Camp"
         ],
         "pics": [
-            "http://www.flickr.com/photos/matthewhengst/sets/72157630044234810/"
+            "https://www.flickr.com/photos/matthewhengst/sets/72157630044234810/"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2012/06/exploring-abandoned-boron-federal.html"
         ]
     },
     {

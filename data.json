@@ -44,6 +44,13 @@
         "tripName": [
             "Fiftymile Mountain Escalante",
             "Turktacular 2017"
+        ],
+        "peaks": [
+            {
+                "anchor": "Fiftymile Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=18403",
+                "height": 7641
+            }
         ]
     },
     {

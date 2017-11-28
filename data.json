@@ -2,6 +2,85 @@
 "data": [
     {
         "date": [
+            "11/27/2017"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Turktacular 2017"
+        ],
+        "tripName": [
+            "White Pocket Scramble & High Point",
+            "Turktacular 2017"
+        ],
+        "peaks": [
+            {
+                "anchor": "White Pocket",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=19610",
+                "height": "6,128'"
+            }
+        ]
+    },
+    {
+        "date": [
+            "11/26/2017"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Turktacular 2017"
+        ],
+        "tripName": [
+            "Red Breaks Slot Canyon From Harris Wash",
+            "Turktacular 2017"
+        ]
+    },
+    {
+        "date": [
+            "11/25/2017"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Turktacular 2017"
+        ],
+        "tripName": [
+            "Fiftymile Mountain Escalante",
+            "Turktacular 2017"
+        ]
+    },
+    {
+        "date": [
+            "11/24/2017"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Turktacular 2017"
+        ],
+        "tripName": [
+            "Bryce NP and Zebra Slot Canyon Escalante",
+            "Turktacular 2017"
+        ]
+    },
+    {
+        "date": [
+            "11/23/2017"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Turktacular 2017"
+        ],
+        "tripName": [
+            "Canaan Mountain Utah Water Canyon To Squirrel Canyon Loop",
+            "Turktacular 2017"
+        ],
+        "peaks": [
+            {
+                "anchor": "Canaan Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=34396",
+                "height": "7,363'"
+            }
+        ]
+    },
+    {
+        "date": [
             "11/19/2017"
         ],
         "tripType": [

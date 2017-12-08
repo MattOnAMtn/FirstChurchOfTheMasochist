@@ -2,6 +2,77 @@
 "data": [
     {
         "date": [
+            "12/04/2017"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Desert Climbing"
+        ],
+        "tripName": [
+            "Jubilee Mountain, Ibex Peak, & American Mine",
+            "Death Valley"
+        ],
+        "peaks": [
+            {
+                "anchor": "Jubilee Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=3681",
+                "height": "2,526'"
+            },
+            {
+                "anchor": "Ibex Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=21548",
+                "height": "4,751'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157688041320882"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/12/jubilee-mountain-ibex-peak-american.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/24987509678",
+            "https://www.flickr.com/photos/matthewhengst/38859494571",
+            "https://caltopo.com/m/9NJ7"
+        ]
+    },
+    {
+        "date": [
+            "12/03/2017"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Desert Climbing"
+        ],
+        "tripName": [
+            "Ashford Peak, Desert Hound Peak, & Ashford Mine",
+            "Death Valley"
+        ],
+        "peaks": [
+            {
+                "anchor": "Ashford Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=36853",
+                "height": "3,547'"
+            },
+            {
+                "anchor": "Desert Hound Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=36852",
+                "height": "4,472'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157690523702625"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/12/ashford-peak-desert-hound-peak-ashford.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/23994026117/in/dateposted-public/",
+            "https://caltopo.com/m/JQ5B"
+        ]
+    },
+    {
+        "date": [
             "11/27/2017"
         ],
         "tripType": [
@@ -18,6 +89,9 @@
                 "url": "http://www.peakbagger.com/peak.aspx?pid=19610",
                 "height": "6,128'"
             }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157687945033452"
         ]
     },
     {
@@ -31,6 +105,9 @@
         "tripName": [
             "Red Breaks Slot Canyon From Harris Wash",
             "Turktacular 2017"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157663213534638"
         ]
     },
     {
@@ -51,6 +128,9 @@
                 "url": "http://www.peakbagger.com/peak.aspx?pid=18403",
                 "height": 7641
             }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157690376321175"
         ]
     },
     {
@@ -62,8 +142,11 @@
             "Turktacular 2017"
         ],
         "tripName": [
-            "Bryce NP and Zebra Slot Canyon Escalante",
+            "Zebra Slot Canyon Escalante and Bryce NP",
             "Turktacular 2017"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157666918282229"
         ]
     },
     {
@@ -84,6 +167,13 @@
                 "url": "http://www.peakbagger.com/peak.aspx?pid=34396",
                 "height": "7,363'"
             }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157690235942005"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/38674529462/in/album-72157690235942005/",
+            "https://caltopo.com/m/NMV7"
         ]
     },
     {

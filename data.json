@@ -92,6 +92,13 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157687945033452"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/11/white-pocket-arizona-rocks-high-point.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/24017338147/in/dateposted-public/",
+            "https://caltopo.com/m/2PT7"
         ]
     },
     {
@@ -103,16 +110,45 @@
             "Turktacular 2017"
         ],
         "tripName": [
-            "Red Breaks Slot Canyon From Harris Wash",
+            "Smokey Mountain Road & Underground Coal Fires",
             "Turktacular 2017"
         ],
         "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157663213534638"
+            "https://www.flickr.com/photos/matthewhengst/albums/72157667222653569"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/11/smokey-mountain-road-underground-coal.html"
+        ],
+        "maps": [
+            "https://caltopo.com/m/VL6K"
         ]
     },
     {
         "date": [
             "11/25/2017"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Turktacular 2017"
+        ],
+        "tripName": [
+            "Red Breaks Slot Canyon From Harris Wash",
+            "Turktacular 2017"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157663213534638"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/11/red-breaks-slot-canyons-escalante-utah.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/38939875351",
+            "https://caltopo.com/m/L3VM"
+        ]
+    },
+    {
+        "date": [
+            "11/24/2017"
         ],
         "tripType": [
             "Peakbagging",
@@ -131,11 +167,18 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157690376321175"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/11/fiftymile-mountain-escalante-utah-high.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/38939690461",
+            "https://caltopo.com/m/QJB7"
         ]
     },
     {
         "date": [
-            "11/24/2017"
+            "11/23/2017"
         ],
         "tripType": [
             "Peakbagging",
@@ -147,11 +190,18 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157666918282229"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/11/zebra-slot-canyon-escalante-utah-plus.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/26958574109/in/album-72157666918282229/",
+            "https://caltopo.com/m/7PDC"
         ]
     },
     {
         "date": [
-            "11/23/2017"
+            "11/22/2017"
         ],
         "tripType": [
             "Peakbagging",
@@ -170,6 +220,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157690235942005"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/11/canaan-mountain-utah-via-water-canyon.html"
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/38674529462/in/album-72157690235942005/",
@@ -1269,7 +1322,7 @@
         ],
         "tripName": [
             "Elsies Nipple, Meadow Hot Springs & The Long Drive Home",
-            "Turktacular 2016 Day 5",
+            "Turktacular 2016",
             "Capital Reef National Park"
         ],
         "peaks": [
@@ -1300,7 +1353,7 @@
         ],
         "tripName": [
             "Ferns Nipple From Grand Wash",
-            "Turktacular 2016 Day 4",
+            "Turktacular 2016",
             "Capital Reef National Park"
         ],
         "peaks": [
@@ -1332,7 +1385,7 @@
         ],
         "tripName": [
             "Studhorse Peak #1, 2, & 3, Burr Gap to Boulder & Highway 12",
-            "Turktacular 2016 Day 3",
+            "Turktacular 2016",
             "Capital Reef National Park"
         ],
         "peaks": [
@@ -1373,7 +1426,7 @@
         ],
         "tripName": [
             "Arrival, Lay of the Land, Cedar Mesa, Red Canyon, Thanksgiving Dinner",
-            "Turktacular 2016 Day 2",
+            "Turktacular 2016",
             "Capital Reef National Park"
         ],
         "pics": [
@@ -1394,7 +1447,7 @@
         ],
         "tripName": [
             "Prelude On Mount Stirling in the Las Vegas Spring Mountains DPS",
-            "Turktacular 2016 Day 1"
+            "Turktacular 2016"
         ],
         "peaks": [
             {
@@ -5113,7 +5166,8 @@
             "Turktacular"
         ],
         "tripName": [
-            "TurktacularVirgin Peak DPS"
+            "Virgin Peak DPS",
+            "Turktacular 2012"
         ],
         "peaks": [
             {
@@ -5142,7 +5196,8 @@
             "Turktacular"
         ],
         "tripName": [
-            "TurktacularValley of Fire Peak"
+            "Valley of Fire Peak",
+            "Turktacular 2012"
         ],
         "peaks": [
             {
@@ -5171,7 +5226,8 @@
             "Turktacular"
         ],
         "tripName": [
-            "TurktacularValley of Fire White Dome & Gibraltar"
+            "Valley of Fire White Dome & Gibraltar",
+            "Turktacular 2012"
         ],
         "peaks": [
             {
@@ -6475,7 +6531,8 @@
             "Turktacular"
         ],
         "tripName": [
-            "Matt & Anne's Thanksgiving Zion & Bryce Turktacular"
+            "Matt & Anne's Thanksgiving Zion & Bryce Turktacular",
+            "Turktacular 2011"
         ],
         "peaks": [
             {
@@ -7867,7 +7924,8 @@
             "Turktacular"
         ],
         "tripName": [
-            "Thanksgiving Weekend Peak Bagging, Rock Climbing, and ER Visiting"
+            "Thanksgiving Weekend Peak Bagging, Rock Climbing, and ER Visiting",
+            "Turktacular 2010"
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157625344797311/",

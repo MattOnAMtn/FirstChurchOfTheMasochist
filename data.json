@@ -291,6 +291,93 @@
     },
     {
         "date": [
+            "11/11/2017",
+            "11/12/2017"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "LTC / AMP Rock Checkoff"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157687326543352"
+        ]
+    },
+    {
+        "date": [
+            "10/28/2017",
+            "10/29/2017"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP16 Fall 2017 Joshua Tree"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157690617377876"
+        ]
+    },
+    {
+        "date": [
+            "10/22/2017",
+            "10/23/2016"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP14 Fall 2016 Joshua Tree"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157675693981766/"
+        ]
+    },
+    {
+        "date": [
+            "10/21/2017"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP16 Fall 2017 Rappel Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157689713606896"
+        ]
+    },
+    {
+        "date": [
+            "10/14/2017"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP16 Fall 2017 Belay Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157687915741734"
+        ]
+    },
+    {
+        "date": [
+            "10/11/2017"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP16 Fall 2017 Knot & Harness Night"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157687915164384"
+        ]
+    },
+    {
+        "date": [
             "09/22/2017",
             "09/24/2017"
         ],
@@ -451,6 +538,23 @@
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/36090582843/in/dateposted-public/",
             "https://caltopo.com/m/270D"
+        ]
+    },
+    {
+        "date": [
+            "08/24/2017"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157688064455525"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/08/newport-harbor-pizza-paddle-august-2017.html"
         ]
     },
     {
@@ -626,6 +730,23 @@
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/36127279556/in/dateposted-public/",
             "https://caltopo.com/m/E1U1"
+        ]
+    },
+    {
+        "date": [
+            "07/20/2017"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157683290643882"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/07/newport-harbor-pizza-paddle-july-2017.html"
         ]
     },
     {
@@ -919,6 +1040,38 @@
     },
     {
         "date": [
+            "05/20/2017",
+            "05/21/2017"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "LTC / AMP Rock Checkoff"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157684050669066"
+        ]
+    },
+    {
+        "date": [
+            "05/18/2017"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157683922907656"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/05/newport-harbor-pizza-paddle-may-2017.html"
+        ]
+    },
+    {
+        "date": [
             "05/13/2017",
             "05/14/2017"
         ],
@@ -954,6 +1107,21 @@
     },
     {
         "date": [
+            "05/06/2017",
+            "05/07/2017"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP15 Spring 2017 Joshua Tree"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157681503631601"
+        ]
+    },
+    {
+        "date": [
             "04/30/2017"
         ],
         "tripType": [
@@ -980,6 +1148,77 @@
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/34274567321/in/album-72157680062678254/"
+        ]
+    },
+    {
+        "date": [
+            "04/29/2017"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP15 Spring 2017 Rappel Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157681456709320"
+        ]
+    },
+    {
+        "date": [
+            "04/27/2017"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157682042435050"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/04/newport-harbor-pizza-paddle-april-2017.html"
+        ]
+    },
+    {
+        "date": [
+            "04/22/2017"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP15 Spring 2017 Belay Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157681134695100"
+        ]
+    },
+    {
+        "date": [
+            "04/19/2017"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP15 Spring 2017 Knot & Harness Night"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157679701732064"
+        ]
+    },
+    {
+        "date": [
+            "04/18/2017"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Kaweah Cotton Party",
+            "WTC 2017"
         ]
     },
     {
@@ -1034,6 +1273,21 @@
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/33828395551/in/album-72157682342487196/"
+        ]
+    },
+    {
+        "date": [
+            "04/05/2017"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Kaweah Multi Year Margarita Mashup @ Avilas",
+            "WTC 2017, WTC 2016, WTC 2015, WTC 2014, WTC 2013, WTC 2012"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157680531861450"
         ]
     },
     {
@@ -1124,6 +1378,31 @@
     },
     {
         "date": [
+            "03/10/2017",
+            "03/12/2017"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Camp At Rock Creek",
+            "WTC 2017"
+        ]
+    },
+    {
+        "date": [
+            "02/26/2017"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Travel Day Mount Waterman",
+            "WTC 2017"
+        ]
+    },
+    {
+        "date": [
             "02/25/2017"
         ],
         "tripType": [
@@ -1137,6 +1416,83 @@
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/33002920732/in/album-72157677272010594/"
+        ]
+    },
+    {
+        "date": [
+            "02/11/2017",
+            "02/12/2017"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Joshua Tree Weekend",
+            "WTC 2017"
+        ]
+    },
+    {
+        "date": [
+            "02/04/2017"
+        ],
+        "tripType": [
+            "Wilderness Travel Course",
+            "Peakbagging",
+            "Local Hiking"
+        ],
+        "tripName": [
+            "Mount Wilson via Chantry Flats with Long Beach Group 2",
+            "WTC 2017"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount Wilson",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1363",
+                "height": "5,713'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157680002937805"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/02/mount-wilson-loop-from-chantry-flats-lb.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/32806813145/"
+        ]
+    },
+    {
+        "date": [
+            "01/29/2017"
+        ],
+        "tripType": [
+            "Wilderness Travel Course",
+            "Peakbagging",
+            "Local Hiking",
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Conditioning Hike To Mount Wilson",
+            "WTC 2017",
+            "WTC Classroom Shots at Calvary Church",
+            "WTC 2017"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount Wilson",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1363",
+                "height": "5,713'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157679669195966",
+            "https://www.flickr.com/photos/matthewhengst/albums/72157675509482624"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/01/wilderness-travel-course-2017.html"
+        ],
+        "maps": [
+            "http://caltopo.com/m/48C1"
         ]
     },
     {
@@ -1220,6 +1576,42 @@
     },
     {
         "date": [
+            "12/31/2016",
+            "01/03/2017"
+        ],
+        "tripType": [
+            "Hot Springs"
+        ],
+        "tripName": [
+            "New Years Coyote Pool",
+            "Guadalupe Canyon Hot Springs"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157675018400873"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/01/new-years-at-guadalupe-canyon-hot.html"
+        ]
+    },
+    {
+        "date": [
+            "12/18/2016"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Christmas Parade Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157674232631083"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2016/12/2016-newport-harbor-christmas-light.html"
+        ]
+    },
+    {
+        "date": [
             "12/11/2016"
         ],
         "tripType": [
@@ -1281,6 +1673,23 @@
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/31462010952/in/dateposted-public/",
             "https://www.flickr.com/photos/matthewhengst/30767331964/in/dateposted-public/"
+        ]
+    },
+    {
+        "date": [
+            "12/06/2016"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157673621732434"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2016/12/newport-harbor-pizza-paddle-december.html"
         ]
     },
     {
@@ -1514,6 +1923,17 @@
     },
     {
         "date": [
+            "11/17/2016"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ]
+    },
+    {
+        "date": [
             "11/12/2016",
             "11/13/2016"
         ],
@@ -1604,6 +2024,71 @@
     },
     {
         "date": [
+            "10/22/2016"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Graduation",
+            "WTC 2016"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157672169960454/"
+        ]
+    },
+    {
+        "date": [
+            "10/18/2016"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ]
+    },
+    {
+        "date": [
+            "10/15/2016"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP14 Fall 2016 Rappel Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157671829964453/"
+        ]
+    },
+    {
+        "date": [
+            "10/08/2016"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP14 Fall 2016 Belay Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157671552217374/"
+        ]
+    },
+    {
+        "date": [
+            "10/05/2016"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP14 Fall 2016 Knots & Harness Night"
+        ]
+    },
+    {
+        "date": [
             "10/01/2016",
             "10/02/2016"
         ],
@@ -1631,6 +2116,20 @@
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/29822835100/in/album-72157674735325565/"
+        ]
+    },
+    {
+        "date": [
+            "09/20/2016"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157674192892735/"
         ]
     },
     {
@@ -1807,6 +2306,20 @@
     },
     {
         "date": [
+            "08/16/2016"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2016/08/newport-harbor-pizza-paddle-august-2016.html"
+        ]
+    },
+    {
+        "date": [
             "08/07/2016"
         ],
         "tripType": [
@@ -1889,6 +2402,20 @@
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/28734731166/in/album-72157671024227902/"
+        ]
+    },
+    {
+        "date": [
+            "07/27/2016"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2016/07/newport-harbor-pizza-paddle-july-2016.html"
         ]
     },
     {
@@ -2181,6 +2708,32 @@
     },
     {
         "date": [
+            "05/19/2016"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ]
+    },
+    {
+        "date": [
+            "05/10/2016"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Kaweah Cotton Party At UCI",
+            "WTC 2016"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157668306251075/"
+        ]
+    },
+    {
+        "date": [
             "05/07/2016",
             "05/08/2016"
         ],
@@ -2199,6 +2752,18 @@
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/26869732541/in/dateposted-public/"
+        ]
+    },
+    {
+        "date": [
+            "04/30/2016",
+            "05/01/2016"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP13 Spring 2016 Joshua Tree"
         ]
     },
     {
@@ -2231,6 +2796,87 @@
     },
     {
         "date": [
+            "04/23/2016"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP13 Spring 2016 Rappel Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157667479803512"
+        ]
+    },
+    {
+        "date": [
+            "04/16/2016"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP13 Spring 2016 Belay Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157667178600641"
+        ]
+    },
+    {
+        "date": [
+            "04/14/2016"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157667993291951/"
+        ]
+    },
+    {
+        "date": [
+            "04/13/2016"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP13 Spring 2016 Knots & Harness Night"
+        ]
+    },
+    {
+        "date": [
+            "04/01/2016",
+            "04/03/2016"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Camp At Rock Creek",
+            "Fiesta Luau Theme",
+            "WTC 2016"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157666775756945/"
+        ]
+    },
+    {
+        "date": [
+            "03/31/2016"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ]
+    },
+    {
+        "date": [
             "03/26/2016"
         ],
         "tripType": [
@@ -2255,6 +2901,299 @@
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/25990895762/in/album-72157664200312883/"
+        ]
+    },
+    {
+        "date": [
+            "03/13/2016"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Travel Day to Onyx",
+            "WTC 2016"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157665358979480/"
+        ]
+    },
+    {
+        "date": [
+            "03/03/2016"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157663152688844/"
+        ]
+    },
+    {
+        "date": [
+            "02/27/2016",
+            "02/28/2016"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Joshua Tree Weekend",
+            "90s Neon Theme",
+            "WTC 2016"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157662960115364/"
+        ]
+    },
+    {
+        "date": [
+            "02/14/2016"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Conditioning Hike To Mount Wilson",
+            "WTC 2016"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157664572601952/"
+        ]
+    },
+    {
+        "date": [
+            "02/05/2016"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ]
+    },
+    {
+        "date": [
+            "01/26/2016"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "WTC Classroom Shots at Murray Center",
+            "WTC 2016"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157661671271693/"
+        ]
+    },
+    {
+        "date": [
+            "01/13/2016"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157661199177934/"
+        ]
+    },
+    {
+        "date": [
+            "01/02/2016"
+        ],
+        "tripType": [
+            "Hot Springs"
+        ],
+        "tripName": [
+            "Bungalow Cabin Overnight",
+            "Benton Hot Springs"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157663124388036"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2016/01/benton-hot-springs-bungalow-cabin.html"
+        ]
+    },
+    {
+        "date": [
+            "12/19/2015"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Christmas Parade Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157663184412171/"
+        ]
+    },
+    {
+        "date": [
+            "11/27/2015"
+        ],
+        "tripType": [
+            "Hot Springs"
+        ],
+        "tripName": [
+            "Sunset Pool Overnight",
+            "El Dorado Hot Springs"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2015/11/el-dorado-hot-springs-in-tonopah.html"
+        ]
+    },
+    {
+        "date": [
+            "10/31/2015",
+            "11/01/2015"
+        ],
+        "tripType": [
+            "Hot Springs"
+        ],
+        "tripName": [
+            "Conway Cabin Halloween Overnight",
+            "Benton Hot Springs"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157663124388036"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2015/10/benton-hot-springs-halloween-weekend-in.html"
+        ]
+    },
+    {
+        "date": [
+            "10/28/2015"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157663296842476/"
+        ]
+    },
+    {
+        "date": [
+            "10/24/2015",
+            "10/25/2016"
+        ],
+        "tripType": [
+            "Hot Springs"
+        ],
+        "tripName": [
+            "Desert View Overnight",
+            "El Dorado Hot Springs"
+        ]
+    },
+    {
+        "date": [
+            "10/17/2015",
+            "10/18/2015"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP12 Fall 2015 Joshua Tree"
+        ]
+    },
+    {
+        "date": [
+            "10/17/2015"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Graduation 2017",
+            "WTC 2015"
+        ]
+    },
+    {
+        "date": [
+            "10/10/2015"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP12 Fall 2015 Rappel Day"
+        ]
+    },
+    {
+        "date": [
+            "10/03/2015"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP12 Fall 2015 Belay Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157662590250214"
+        ]
+    },
+    {
+        "date": [
+            "09/30/2015"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP12 Fall 2015 Knots & Harness Night"
+        ]
+    },
+    {
+        "date": [
+            "09/23/2015"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157661017813914/"
+        ]
+    },
+    {
+        "date": [
+            "08/27/2015"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157663313512256/"
+        ]
+    },
+    {
+        "date": [
+            "08/22/2015"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Newport Harbor Three of Us"
         ]
     },
     {
@@ -2357,6 +3296,17 @@
     },
     {
         "date": [
+            "07/21/2015"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ]
+    },
+    {
+        "date": [
             "07/11/2015",
             "07/12/2015"
         ],
@@ -2416,6 +3366,20 @@
     },
     {
         "date": [
+            "06/27/2015"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Sunrise China Cove Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157662793223320/"
+        ]
+    },
+    {
+        "date": [
             "06/19/2015",
             "06/21/2015"
         ],
@@ -2450,6 +3414,20 @@
     },
     {
         "date": [
+            "06/10/2015"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157662792421850/"
+        ]
+    },
+    {
+        "date": [
             "05/21/2015",
             "05/23/2015"
         ],
@@ -2470,6 +3448,137 @@
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/19261255176/in/album-72157653391730436/"
+        ]
+    },
+    {
+        "date": [
+            "05/20/2015",
+            "05/11/2015"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP11 Spring 2015 Joshua Tree"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157652249424030/"
+        ]
+    },
+    {
+        "date": [
+            "05/07/2015"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157652452105491/"
+        ]
+    },
+    {
+        "date": [
+            "05/02/2015"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP11 Spring 2015 Rappel Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157651878783407/"
+        ]
+    },
+    {
+        "date": [
+            "04/30/2015"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157652469064721/"
+        ]
+    },
+    {
+        "date": [
+            "04/25/2015"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP11 Spring 2015 Belay Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157652188574962/"
+        ]
+    },
+    {
+        "date": [
+            "04/22/2015"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP11 Spring 2015 Knots & Harness Night"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157651714013479/"
+        ]
+    },
+    {
+        "date": [
+            "04/19/2015"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Desert Climbing"
+        ],
+        "tripName": [
+            "Glass Mountain"
+        ],
+        "peaks": [
+            {
+                "anchor": "Glass Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=3614",
+                "height": "11.160’"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157652025236126"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2015/04/mount-glass-dps-from-east.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/17021184407/in/set-72157652025236126"
+        ]
+    },
+    {
+        "date": [
+            "04/19/2015"
+        ],
+        "tripType": [
+            "Hot Springs"
+        ],
+        "tripName": [
+            "Crab Cooker Too Damn Hot",
+            "Mammoth Lakes Hot Springs"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157663124388036"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2015/04/mammoth-area-hot-springs-crab-cooker-is.html"
         ]
     },
     {
@@ -2502,30 +3611,20 @@
     },
     {
         "date": [
-            "04/19/2015"
+            "04/18/2015"
         ],
         "tripType": [
-            "Peakbagging",
-            "Desert Climbing"
+            "Hot Springs"
         ],
         "tripName": [
-            "Glass Mountain"
-        ],
-        "peaks": [
-            {
-                "anchor": "Glass Mountain",
-                "url": "http://www.peakbagger.com/peak.aspx?pid=3614",
-                "height": "11.160’"
-            }
+            "Fish Lake Valley Hot Well",
+            "Dyer, NV"
         ],
         "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157652025236126"
+            "https://www.flickr.com/photos/matthewhengst/albums/72157663124388036"
         ],
         "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2015/04/mount-glass-dps-from-east.html"
-        ],
-        "maps": [
-            "https://www.flickr.com/photos/matthewhengst/17021184407/in/set-72157652025236126"
+            "http://www.firstchurchofthemasochist.com/2015/03/fish-lake-valley-hot-well.html"
         ]
     },
     {
@@ -2574,6 +3673,20 @@
     },
     {
         "date": [
+            "03/31/2015"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157651291154120/"
+        ]
+    },
+    {
+        "date": [
             "03/28/2015"
         ],
         "tripType": [
@@ -2592,6 +3705,112 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157651216426207"
+        ]
+    },
+    {
+        "date": [
+            "03/28/2015"
+        ],
+        "tripType": [
+            "Hot Springs"
+        ],
+        "tripName": [
+            "Fish Lake Valley Hot Well",
+            "Dyer, NV"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157651639858191"
+        ]
+    },
+    {
+        "date": [
+            "03/20/2015",
+            "03/22/2015"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Camp At Rock Creek Almost Without Snow",
+            "WTC 2015"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157649192723074/"
+        ]
+    },
+    {
+        "date": [
+            "03/08/2015"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Travel Mount Waterman",
+            "WTC 2015"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157651321693111/"
+        ]
+    },
+    {
+        "date": [
+            "02/21/2015",
+            "02/22/2015"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Joshua Tree Weekend",
+            "WTC 2015"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157648679619063/"
+        ]
+    },
+    {
+        "date": [
+            "02/15/2015"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "China Cove Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157650833970332/"
+        ]
+    },
+    {
+        "date": [
+            "02/08/2015"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Santiago Conditoning Hike",
+            "WTC 2015"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157650349241409/"
+        ]
+    },
+    {
+        "date": [
+            "01/20/2015"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Classroom Shots Santiago Canyon College",
+            "WTC 2015"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157648078623414/"
         ]
     },
     {
@@ -2679,6 +3898,24 @@
     },
     {
         "date": [
+            "01/04/2015"
+        ],
+        "tripType": [
+            "Hot Springs"
+        ],
+        "tripName": [
+            "Desert View Pool",
+            "El Dorado Hot Springs"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157647829406873"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2015/01/el-dorado-hot-springs-in-tonopah.html"
+        ]
+    },
+    {
+        "date": [
             "01/03/2015"
         ],
         "tripType": [
@@ -2734,6 +3971,20 @@
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/24287428295/in/album-72157650142170152/"
+        ]
+    },
+    {
+        "date": [
+            "12/23/2014"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157647666626844/"
         ]
     },
     {
@@ -2803,6 +4054,34 @@
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/16138894025/in/set-72157647596785063"
+        ]
+    },
+    {
+        "date": [
+            "12/18/2014"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Christmas Parade Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157647517693853/"
+        ]
+    },
+    {
+        "date": [
+            "12/07/2014"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Crystal Cove Area Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157649417763808/"
         ]
     },
     {
@@ -2967,6 +4246,34 @@
     },
     {
         "date": [
+            "11/08/2014"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "China Cove Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157649297145185/"
+        ]
+    },
+    {
+        "date": [
+            "11/04/2014"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Pizza Paddling Off The Dock"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157661286351693/"
+        ]
+    },
+    {
+        "date": [
             "11/02/2014"
         ],
         "tripType": [
@@ -3029,6 +4336,111 @@
     },
     {
         "date": [
+            "10/30/2014"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "First Time Out With Tempest"
+        ]
+    },
+    {
+        "date": [
+            "10/18/2014",
+            "10/19/2014"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP10 Fall 2014 Joshua Tree"
+        ]
+    },
+    {
+        "date": [
+            "10/18/2014"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Graduation",
+            "WTC 2014"
+        ]
+    },
+    {
+        "date": [
+            "10/16/2014"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "WTC 2013 Reunion Gettogether",
+            "WTC 2013"
+        ]
+    },
+    {
+        "date": [
+            "10/12/2014"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Test Driving Kayaks At Aqua Adventures"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157663202230842/"
+        ]
+    },
+    {
+        "date": [
+            "10/11/2014"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP10 Fall 2014 Rappel Day"
+        ]
+    },
+    {
+        "date": [
+            "10/04/2014"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP10 Fall 2014 Belay Day"
+        ]
+    },
+    {
+        "date": [
+            "10/01/2014"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP10 Fall 2014 Knots & Harness Night"
+        ]
+    },
+    {
+        "date": [
+            "09/30/2014"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Paddle Dock & Dine"
+        ]
+    },
+    {
+        "date": [
             "09/27/2014",
             "09/28/2014"
         ],
@@ -3063,6 +4475,20 @@
     },
     {
         "date": [
+            "09/21/2014"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "La Jolla Paddle & Snorkle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157647798655490/"
+        ]
+    },
+    {
+        "date": [
             "09/13/2014",
             "09/15/2014"
         ],
@@ -3090,6 +4516,17 @@
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/16580575581/"
+        ]
+    },
+    {
+        "date": [
+            "09/05/2014"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Newport Avila's Dock & Dine"
         ]
     },
     {
@@ -3162,6 +4599,17 @@
     },
     {
         "date": [
+            "08/19/2014"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Pizza Nova Dock & Dine"
+        ]
+    },
+    {
+        "date": [
             "08/15/2014",
             "08/17/2014"
         ],
@@ -3192,6 +4640,17 @@
     },
     {
         "date": [
+            "08/12/2014"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Kayaking #2"
+        ]
+    },
+    {
+        "date": [
             "08/09/2014",
             "08/10/2014"
         ],
@@ -3217,6 +4676,17 @@
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/26410861354/in/album-72157646360339764/"
+        ]
+    },
+    {
+        "date": [
+            "08/07/2014"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Kayaking In The New Inflatable"
         ]
     },
     {
@@ -3377,6 +4847,51 @@
     },
     {
         "date": [
+            "05/10/2014",
+            "05/11/2014"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP9 Spring 2014 Joshua Tree"
+        ]
+    },
+    {
+        "date": [
+            "05/04/2014"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP9 Spring 2014 Rappel Day"
+        ]
+    },
+    {
+        "date": [
+            "04/25/2014"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP9 Spring 2014 Belay Day"
+        ]
+    },
+    {
+        "date": [
+            "04/22/2014"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP9 Spring 2014 Knots & Harness Night"
+        ]
+    },
+    {
+        "date": [
             "03/30/2014"
         ],
         "tripType": [
@@ -3421,6 +4936,23 @@
     },
     {
         "date": [
+            "03/14/2014",
+            "03/16/2014"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Camp Rock Creek",
+            "Beach Party Theme",
+            "WTC 2014"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157642515493635/"
+        ]
+    },
+    {
+        "date": [
             "03/02/2014"
         ],
         "tripType": [
@@ -3443,6 +4975,21 @@
     },
     {
         "date": [
+            "03/02/2014"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Travel Icehouse Canyon",
+            "WTC 2014"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157641788262854/"
+        ]
+    },
+    {
+        "date": [
             "02/15/2014"
         ],
         "tripType": [
@@ -3457,6 +5004,23 @@
                 "url": "http://www.peakbagger.com/peak.aspx?pid=26401",
                 "height": "4,377’"
             }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157641131129115/"
+        ]
+    },
+    {
+        "date": [
+            "02/15/2014",
+            "02/16/2014"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Joshua Tree Weekend",
+            "Hippies Dirty or Otherwise Theme",
+            "WTC 2014"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157641131129115/"
@@ -3530,6 +5094,21 @@
     },
     {
         "date": [
+            "02/02/2014"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Conditioning Hike Santiago",
+            "WTC 2014"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157640469865024/"
+        ]
+    },
+    {
+        "date": [
             "01/19/2014"
         ],
         "tripType": [
@@ -3578,6 +5157,21 @@
     },
     {
         "date": [
+            "01/14/2014"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Classroom Shots Santiago Canyon College",
+            "WTC 2014"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157639835321786/"
+        ]
+    },
+    {
+        "date": [
             "01/12/2014"
         ],
         "tripType": [
@@ -3602,6 +5196,24 @@
         ],
         "maps": [
             "http://caltopo.com/map?id=7H37"
+        ]
+    },
+    {
+        "date": [
+            "01/12/2014"
+        ],
+        "tripType": [
+            "Hot Springs"
+        ],
+        "tripName": [
+            "Pico Risco Trailhead Pools",
+            "Guadalupe Canyon Hot Springs"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157639754811643"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2014/01/pico-risco-mexican-dps-peak-from.html"
         ]
     },
     {
@@ -4053,6 +5665,78 @@
         ],
         "maps": [
             "http://www.flickr.com/photos/matthewhengst/10544932855/in/set-72157637064559305"
+        ]
+    },
+    {
+        "date": [
+            "10/19/2013",
+            "10/20/2013"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP8 Fall 2013 Joshua Tree"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157636950380065/"
+        ]
+    },
+    {
+        "date": [
+            "10/19/2013"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Graduation",
+            "WTC 2013"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157636950683266/"
+        ]
+    },
+    {
+        "date": [
+            "10/12/2013"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP8 Fall 2013 Rappel Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157636587498636/"
+        ]
+    },
+    {
+        "date": [
+            "10/05/2013"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP8 Fall 2013 Belay Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157636295768666/"
+        ]
+    },
+    {
+        "date": [
+            "10/02/2013"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP8 Fall 2013 Knots & Harness Night"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157636295494975/"
         ]
     },
     {
@@ -4657,6 +6341,21 @@
     },
     {
         "date": [
+            "05/11/2013",
+            "05/12/2013"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP7 Spring 2013 Joshua Tree"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157633473573565/"
+        ]
+    },
+    {
+        "date": [
             "05/05/2013"
         ],
         "tripType": [
@@ -4682,6 +6381,20 @@
     },
     {
         "date": [
+            "05/04/2013"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP7 Spring 2013 Rappel Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157633434527410/"
+        ]
+    },
+    {
+        "date": [
             "04/28/2013"
         ],
         "tripType": [
@@ -4703,6 +6416,31 @@
         ],
         "maps": [
             "http://www.flickr.com/photos/matthewhengst/8692672255/in/set-72157633365648609"
+        ]
+    },
+    {
+        "date": [
+            "04/27/2013"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP7 Spring 2013 Belay Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157633365656931/"
+        ]
+    },
+    {
+        "date": [
+            "04/24/2013"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP7 Spring 2013 Knots & Harness Night"
         ]
     },
     {
@@ -4848,6 +6586,37 @@
     },
     {
         "date": [
+            "03/08/2013",
+            "03/10/2013"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Camp Rock Creek",
+            "WTC 2013"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157632971399923/"
+        ]
+    },
+    {
+        "date": [
+            "02/24/2013"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Travel Onyx",
+            "WTC 2013"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157632856288449/"
+        ]
+    },
+    {
+        "date": [
             "02/17/2013"
         ],
         "tripType": [
@@ -4903,6 +6672,23 @@
     },
     {
         "date": [
+            "02/09/2013",
+            "02/10/2013"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Joshua Tree Weekend",
+            "Pirate Theme",
+            "WTC 2013"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157632745665362/"
+        ]
+    },
+    {
+        "date": [
             "02/04/2013"
         ],
         "tripType": [
@@ -4953,6 +6739,35 @@
     },
     {
         "date": [
+            "02/02/2013"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP Snow Travel Workshop"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157632688024757/"
+        ]
+    },
+    {
+        "date": [
+            "01/27/2013"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Conditioning Hike Santiago",
+            "WTC 2013"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157632629832911/"
+        ]
+    },
+    {
+        "date": [
             "01/19/2013",
             "01/20/2013"
         ],
@@ -4985,6 +6800,21 @@
         "maps": [
             "http://www.flickr.com/photos/matthewhengst/8401939917/in/set-72157632575964162",
             "https://sites.google.com/"
+        ]
+    },
+    {
+        "date": [
+            "01/08/2013"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Classroom Shots Red Hill Church",
+            "WTC 2013"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157632487986851/"
         ]
     },
     {
@@ -5420,6 +7250,63 @@
     },
     {
         "date": [
+            "10/20/2012",
+            "10/21/2012"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP6 Fall 2012 Joshua Tree"
+        ]
+    },
+    {
+        "date": [
+            "10/20/2012"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Graduation",
+            "WTC 2012 - Kaweah Year One"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157631831619064/"
+        ]
+    },
+    {
+        "date": [
+            "10/14/2012"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Desert Climbing"
+        ],
+        "tripName": [
+            "Ruby Dome DPS"
+        ],
+        "peaks": [
+            {
+                "anchor": "Ruby Dome",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=3524",
+                "height": "11,387'"
+            }
+        ]
+    },
+    {
+        "date": [
+            "10/13/2012"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP6 Fall 2012 Rappel Day"
+        ]
+    },
+    {
+        "date": [
             "10/12/2012"
         ],
         "tripType": [
@@ -5459,21 +7346,24 @@
     },
     {
         "date": [
-            "10/14/2012"
+            "10/06/2012"
         ],
         "tripType": [
-            "Peakbagging",
-            "Desert Climbing"
+            "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "Ruby Dome DPS"
+            "AMP6 Fall 2012 Belay Day"
+        ]
+    },
+    {
+        "date": [
+            "10/03/2012"
         ],
-        "peaks": [
-            {
-                "anchor": "Ruby Dome",
-                "url": "http://www.peakbagger.com/peak.aspx?pid=3524",
-                "height": "11,387'"
-            }
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP6 Fall 2012 Knots & Harness Night"
         ]
     },
     {
@@ -6007,6 +7897,21 @@
     },
     {
         "date": [
+            "05/05/2012",
+            "05/06/2012"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP5 Spring 2012 Joshua Tree"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157629620457870/"
+        ]
+    },
+    {
+        "date": [
             "04/29/2012"
         ],
         "tripType": [
@@ -6034,6 +7939,20 @@
     },
     {
         "date": [
+            "04/28/2012"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP5 Spring 2012 Rappel Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157629921659339/"
+        ]
+    },
+    {
+        "date": [
             "04/21/2012"
         ],
         "tripType": [
@@ -6044,6 +7963,31 @@
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157629877927897/"
+        ]
+    },
+    {
+        "date": [
+            "04/21/2012"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP5 Spring 2012 Belay Day"
+        ]
+    },
+    {
+        "date": [
+            "04/18/2012"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP5 Spring 2012 Knots & Harness Night"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157629513528108/"
         ]
     },
     {
@@ -6181,6 +8125,21 @@
     },
     {
         "date": [
+            "03/31/2012",
+            "04/01/2012"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP Vertical Adventures Sierra Leader Weekend"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157629413418378/"
+        ]
+    },
+    {
+        "date": [
             "03/23/2012",
             "03/25/2012"
         ],
@@ -6192,6 +8151,22 @@
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157629309380018/"
+        ]
+    },
+    {
+        "date": [
+            "03/23/2012",
+            "03/25/2012"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Camp South Lake Hard Haul",
+            "WTC 2012 - Kaweah Year One"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157629309380018/"
         ]
     },
     {
@@ -6247,6 +8222,51 @@
     },
     {
         "date": [
+            "03/03/2012"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP Rescue Systems"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157629534853753/"
+        ]
+    },
+    {
+        "date": [
+            "03/01/2012"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Travel Waterman Without Snow",
+            "WTC 2012 - Kaweah Year One"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157629566876575/"
+        ]
+    },
+    {
+        "date": [
+            "02/25/2012",
+            "02/26/2012"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Joshua Tree Weekend",
+            "WTC 2012 - Kaweah Year One"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157629469136715/"
+        ]
+    },
+    {
+        "date": [
             "02/19/2012"
         ],
         "tripType": [
@@ -6271,6 +8291,64 @@
         ],
         "maps": [
             "http://www.flickr.com/photos/matthewhengst/6912690909/sizes/o/in/photostream/"
+        ]
+    },
+    {
+        "date": [
+            "02/18/2012"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP Leader Rock Workshop"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157629408968913/"
+        ]
+    },
+    {
+        "date": [
+            "02/12/2012"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Conditioning Hike Wilson",
+            "WTC 2012 - Kaweah Year One"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157629311913393/"
+        ]
+    },
+    {
+        "date": [
+            "02/04/2012"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP Snow Workshop"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157629189117143/"
+        ]
+    },
+    {
+        "date": [
+            "01/24/2012"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Classroom Shots Red Hill Church",
+            "WTC 2012 - Kaweah Year One"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157629028709593/"
         ]
     },
     {
@@ -6695,6 +8773,50 @@
     },
     {
         "date": [
+            "10/15/2011",
+            "10/16/2011"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP4 Fall 2011 Joshua Tree"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157627794321049/"
+        ]
+    },
+    {
+        "date": [
+            "10/15/2011"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Graduation",
+            "WTC 2011 - Modjeska Snowmageddon"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157627794321049/"
+        ]
+    },
+    {
+        "date": [
+            "10/08/2011"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP4 Fall 2011 Rappel Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157627746548389/"
+        ]
+    },
+    {
+        "date": [
             "10/02/2011"
         ],
         "tripType": [
@@ -6725,6 +8847,34 @@
     },
     {
         "date": [
+            "10/01/2011"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP4 Fall 2011 Belay Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157627816211702/"
+        ]
+    },
+    {
+        "date": [
+            "09/28/2011"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP4 Fall 2011 Knots & Harness Night"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157627654210757/"
+        ]
+    },
+    {
+        "date": [
             "09/24/2011"
         ],
         "tripType": [
@@ -6735,6 +8885,20 @@
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157627631069061/"
+        ]
+    },
+    {
+        "date": [
+            "09/24/2011"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Anacapa Sea Cave Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157627631069061/"
         ]
     },
     {
@@ -7371,6 +9535,18 @@
     },
     {
         "date": [
+            "05/07/2011",
+            "05/08/2011"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP3 Spring 2011 Joshua Tree"
+        ]
+    },
+    {
+        "date": [
             "05/01/2011"
         ],
         "tripType": [
@@ -7384,6 +9560,17 @@
                 "anchor": "Enchanted Rock (1,825')",
                 "url": "http://www.peakbagger.com/peak.aspx?pid=26954"
             }
+        ]
+    },
+    {
+        "date": [
+            "04/30/2011"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP3 Spring 2011 Rappel Day"
         ]
     },
     {
@@ -7403,6 +9590,31 @@
         ],
         "tripRpt": [
             "https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0Bxs4R_Khzq1WN2MwZTgyOWItOWU5Yy00NWUxLWIzOGQtNDAxMGE4NjBjODc4&hl=en"
+        ]
+    },
+    {
+        "date": [
+            "04/23/2011"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP3 Spring 2011 Belay Day"
+        ]
+    },
+    {
+        "date": [
+            "04/20/2011"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP3 Spring 2011 Knots & Harness Night"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157626453397907/"
         ]
     },
     {
@@ -7432,6 +9644,21 @@
         ],
         "maps": [
             "http://www.flickr.com/photos/matthewhengst/5635027918/sizes/o/in/set-72157626529196236/"
+        ]
+    },
+    {
+        "date": [
+            "04/09/2011",
+            "04/10/2011"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "RCSC Graduation At Alabama Hills"
+        ],
+        "pics": [
+            "http://www.flickr.com/photos/matthewhengst/sets/72157626474640728/"
         ]
     },
     {
@@ -7569,6 +9796,36 @@
     },
     {
         "date": [
+            "03/18/2011",
+            "03/20/2011"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snowmageddon Snow Camp North Lake",
+            "WTC 2011 - Modjeska Snowmageddon"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157626321266798/"
+        ]
+    },
+    {
+        "date": [
+            "03/12/2011"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "SCMA RCSC 2011 Session 4 Anchors! at Rubidoux"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157626143362031/"
+        ]
+    },
+    {
+        "date": [
             "03/06/2011"
         ],
         "tripType": [
@@ -7605,6 +9862,21 @@
     },
     {
         "date": [
+            "03/05/2011"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Travel Day South Fork",
+            "WTC 2011 - Modjeska Snowmageddon"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157626213746770/"
+        ]
+    },
+    {
+        "date": [
             "02/27/2011"
         ],
         "tripType": [
@@ -7618,6 +9890,36 @@
         ],
         "maps": [
             "http://www.flickr.com/photos/matthewhengst/5485086347/sizes/o/in/set-72157626163195412/"
+        ]
+    },
+    {
+        "date": [
+            "02/26/2011"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "SCMA RCSC 2011 Session 3 Prusik at Rubidoux"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157626151789040/"
+        ]
+    },
+    {
+        "date": [
+            "02/19/2011",
+            "02/20/2011"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Joshua Tree Weekend",
+            "WTC 2011 - Modjeska Snowmageddon"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157626100121106/"
         ]
     },
     {
@@ -7707,6 +10009,64 @@
         ],
         "maps": [
             "http://www.flickr.com/photos/matthewhengst/5436719357/sizes/o/in/set-72157625867098211/"
+        ]
+    },
+    {
+        "date": [
+            "02/05/2011"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Conditioning Hike Sierra Peak",
+            "WTC 2011 - Modjeska Snowmageddon"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157625992326060/"
+        ]
+    },
+    {
+        "date": [
+            "01/29/2011"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "SCMA RCSC 2011 Session 1 At Stony Point"
+        ],
+        "pics": [
+            "http://www.flickr.com/photos/matthewhengst/sets/72157625957552014/"
+        ]
+    },
+    {
+        "date": [
+            "01/22/2011"
+        ],
+        "tripType": [
+            "Training"
+        ],
+        "tripName": [
+            "Sierra Club Baldy Snow Practice"
+        ],
+        "pics": [
+            "http://www.flickr.com/photos/matthewhengst/sets/72157625763052913/"
+        ]
+    },
+    {
+        "date": [
+            "01/18/2011"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Classroom Shots Red Hill Church",
+            "WTC 2011 - Modjeska Snowmageddon"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157625737570345/"
         ]
     },
     {
@@ -8003,6 +10363,78 @@
                 "url": "http://www.peakbagger.com/peak.aspx?pid=2637",
                 "height": 9092
             }
+        ]
+    },
+    {
+        "date": [
+            "10/16/2010",
+            "10/17/2010"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP2 Fall 2010 Joshua Tree"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157625194646698/"
+        ]
+    },
+    {
+        "date": [
+            "10/16/2010"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Graduation",
+            "WTC 2010"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157625195720920/"
+        ]
+    },
+    {
+        "date": [
+            "10/09/2010"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP2 Fall 2010 Rappel Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157625138511894/"
+        ]
+    },
+    {
+        "date": [
+            "10/02/2010"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP2 Fall 2010 Belay Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157624957825519/"
+        ]
+    },
+    {
+        "date": [
+            "09/29/2010"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP2 Fall 2010 Knots & Harness Night"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157624951023535/"
         ]
     },
     {
@@ -8518,6 +10950,52 @@
     },
     {
         "date": [
+            "06/19/2010"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "SCMA Eval #2 White Maidens Walkaway at Tahquitz"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157624197339603/"
+        ]
+    },
+    {
+        "date": [
+            "06/12/2010"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "SCMA RCSC Eval #1 - Premier Butress at Whitney Portal"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157624144620495/"
+        ],
+        "tripRpt": [
+            "https://drive.google.com/file/d/0Bxs4R_Khzq1WZGYwM2UwOWYtNjIxMi00YzlkLWFhNDMtMjFjMTMxNDhiYWU1/view?usp=sharing"
+        ]
+    },
+    {
+        "date": [
+            "06/05/2010",
+            "06/06/2010"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "Holcomb Valley Pinacles With SCMA"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157624095637551/"
+        ]
+    },
+    {
+        "date": [
             "05/29/2010",
             "05/31/2010"
         ],
@@ -8636,6 +11114,24 @@
     },
     {
         "date": [
+            "04/24/2010",
+            "04/25/2010"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "SCMA RCSC Graduation At Alabama Hills"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157623932989210/"
+        ],
+        "tripRpt": [
+            "https://drive.google.com/file/d/0Bxs4R_Khzq1WZGYwM2UwOWYtNjIxMi00YzlkLWFhNDMtMjFjMTMxNDhiYWU1/view?usp=sharing"
+        ]
+    },
+    {
+        "date": [
             "04/17/2010"
         ],
         "tripType": [
@@ -8727,6 +11223,23 @@
     },
     {
         "date": [
+            "04/10/2010"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "SCMA RCSC Simulated Multi-Pitch at Big Rock"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157623704081187/"
+        ],
+        "tripRpt": [
+            "https://drive.google.com/file/d/0Bxs4R_Khzq1WZGYwM2UwOWYtNjIxMi00YzlkLWFhNDMtMjFjMTMxNDhiYWU1/view?usp=sharing"
+        ]
+    },
+    {
+        "date": [
             "04/03/2010"
         ],
         "tripType": [
@@ -8776,6 +11289,39 @@
     },
     {
         "date": [
+            "03/27/2010"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "SCMA RCSC Anchors, Anchors, and more Anchors! at Rubidoux"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157623592914771/"
+        ],
+        "tripRpt": [
+            "https://drive.google.com/file/d/0Bxs4R_Khzq1WZGYwM2UwOWYtNjIxMi00YzlkLWFhNDMtMjFjMTMxNDhiYWU1/view?usp=sharing"
+        ]
+    },
+    {
+        "date": [
+            "03/12/2010",
+            "03/14/2010"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Camp South Lake",
+            "WTC 2010"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157623623208156/"
+        ]
+    },
+    {
+        "date": [
             "03/10/2010"
         ],
         "tripName": [
@@ -8783,6 +11329,68 @@
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157623475965329/"
+        ]
+    },
+    {
+        "date": [
+            "03/05/2010"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "SCMA RCSC Prusiking, Fallen Climber, and Potential Electrocution at Rubidoux"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157623572536108/"
+        ],
+        "tripRpt": [
+            "https://drive.google.com/file/d/0Bxs4R_Khzq1WZGYwM2UwOWYtNjIxMi00YzlkLWFhNDMtMjFjMTMxNDhiYWU1/view?usp=sharing"
+        ]
+    },
+    {
+        "date": [
+            "02/24/2010"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Classroom Shots UCI",
+            "WTC 2010"
+        ]
+    },
+    {
+        "date": [
+            "02/20/2010"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "SCMA RCSC Prusiking at Stoney Point"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157623477038772/"
+        ],
+        "tripRpt": [
+            "https://drive.google.com/file/d/0Bxs4R_Khzq1WZGYwM2UwOWYtNjIxMi00YzlkLWFhNDMtMjFjMTMxNDhiYWU1/view?usp=sharing"
+        ]
+    },
+    {
+        "date": [
+            "02/13/2010",
+            "02/14/2010"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Joshua Tree Weekend",
+            "WTC 2010"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157623436960038/"
         ]
     },
     {
@@ -8813,6 +11421,55 @@
         ],
         "maps": [
             "http://www.flickr.com/photos/matthewhengst/4540435501/in/set-72157623264512639/"
+        ]
+    },
+    {
+        "date": [
+            "02/06/2010"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "SCMA RCSC Rappeling at Rubidoux"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157623243936777/"
+        ],
+        "tripRpt": [
+            "https://drive.google.com/file/d/0Bxs4R_Khzq1WZGYwM2UwOWYtNjIxMi00YzlkLWFhNDMtMjFjMTMxNDhiYWU1/view?usp=sharing"
+        ]
+    },
+    {
+        "date": [
+            "01/31/2010"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Conditioning Hike To Santiago With Group 1",
+            "WTC 2010"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157623201038707/"
+        ]
+    },
+    {
+        "date": [
+            "01/23/2010"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "SCMA RCSC Knots and Such at Hanger 18"
+        ],
+        "pics": [
+            "https://drive.google.com/file/d/0Bxs4R_Khzq1WZGYwM2UwOWYtNjIxMi00YzlkLWFhNDMtMjFjMTMxNDhiYWU1/view?usp=sharing"
+        ],
+        "tripRpt": [
+            "https://drive.google.com/file/d/0Bxs4R_Khzq1WZGYwM2UwOWYtNjIxMi00YzlkLWFhNDMtMjFjMTMxNDhiYWU1/view?usp=sharing"
         ]
     },
     {
@@ -8949,6 +11606,36 @@
     },
     {
         "date": [
+            "10/17/2009",
+            "10/18/2009"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP1 Fall 2009 Joshua Tree"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157622490649403/"
+        ]
+    },
+    {
+        "date": [
+            "10/17/2009"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Graduation",
+            "WTC 2009"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157622490649403/"
+        ]
+    },
+    {
+        "date": [
             "10/14/2009"
         ],
         "tripType": [
@@ -8971,6 +11658,39 @@
                 "url": "http://www.peakbagger.com/peak.aspx?pid=1492",
                 "height": 7440
             }
+        ]
+    },
+    {
+        "date": [
+            "10/10/2009"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP1 Fall 2009 Rappel Day"
+        ]
+    },
+    {
+        "date": [
+            "10/03/2009"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP1 Fall 2009 Belay Day"
+        ]
+    },
+    {
+        "date": [
+            "09/30/2009"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP1 Fall 2009 Knots & Harness Night"
         ]
     },
     {
@@ -9644,6 +12364,53 @@
     },
     {
         "date": [
+            "03/06/2009",
+            "03/08/2009"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Camp North Lake",
+            "WTC 2009"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157615009038894/"
+        ]
+    },
+    {
+        "date": [
+            "02/21/2009"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Travel South Fork",
+            "WTC 2009"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157614282309212/"
+        ]
+    },
+    {
+        "date": [
+            "02/07/2009",
+            "02/08/2009"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Joshua Tree Weekend",
+            "WTC 2009"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157613505891389/"
+        ]
+    },
+    {
+        "date": [
             "02/01/2009"
         ],
         "tripType": [
@@ -9707,6 +12474,24 @@
     },
     {
         "date": [
+            "01/14/2009"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
+        "tripName": [
+            "Doggett List Lead Finish At Cuyama Lookout"
+        ],
+        "pics": [
+            "http://www.flickr.com/photos/matthewhengst/sets/72157612224469378/"
+        ],
+        "maps": [
+            "http://www.flickr.com/photos/matthewhengst/3175661659/sizes/o/in/set-72157612224469378/"
+        ]
+    },
+    {
+        "date": [
             "01/10/2009"
         ],
         "tripType": [
@@ -9725,24 +12510,6 @@
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157612469511714/"
-        ]
-    },
-    {
-        "date": [
-            "01/14/2009"
-        ],
-        "tripType": [
-            "Peakbagging",
-            "Local Hiking"
-        ],
-        "tripName": [
-            "Doggett List Lead Finish At Cuyama Lookout"
-        ],
-        "pics": [
-            "http://www.flickr.com/photos/matthewhengst/sets/72157612224469378/"
-        ],
-        "maps": [
-            "http://www.flickr.com/photos/matthewhengst/3175661659/sizes/o/in/set-72157612224469378/"
         ]
     },
     {
@@ -9943,6 +12710,21 @@
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157608402276998/"
+        ]
+    },
+    {
+        "date": [
+            "10/18/2008"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Graduation",
+            "WTC 2008 - Student Year"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157608197111761/"
         ]
     },
     {
@@ -10173,20 +12955,6 @@
     },
     {
         "date": [
-            "08/09/2008"
-        ],
-        "tripName": [
-            "Rafting With Crown In Colorado"
-        ],
-        "pics": [
-            "http://www.flickr.com/photos/matthewhengst/sets/72157606731169695/"
-        ],
-        "tripRpt": [
-            "https://docs.google.com/leaf?id=0Bxs4R_Khzq1WODZmNTZjMWQtZmQzZi00ODJiLWE2MzYtZGQ4OTE3NjAwYmFm&sort=name&layout=list&num=50"
-        ]
-    },
-    {
-        "date": [
             "08/10/2008"
         ],
         "tripType": [
@@ -10227,34 +12995,16 @@
     },
     {
         "date": [
-            "08/02/2008"
-        ],
-        "tripType": [
-            "Peakbagging",
-            "Local Hiking"
+            "08/09/2008"
         ],
         "tripName": [
-            "Grinnell Peak, Lake Peak, 10K Ridge HPS"
-        ],
-        "peaks": [
-            {
-                "anchor": "Grinnell Mountain",
-                "url": "http://www.peakbagger.com/peak.aspx?pid=1409",
-                "height": 10284
-            },
-            {
-                "anchor": "Lake Peak",
-                "url": "http://www.peakbagger.com/peak.aspx?pid=1414",
-                "height": 10161
-            },
-            {
-                "anchor": "Ten Thousand Foot Ridge",
-                "url": "http://www.peakbagger.com/peak.aspx?pid=1415",
-                "height": 10094
-            }
+            "Rafting With Crown In Colorado"
         ],
         "pics": [
-            "http://www.flickr.com/photos/matthewhengst/sets/72157606543168037/"
+            "http://www.flickr.com/photos/matthewhengst/sets/72157606731169695/"
+        ],
+        "tripRpt": [
+            "https://docs.google.com/leaf?id=0Bxs4R_Khzq1WODZmNTZjMWQtZmQzZi00ODJiLWE2MzYtZGQ4OTE3NjAwYmFm&sort=name&layout=list&num=50"
         ]
     },
     {
@@ -10292,6 +13042,38 @@
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157606546448083/"
+        ]
+    },
+    {
+        "date": [
+            "08/02/2008"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
+        "tripName": [
+            "Grinnell Peak, Lake Peak, 10K Ridge HPS"
+        ],
+        "peaks": [
+            {
+                "anchor": "Grinnell Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1409",
+                "height": 10284
+            },
+            {
+                "anchor": "Lake Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1414",
+                "height": 10161
+            },
+            {
+                "anchor": "Ten Thousand Foot Ridge",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1415",
+                "height": 10094
+            }
+        ],
+        "pics": [
+            "http://www.flickr.com/photos/matthewhengst/sets/72157606543168037/"
         ]
     },
     {
@@ -10495,6 +13277,18 @@
     },
     {
         "date": [
+            "06/28/2008"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Cotton Party",
+            "WTC 2008 - Student Year"
+        ]
+    },
+    {
+        "date": [
             "06/20/2008",
             "06/22/2008"
         ],
@@ -10689,6 +13483,22 @@
     },
     {
         "date": [
+            "04/04/2008",
+            "04/06/2008"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Travel South Lake",
+            "WTC 2008 - Student Year"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157604448224209/"
+        ]
+    },
+    {
+        "date": [
             "03/29/2008"
         ],
         "tripType": [
@@ -10707,6 +13517,21 @@
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157604326298177/"
+        ]
+    },
+    {
+        "date": [
+            "03/15/2008"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Travel Mount Waterman",
+            "WTC 2008 - Student Year"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157604142873007/"
         ]
     },
     {
@@ -10751,6 +13576,37 @@
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157604082969934/"
+        ]
+    },
+    {
+        "date": [
+            "02/29/2008",
+            "03/01/2008"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Joshua Tree Weekend",
+            "WTC 2008 - Student Year"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157604035896442/"
+        ]
+    },
+    {
+        "date": [
+            "02/16/2008"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Conditioning Hike Santiago",
+            "WTC 2008 - Student Year"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157603936818157/"
         ]
     },
     {
@@ -11294,2863 +14150,8 @@
     },
     {
         "date": [
-            "11/11/2017",
-            "11/12/2017"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "LTC / AMP Rock Checkoff"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157687326543352"
-        ]
-    },
-    {
-        "date": [
-            "10/28/2017",
-            "10/29/2017"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP16 Fall 2017 Joshua Tree"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157690617377876"
-        ]
-    },
-    {
-        "date": [
-            "10/21/2017"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP16 Fall 2017 Rappel Day"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157689713606896"
-        ]
-    },
-    {
-        "date": [
-            "10/14/2017"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP16 Fall 2017 Belay Day"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157687915741734"
-        ]
-    },
-    {
-        "date": [
-            "10/11/2017"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP16 Fall 2017 Knot & Harness Night"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157687915164384"
-        ]
-    },
-    {
-        "date": [
-            "05/20/2017",
-            "05/21/2017"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "LTC / AMP Rock Checkoff"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157684050669066"
-        ]
-    },
-    {
-        "date": [
-            "05/06/2017",
-            "05/07/2017"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP15 Spring 2017 Joshua Tree"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157681503631601"
-        ]
-    },
-    {
-        "date": [
-            "04/29/2017"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP15 Spring 2017 Rappel Day"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157681456709320"
-        ]
-    },
-    {
-        "date": [
-            "04/22/2017"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP15 Spring 2017 Belay Day"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157681134695100"
-        ]
-    },
-    {
-        "date": [
-            "04/19/2017"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP15 Spring 2017 Knot & Harness Night"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157679701732064"
-        ]
-    },
-    {
-        "date": [
-            "10/22/2017",
-            "10/23/2016"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP14 Fall 2016 Joshua Tree"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157675693981766/"
-        ]
-    },
-    {
-        "date": [
-            "10/15/2016"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP14 Fall 2016 Rappel Day"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157671829964453/"
-        ]
-    },
-    {
-        "date": [
-            "10/08/2016"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP14 Fall 2016 Belay Day"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157671552217374/"
-        ]
-    },
-    {
-        "date": [
-            "10/05/2016"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP14 Fall 2016 Knots & Harness Night"
-        ]
-    },
-    {
-        "date": [
-            "04/30/2016",
-            "05/01/2016"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP13 Spring 2016 Joshua Tree"
-        ]
-    },
-    {
-        "date": [
-            "04/23/2016"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP13 Spring 2016 Rappel Day"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157667479803512"
-        ]
-    },
-    {
-        "date": [
-            "04/16/2016"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP13 Spring 2016 Belay Day"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157667178600641"
-        ]
-    },
-    {
-        "date": [
-            "04/13/2016"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP13 Spring 2016 Knots & Harness Night"
-        ]
-    },
-    {
-        "date": [
-            "10/17/2015",
-            "10/18/2015"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP12 Fall 2015 Joshua Tree"
-        ]
-    },
-    {
-        "date": [
-            "10/10/2015"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP12 Fall 2015 Rappel Day"
-        ]
-    },
-    {
-        "date": [
-            "10/03/2015"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP12 Fall 2015 Belay Day"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157662590250214"
-        ]
-    },
-    {
-        "date": [
-            "09/30/2015"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP12 Fall 2015 Knots & Harness Night"
-        ]
-    },
-    {
-        "date": [
-            "05/20/2015",
-            "05/11/2015"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP11 Spring 2015 Joshua Tree"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157652249424030/"
-        ]
-    },
-    {
-        "date": [
-            "05/02/2015"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP11 Spring 2015 Rappel Day"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157651878783407/"
-        ]
-    },
-    {
-        "date": [
-            "04/25/2015"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP11 Spring 2015 Belay Day"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157652188574962/"
-        ]
-    },
-    {
-        "date": [
-            "04/22/2015"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP11 Spring 2015 Knots & Harness Night"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157651714013479/"
-        ]
-    },
-    {
-        "date": [
-            "10/18/2014",
-            "10/19/2014"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP10 Fall 2014 Joshua Tree"
-        ]
-    },
-    {
-        "date": [
-            "10/11/2014"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP10 Fall 2014 Rappel Day"
-        ]
-    },
-    {
-        "date": [
-            "10/04/2014"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP10 Fall 2014 Belay Day"
-        ]
-    },
-    {
-        "date": [
-            "10/01/2014"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP10 Fall 2014 Knots & Harness Night"
-        ]
-    },
-    {
-        "date": [
-            "05/10/2014",
-            "05/11/2014"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP9 Spring 2014 Joshua Tree"
-        ]
-    },
-    {
-        "date": [
-            "05/04/2014"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP9 Spring 2014 Rappel Day"
-        ]
-    },
-    {
-        "date": [
-            "04/25/2014"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP9 Spring 2014 Belay Day"
-        ]
-    },
-    {
-        "date": [
-            "04/22/2014"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP9 Spring 2014 Knots & Harness Night"
-        ]
-    },
-    {
-        "date": [
-            "10/19/2013",
-            "10/20/2013"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP8 Fall 2013 Joshua Tree"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157636950380065/"
-        ]
-    },
-    {
-        "date": [
-            "10/12/2013"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP8 Fall 2013 Rappel Day"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157636587498636/"
-        ]
-    },
-    {
-        "date": [
-            "10/05/2013"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP8 Fall 2013 Belay Day"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157636295768666/"
-        ]
-    },
-    {
-        "date": [
-            "10/02/2013"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP8 Fall 2013 Knots & Harness Night"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157636295494975/"
-        ]
-    },
-    {
-        "date": [
-            "05/11/2013",
-            "05/12/2013"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP7 Spring 2013 Joshua Tree"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157633473573565/"
-        ]
-    },
-    {
-        "date": [
-            "05/04/2013"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP7 Spring 2013 Rappel Day"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157633434527410/"
-        ]
-    },
-    {
-        "date": [
-            "04/27/2013"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP7 Spring 2013 Belay Day"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157633365656931/"
-        ]
-    },
-    {
-        "date": [
-            "04/24/2013"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP7 Spring 2013 Knots & Harness Night"
-        ]
-    },
-    {
-        "date": [
-            "02/02/2013"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP Snow Travel Workshop"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157632688024757/"
-        ]
-    },
-    {
-        "date": [
-            "02/04/2012"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP Snow Workshop"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157629189117143/"
-        ]
-    },
-    {
-        "date": [
-            "02/18/2012"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP Leader Rock Workshop"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157629408968913/"
-        ]
-    },
-    {
-        "date": [
-            "03/03/2012"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP Rescue Systems"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157629534853753/"
-        ]
-    },
-    {
-        "date": [
-            "03/31/2012",
-            "04/01/2012"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP Vertical Adventures Sierra Leader Weekend"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157629413418378/"
-        ]
-    },
-    {
-        "date": [
-            "10/20/2012",
-            "10/21/2012"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP6 Fall 2012 Joshua Tree"
-        ]
-    },
-    {
-        "date": [
-            "10/13/2012"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP6 Fall 2012 Rappel Day"
-        ]
-    },
-    {
-        "date": [
-            "10/06/2012"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP6 Fall 2012 Belay Day"
-        ]
-    },
-    {
-        "date": [
-            "10/03/2012"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP6 Fall 2012 Knots & Harness Night"
-        ]
-    },
-    {
-        "date": [
-            "05/05/2012",
-            "05/06/2012"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP5 Spring 2012 Joshua Tree"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157629620457870/"
-        ]
-    },
-    {
-        "date": [
-            "04/28/2012"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP5 Spring 2012 Rappel Day"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157629921659339/"
-        ]
-    },
-    {
-        "date": [
-            "04/21/2012"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP5 Spring 2012 Belay Day"
-        ]
-    },
-    {
-        "date": [
-            "04/18/2012"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP5 Spring 2012 Knots & Harness Night"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157629513528108/"
-        ]
-    },
-    {
-        "date": [
-            "10/15/2011",
-            "10/16/2011"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP4 Fall 2011 Joshua Tree"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157627794321049/"
-        ]
-    },
-    {
-        "date": [
-            "10/08/2011"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP4 Fall 2011 Rappel Day"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157627746548389/"
-        ]
-    },
-    {
-        "date": [
-            "10/01/2011"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP4 Fall 2011 Belay Day"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157627816211702/"
-        ]
-    },
-    {
-        "date": [
-            "09/28/2011"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP4 Fall 2011 Knots & Harness Night"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157627654210757/"
-        ]
-    },
-    {
-        "date": [
-            "05/07/2011",
-            "05/08/2011"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP3 Spring 2011 Joshua Tree"
-        ]
-    },
-    {
-        "date": [
-            "04/30/2011"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP3 Spring 2011 Rappel Day"
-        ]
-    },
-    {
-        "date": [
-            "04/23/2011"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP3 Spring 2011 Belay Day"
-        ]
-    },
-    {
-        "date": [
-            "04/20/2011"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP3 Spring 2011 Knots & Harness Night"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157626453397907/"
-        ]
-    },
-    {
-        "date": [
-            "10/16/2010",
-            "10/17/2010"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP2 Fall 2010 Joshua Tree"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157625194646698/"
-        ]
-    },
-    {
-        "date": [
-            "10/09/2010"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP2 Fall 2010 Rappel Day"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157625138511894/"
-        ]
-    },
-    {
-        "date": [
-            "10/02/2010"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP2 Fall 2010 Belay Day"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157624957825519/"
-        ]
-    },
-    {
-        "date": [
-            "09/29/2010"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP2 Fall 2010 Knots & Harness Night"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157624951023535/"
-        ]
-    },
-    {
-        "date": [
-            "10/17/2009",
-            "10/18/2009"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP1 Fall 2009 Joshua Tree"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157622490649403/"
-        ]
-    },
-    {
-        "date": [
-            "10/10/2009"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP1 Fall 2009 Rappel Day"
-        ]
-    },
-    {
-        "date": [
-            "10/03/2009"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP1 Fall 2009 Belay Day"
-        ]
-    },
-    {
-        "date": [
-            "09/30/2009"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP1 Fall 2009 Knots & Harness Night"
-        ]
-    },
-    {
-        "date": [
-            "04/18/2017"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Kaweah Cotton Party",
-            "WTC 2017"
-        ]
-    },
-    {
-        "date": [
-            "04/05/2017"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Kaweah Multi Year Margarita Mashup @ Avilas",
-            "WTC 2017, WTC 2016, WTC 2015, WTC 2014, WTC 2013, WTC 2012"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157680531861450"
-        ]
-    },
-    {
-        "date": [
-            "03/10/2017",
-            "03/12/2017"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Snow Camp At Rock Creek",
-            "WTC 2017"
-        ]
-    },
-    {
-        "date": [
-            "02/26/2017"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Snow Travel Day Mount Waterman",
-            "WTC 2017"
-        ]
-    },
-    {
-        "date": [
-            "02/11/2017",
-            "02/12/2017"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Joshua Tree Weekend",
-            "WTC 2017"
-        ]
-    },
-    {
-        "date": [
-            "02/04/2017"
-        ],
-        "tripType": [
-            "Wilderness Travel Course",
-            "Peakbagging",
-            "Local Hiking"
-        ],
-        "tripName": [
-            "Mount Wilson via Chantry Flats with Long Beach Group 2",
-            "WTC 2017"
-        ],
-        "peaks": [
-            {
-                "anchor": "Mount Wilson",
-                "url": "http://www.peakbagger.com/peak.aspx?pid=1363",
-                "height": "5,713'"
-            }
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157680002937805"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2017/02/mount-wilson-loop-from-chantry-flats-lb.html"
-        ],
-        "maps": [
-            "https://www.flickr.com/photos/matthewhengst/32806813145/"
-        ]
-    },
-    {
-        "date": [
-            "01/29/2017"
-        ],
-        "tripType": [
-            "Wilderness Travel Course",
-            "Peakbagging",
-            "Local Hiking",
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Conditioning Hike To Mount Wilson",
-            "WTC 2017",
-            "WTC Classroom Shots at Calvary Church",
-            "WTC 2017"
-        ],
-        "peaks": [
-            {
-                "anchor": "Mount Wilson",
-                "url": "http://www.peakbagger.com/peak.aspx?pid=1363",
-                "height": "5,713'"
-            }
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157679669195966",
-            "https://www.flickr.com/photos/matthewhengst/albums/72157675509482624"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2017/01/wilderness-travel-course-2017.html"
-        ],
-        "maps": [
-            "http://caltopo.com/m/48C1"
-        ]
-    },
-    {
-        "date": [
-            "10/22/2016"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Graduation",
-            "WTC 2016"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157672169960454/"
-        ]
-    },
-    {
-        "date": [
-            "05/10/2016"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Kaweah Cotton Party At UCI",
-            "WTC 2016"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157668306251075/"
-        ]
-    },
-    {
-        "date": [
-            "04/01/2016",
-            "04/03/2016"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Snow Camp At Rock Creek",
-            "Fiesta Luau Theme",
-            "WTC 2016"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157666775756945/"
-        ]
-    },
-    {
-        "date": [
-            "03/13/2016"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Snow Travel Day to Onyx",
-            "WTC 2016"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157665358979480/"
-        ]
-    },
-    {
-        "date": [
-            "02/27/2016",
-            "02/28/2016"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Joshua Tree Weekend",
-            "90s Neon Theme",
-            "WTC 2016"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157662960115364/"
-        ]
-    },
-    {
-        "date": [
-            "02/14/2016"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Conditioning Hike To Mount Wilson",
-            "WTC 2016"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157664572601952/"
-        ]
-    },
-    {
-        "date": [
-            "01/26/2016"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "WTC Classroom Shots at Murray Center",
-            "WTC 2016"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157661671271693/"
-        ]
-    },
-    {
-        "date": [
-            "10/17/2015"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Graduation 2017",
-            "WTC 2015"
-        ]
-    },
-    {
-        "date": [
-            "03/20/2015",
-            "03/22/2015"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Snow Camp At Rock Creek Almost Without Snow",
-            "WTC 2015"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157649192723074/"
-        ]
-    },
-    {
-        "date": [
-            "03/08/2015"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Snow Travel Mount Waterman",
-            "WTC 2015"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157651321693111/"
-        ]
-    },
-    {
-        "date": [
-            "02/21/2015",
-            "02/22/2015"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Joshua Tree Weekend",
-            "WTC 2015"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157648679619063/"
-        ]
-    },
-    {
-        "date": [
-            "02/08/2015"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Santiago Conditoning Hike",
-            "WTC 2015"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157650349241409/"
-        ]
-    },
-    {
-        "date": [
-            "01/20/2015"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Classroom Shots Santiago Canyon College",
-            "WTC 2015"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157648078623414/"
-        ]
-    },
-    {
-        "date": [
-            "10/18/2014"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Graduation",
-            "WTC 2014"
-        ]
-    },
-    {
-        "date": [
-            "03/14/2014",
-            "03/16/2014"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Snow Camp Rock Creek",
-            "Beach Party Theme",
-            "WTC 2014"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157642515493635/"
-        ]
-    },
-    {
-        "date": [
-            "03/02/2014"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Snow Travel Icehouse Canyon",
-            "WTC 2014"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157641788262854/"
-        ]
-    },
-    {
-        "date": [
-            "02/15/2014",
-            "02/16/2014"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Joshua Tree Weekend",
-            "Hippies Dirty or Otherwise Theme",
-            "WTC 2014"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157641131129115/"
-        ]
-    },
-    {
-        "date": [
-            "02/02/2014"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Conditioning Hike Santiago",
-            "WTC 2014"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157640469865024/"
-        ]
-    },
-    {
-        "date": [
-            "01/14/2014"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Classroom Shots Santiago Canyon College",
-            "WTC 2014"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157639835321786/"
-        ]
-    },
-    {
-        "date": [
-            "10/16/2014"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "WTC 2013 Reunion Gettogether",
-            "WTC 2013"
-        ]
-    },
-    {
-        "date": [
-            "10/19/2013"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Graduation",
-            "WTC 2013"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157636950683266/"
-        ]
-    },
-    {
-        "date": [
-            "03/08/2013",
-            "03/10/2013"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Snow Camp Rock Creek",
-            "WTC 2013"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157632971399923/"
-        ]
-    },
-    {
-        "date": [
-            "02/24/2013"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Snow Travel Onyx",
-            "WTC 2013"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157632856288449/"
-        ]
-    },
-    {
-        "date": [
-            "02/09/2013",
-            "02/10/2013"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Joshua Tree Weekend",
-            "Pirate Theme",
-            "WTC 2013"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157632745665362/"
-        ]
-    },
-    {
-        "date": [
-            "01/27/2013"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Conditioning Hike Santiago",
-            "WTC 2013"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157632629832911/"
-        ]
-    },
-    {
-        "date": [
-            "01/08/2013"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Classroom Shots Red Hill Church",
-            "WTC 2013"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157632487986851/"
-        ]
-    },
-    {
-        "date": [
-            "10/20/2012"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Graduation",
-            "WTC 2012 - Kaweah Year One"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157631831619064/"
-        ]
-    },
-    {
-        "date": [
-            "03/23/2012",
-            "03/25/2012"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Snow Camp South Lake Hard Haul",
-            "WTC 2012 - Kaweah Year One"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157629309380018/"
-        ]
-    },
-    {
-        "date": [
-            "03/01/2012"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Snow Travel Waterman Without Snow",
-            "WTC 2012 - Kaweah Year One"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157629566876575/"
-        ]
-    },
-    {
-        "date": [
-            "02/25/2012",
-            "02/26/2012"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Joshua Tree Weekend",
-            "WTC 2012 - Kaweah Year One"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157629469136715/"
-        ]
-    },
-    {
-        "date": [
-            "02/12/2012"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Conditioning Hike Wilson",
-            "WTC 2012 - Kaweah Year One"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157629311913393/"
-        ]
-    },
-    {
-        "date": [
-            "01/24/2012"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Classroom Shots Red Hill Church",
-            "WTC 2012 - Kaweah Year One"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157629028709593/"
-        ]
-    },
-    {
-        "date": [
-            "10/15/2011"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Graduation",
-            "WTC 2011 - Modjeska Snowmageddon"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157627794321049/"
-        ]
-    },
-    {
-        "date": [
-            "03/18/2011",
-            "03/20/2011"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Snowmageddon Snow Camp North Lake",
-            "WTC 2011 - Modjeska Snowmageddon"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157626321266798/"
-        ]
-    },
-    {
-        "date": [
-            "03/05/2011"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Snow Travel Day South Fork",
-            "WTC 2011 - Modjeska Snowmageddon"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157626213746770/"
-        ]
-    },
-    {
-        "date": [
-            "02/19/2011",
-            "02/20/2011"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Joshua Tree Weekend",
-            "WTC 2011 - Modjeska Snowmageddon"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157626100121106/"
-        ]
-    },
-    {
-        "date": [
-            "02/05/2011"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Conditioning Hike Sierra Peak",
-            "WTC 2011 - Modjeska Snowmageddon"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157625992326060/"
-        ]
-    },
-    {
-        "date": [
-            "01/18/2011"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Classroom Shots Red Hill Church",
-            "WTC 2011 - Modjeska Snowmageddon"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157625737570345/"
-        ]
-    },
-    {
-        "date": [
-            "10/16/2010"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Graduation",
-            "WTC 2010"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157625195720920/"
-        ]
-    },
-    {
-        "date": [
-            "03/12/2010",
-            "03/14/2010"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Snow Camp South Lake",
-            "WTC 2010"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157623623208156/"
-        ]
-    },
-    {
-        "date": [
-            "02/13/2010",
-            "02/14/2010"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Joshua Tree Weekend",
-            "WTC 2010"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157623436960038/"
-        ]
-    },
-    {
-        "date": [
-            "01/31/2010"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Conditioning Hike To Santiago With Group 1",
-            "WTC 2010"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157623201038707/"
-        ]
-    },
-    {
-        "date": [
-            "02/24/2010"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Classroom Shots UCI",
-            "WTC 2010"
-        ]
-    },
-    {
-        "date": [
-            "10/17/2009"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Graduation",
-            "WTC 2009"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157622490649403/"
-        ]
-    },
-    {
-        "date": [
-            "03/06/2009",
-            "03/08/2009"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Snow Camp North Lake",
-            "WTC 2009"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157615009038894/"
-        ]
-    },
-    {
-        "date": [
-            "02/21/2009"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Snow Travel South Fork",
-            "WTC 2009"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157614282309212/"
-        ]
-    },
-    {
-        "date": [
-            "02/07/2009",
-            "02/08/2009"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Joshua Tree Weekend",
-            "WTC 2009"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157613505891389/"
-        ]
-    },
-    {
-        "date": [
-            "10/18/2008"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Graduation",
-            "WTC 2008 - Student Year"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157608197111761/"
-        ]
-    },
-    {
-        "date": [
-            "06/28/2008"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Cotton Party",
-            "WTC 2008 - Student Year"
-        ]
-    },
-    {
-        "date": [
-            "04/04/2008",
-            "04/06/2008"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Snow Travel South Lake",
-            "WTC 2008 - Student Year"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157604448224209/"
-        ]
-    },
-    {
-        "date": [
-            "03/15/2008"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Snow Travel Mount Waterman",
-            "WTC 2008 - Student Year"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157604142873007/"
-        ]
-    },
-    {
-        "date": [
-            "02/29/2008",
-            "03/01/2008"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Joshua Tree Weekend",
-            "WTC 2008 - Student Year"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157604035896442/"
-        ]
-    },
-    {
-        "date": [
-            "02/16/2008"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Conditioning Hike Santiago",
-            "WTC 2008 - Student Year"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157603936818157/"
-        ]
-    },
-    {
-        "date": [
             "01/19/2001"
         ]
-    },
-    {
-        "date": [
-            "08/24/2017"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157688064455525"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2017/08/newport-harbor-pizza-paddle-august-2017.html"
-        ]
-    },
-    {
-        "date": [
-            "07/20/2017"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157683290643882"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2017/07/newport-harbor-pizza-paddle-july-2017.html"
-        ]
-    },
-    {
-        "date": [
-            "05/18/2017"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157683922907656"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2017/05/newport-harbor-pizza-paddle-may-2017.html"
-        ]
-    },
-    {
-        "date": [
-            "04/27/2017"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157682042435050"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2017/04/newport-harbor-pizza-paddle-april-2017.html"
-        ]
-    },
-    {
-        "date": [
-            "12/18/2016"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "Christmas Parade Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157674232631083"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2016/12/2016-newport-harbor-christmas-light.html"
-        ]
-    },
-    {
-        "date": [
-            "12/06/2016"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157673621732434"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2016/12/newport-harbor-pizza-paddle-december.html"
-        ]
-    },
-    {
-        "date": [
-            "11/17/2016"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ]
-    },
-    {
-        "date": [
-            "10/18/2016"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ]
-    },
-    {
-        "date": [
-            "09/20/2016"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157674192892735/"
-        ]
-    },
-    {
-        "date": [
-            "08/16/2016"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2016/08/newport-harbor-pizza-paddle-august-2016.html"
-        ]
-    },
-    {
-        "date": [
-            "07/27/2016"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2016/07/newport-harbor-pizza-paddle-july-2016.html"
-        ]
-    },
-    {
-        "date": [
-            "05/19/2016"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ]
-    },
-    {
-        "date": [
-            "04/14/2016"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157667993291951/"
-        ]
-    },
-    {
-        "date": [
-            "03/31/2016"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ]
-    },
-    {
-        "date": [
-            "03/03/2016"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157663152688844/"
-        ]
-    },
-    {
-        "date": [
-            "02/05/2016"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ]
-    },
-    {
-        "date": [
-            "01/13/2016"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157661199177934/"
-        ]
-    },
-    {
-        "date": [
-            "12/19/2015"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "Christmas Parade Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157663184412171/"
-        ]
-    },
-    {
-        "date": [
-            "10/28/2015"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157663296842476/"
-        ]
-    },
-    {
-        "date": [
-            "09/23/2015"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157661017813914/"
-        ]
-    },
-    {
-        "date": [
-            "08/27/2015"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157663313512256/"
-        ]
-    },
-    {
-        "date": [
-            "08/22/2015"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "Newport Harbor Three of Us"
-        ]
-    },
-    {
-        "date": [
-            "07/21/2015"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ]
-    },
-    {
-        "date": [
-            "06/27/2015"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "Sunrise China Cove Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157662793223320/"
-        ]
-    },
-    {
-        "date": [
-            "06/10/2015"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157662792421850/"
-        ]
-    },
-    {
-        "date": [
-            "05/07/2015"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157652452105491/"
-        ]
-    },
-    {
-        "date": [
-            "04/30/2015"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157652469064721/"
-        ]
-    },
-    {
-        "date": [
-            "03/31/2015"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157651291154120/"
-        ]
-    },
-    {
-        "date": [
-            "02/15/2015"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "China Cove Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157650833970332/"
-        ]
-    },
-    {
-        "date": [
-            "12/23/2014"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157647666626844/"
-        ]
-    },
-    {
-        "date": [
-            "12/18/2014"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "Christmas Parade Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157647517693853/"
-        ]
-    },
-    {
-        "date": [
-            "12/07/2014"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "Crystal Cove Area Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157649417763808/"
-        ]
-    },
-    {
-        "date": [
-            "11/08/2014"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "China Cove Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157649297145185/"
-        ]
-    },
-    {
-        "date": [
-            "11/04/2014"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "Pizza Paddling Off The Dock"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157661286351693/"
-        ]
-    },
-    {
-        "date": [
-            "10/30/2014"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "First Time Out With Tempest"
-        ]
-    },
-    {
-        "date": [
-            "10/12/2014"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "Test Driving Kayaks At Aqua Adventures"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157663202230842/"
-        ]
-    },
-    {
-        "date": [
-            "09/30/2014"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "Paddle Dock & Dine"
-        ]
-    },
-    {
-        "date": [
-            "09/21/2014"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "La Jolla Paddle & Snorkle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157647798655490/"
-        ]
-    },
-    {
-        "date": [
-            "09/05/2014"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "Newport Avila's Dock & Dine"
-        ]
-    },
-    {
-        "date": [
-            "08/19/2014"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "Pizza Nova Dock & Dine"
-        ]
-    },
-    {
-        "date": [
-            "08/12/2014"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "Kayaking #2"
-        ]
-    },
-    {
-        "date": [
-            "08/07/2014"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "Kayaking In The New Inflatable"
-        ]
-    },
-    {
-        "date": [
-            "09/24/2011"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "Anacapa Sea Cave Paddle"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157627631069061/"
-        ]
-    },
-    {
-        "date": [
-            "12/31/2016",
-            "01/03/2017"
-        ],
-        "tripType": [
-            "Hot Springs"
-        ],
-        "tripName": [
-            "New Years Coyote Pool",
-            "Guadalupe Canyon Hot Springs"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157675018400873"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2017/01/new-years-at-guadalupe-canyon-hot.html"
-        ]
-    },
-    {
-        "date": [
-            "01/02/2016"
-        ],
-        "tripType": [
-            "Hot Springs"
-        ],
-        "tripName": [
-            "Bungalow Cabin Overnight",
-            "Benton Hot Springs"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157663124388036"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2016/01/benton-hot-springs-bungalow-cabin.html"
-        ]
-    },
-    {
-        "date": [
-            "11/27/2015"
-        ],
-        "tripType": [
-            "Hot Springs"
-        ],
-        "tripName": [
-            "Sunset Pool Overnight",
-            "El Dorado Hot Springs"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2015/11/el-dorado-hot-springs-in-tonopah.html"
-        ]
-    },
-    {
-        "date": [
-            "10/31/2015",
-            "11/01/2015"
-        ],
-        "tripType": [
-            "Hot Springs"
-        ],
-        "tripName": [
-            "Conway Cabin Halloween Overnight",
-            "Benton Hot Springs"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157663124388036"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2015/10/benton-hot-springs-halloween-weekend-in.html"
-        ]
-    },
-    {
-        "date": [
-            "10/24/2015",
-            "10/25/2016"
-        ],
-        "tripType": [
-            "Hot Springs"
-        ],
-        "tripName": [
-            "Desert View Overnight",
-            "El Dorado Hot Springs"
-        ]
-    },
-    {
-        "date": [
-            "04/19/2015"
-        ],
-        "tripType": [
-            "Hot Springs"
-        ],
-        "tripName": [
-            "Crab Cooker Too Damn Hot",
-            "Mammoth Lakes Hot Springs"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157663124388036"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2015/04/mammoth-area-hot-springs-crab-cooker-is.html"
-        ]
-    },
-    {
-        "date": [
-            "04/18/2015"
-        ],
-        "tripType": [
-            "Hot Springs"
-        ],
-        "tripName": [
-            "Fish Lake Valley Hot Well",
-            "Dyer, NV"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157663124388036"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2015/03/fish-lake-valley-hot-well.html"
-        ]
-    },
-    {
-        "date": [
-            "03/28/2015"
-        ],
-        "tripType": [
-            "Hot Springs"
-        ],
-        "tripName": [
-            "Fish Lake Valley Hot Well",
-            "Dyer, NV"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157651639858191"
-        ]
-    },
-    {
-        "date": [
-            "01/04/2015"
-        ],
-        "tripType": [
-            "Hot Springs"
-        ],
-        "tripName": [
-            "Desert View Pool",
-            "El Dorado Hot Springs"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157647829406873"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2015/01/el-dorado-hot-springs-in-tonopah.html"
-        ]
-    },
-    {
-        "date": [
-            "01/12/2014"
-        ],
-        "tripType": [
-            "Hot Springs"
-        ],
-        "tripName": [
-            "Pico Risco Trailhead Pools",
-            "Guadalupe Canyon Hot Springs"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157639754811643"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2014/01/pico-risco-mexican-dps-peak-from.html"
-        ]
-    },
-    {
-        "date": [
-            "04/09/2011",
-            "04/10/2011"
-        ],
-        "tripType": [
-            "Rock Climbing"
-        ],
-        "tripName": [
-            "RCSC Graduation At Alabama Hills"
-        ],
-        "pics": [
-            "http://www.flickr.com/photos/matthewhengst/sets/72157626474640728/"
-        ]
-    },
-    {
-        "date": [
-            "03/12/2011"
-        ],
-        "tripType": [
-            "Rock Climbing"
-        ],
-        "tripName": [
-            "SCMA RCSC 2011 Session 4 Anchors! at Rubidoux"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157626143362031/"
-        ]
-    },
-    {
-        "date": [
-            "02/26/2011"
-        ],
-        "tripType": [
-            "Rock Climbing"
-        ],
-        "tripName": [
-            "SCMA RCSC 2011 Session 3 Prusik at Rubidoux"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157626151789040/"
-        ]
-    },
-    {
-        "date": [
-            "01/29/2011"
-        ],
-        "tripType": [
-            "Rock Climbing"
-        ],
-        "tripName": [
-            "SCMA RCSC 2011 Session 1 At Stony Point"
-        ],
-        "pics": [
-            "http://www.flickr.com/photos/matthewhengst/sets/72157625957552014/"
-        ]
-    },
-    {
-        "date": [
-            "06/19/2010"
-        ],
-        "tripType": [
-            "Rock Climbing"
-        ],
-        "tripName": [
-            "SCMA Eval #2 White Maidens Walkaway at Tahquitz"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157624197339603/"
-        ]
-    },
-    {
-        "date": [
-            "06/12/2010"
-        ],
-        "tripType": [
-            "Rock Climbing"
-        ],
-        "tripName": [
-            "SCMA RCSC Eval #1 - Premier Butress at Whitney Portal"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157624144620495/"
-        ],
-        "tripRpt": [
-            "https://drive.google.com/file/d/0Bxs4R_Khzq1WZGYwM2UwOWYtNjIxMi00YzlkLWFhNDMtMjFjMTMxNDhiYWU1/view?usp=sharing"
-        ]
-    },
-    {
-        "date": [
-            "06/05/2010",
-            "06/06/2010"
-        ],
-        "tripType": [
-            "Rock Climbing"
-        ],
-        "tripName": [
-            "Holcomb Valley Pinacles With SCMA"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157624095637551/"
-        ]
-    },
-    {
-        "date": [
-            "04/24/2010",
-            "04/25/2010"
-        ],
-        "tripType": [
-            "Rock Climbing"
-        ],
-        "tripName": [
-            "SCMA RCSC Graduation At Alabama Hills"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157623932989210/"
-        ],
-        "tripRpt": [
-            "https://drive.google.com/file/d/0Bxs4R_Khzq1WZGYwM2UwOWYtNjIxMi00YzlkLWFhNDMtMjFjMTMxNDhiYWU1/view?usp=sharing"
-        ]
-    },
-    {
-        "date": [
-            "04/10/2010"
-        ],
-        "tripType": [
-            "Rock Climbing"
-        ],
-        "tripName": [
-            "SCMA RCSC Simulated Multi-Pitch at Big Rock"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157623704081187/"
-        ],
-        "tripRpt": [
-            "https://drive.google.com/file/d/0Bxs4R_Khzq1WZGYwM2UwOWYtNjIxMi00YzlkLWFhNDMtMjFjMTMxNDhiYWU1/view?usp=sharing"
-        ]
-    },
-    {
-        "date": [
-            "03/27/2010"
-        ],
-        "tripType": [
-            "Rock Climbing"
-        ],
-        "tripName": [
-            "SCMA RCSC Anchors, Anchors, and more Anchors! at Rubidoux"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157623592914771/"
-        ],
-        "tripRpt": [
-            "https://drive.google.com/file/d/0Bxs4R_Khzq1WZGYwM2UwOWYtNjIxMi00YzlkLWFhNDMtMjFjMTMxNDhiYWU1/view?usp=sharing"
-        ]
-    },
-    {
-        "date": [
-            "03/05/2010"
-        ],
-        "tripType": [
-            "Rock Climbing"
-        ],
-        "tripName": [
-            "SCMA RCSC Prusiking, Fallen Climber, and Potential Electrocution at Rubidoux"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157623572536108/"
-        ],
-        "tripRpt": [
-            "https://drive.google.com/file/d/0Bxs4R_Khzq1WZGYwM2UwOWYtNjIxMi00YzlkLWFhNDMtMjFjMTMxNDhiYWU1/view?usp=sharing"
-        ]
-    },
-    {
-        "date": [
-            "02/20/2010"
-        ],
-        "tripType": [
-            "Rock Climbing"
-        ],
-        "tripName": [
-            "SCMA RCSC Prusiking at Stoney Point"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157623477038772/"
-        ],
-        "tripRpt": [
-            "https://drive.google.com/file/d/0Bxs4R_Khzq1WZGYwM2UwOWYtNjIxMi00YzlkLWFhNDMtMjFjMTMxNDhiYWU1/view?usp=sharing"
-        ]
-    },
-    {
-        "date": [
-            "02/06/2010"
-        ],
-        "tripType": [
-            "Rock Climbing"
-        ],
-        "tripName": [
-            "SCMA RCSC Rappeling at Rubidoux"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157623243936777/"
-        ],
-        "tripRpt": [
-            "https://drive.google.com/file/d/0Bxs4R_Khzq1WZGYwM2UwOWYtNjIxMi00YzlkLWFhNDMtMjFjMTMxNDhiYWU1/view?usp=sharing"
-        ]
-    },
-    {
-        "date": [
-            "01/23/2010"
-        ],
-        "tripType": [
-            "Rock Climbing"
-        ],
-        "tripName": [
-            "SCMA RCSC Knots and Such at Hanger 18"
-        ],
-        "pics": [
-            "https://drive.google.com/file/d/0Bxs4R_Khzq1WZGYwM2UwOWYtNjIxMi00YzlkLWFhNDMtMjFjMTMxNDhiYWU1/view?usp=sharing"
-        ],
-        "tripRpt": [
-            "https://drive.google.com/file/d/0Bxs4R_Khzq1WZGYwM2UwOWYtNjIxMi00YzlkLWFhNDMtMjFjMTMxNDhiYWU1/view?usp=sharing"
-        ]
-    },
-    {
-        "date": [
-            "01/22/2011"
-        ],
-        "tripType": [
-            "Training"
-        ],
-        "tripName": [
-            "Sierra Club Baldy Snow Practice"
-        ],
-        "pics": [
-            "http://www.flickr.com/photos/matthewhengst/sets/72157625763052913/"
-        ]
-    }]
+    }
+]
 }

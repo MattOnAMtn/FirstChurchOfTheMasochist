@@ -73,6 +73,17 @@
     },
     {
         "date": [
+            "11/30/2017"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "Semi Irregular OC Climbing Night @ Rock City"
+        ]
+    },
+    {
+        "date": [
             "11/27/2017"
         ],
         "tripType": [
@@ -291,6 +302,17 @@
     },
     {
         "date": [
+            "11/14/2017"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "Semi Irregular OC Climbing Night @ Rock City"
+        ]
+    },
+    {
+        "date": [
             "11/11/2017",
             "11/12/2017"
         ],
@@ -302,6 +324,23 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157687326543352"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/10/sierra-club-advanced-mountaineering.html"
+        ]
+    },
+    {
+        "date": [
+            "11/01/2017"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "Semi Irregular OC Climbing Night @ Sender"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157688795276184"
         ]
     },
     {
@@ -317,6 +356,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157690617377876"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/10/sierra-club-advanced-mountaineering.html"
         ]
     },
     {
@@ -346,6 +388,23 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157689713606896"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/10/sierra-club-advanced-mountaineering.html"
+        ]
+    },
+    {
+        "date": [
+            "10/17/2017"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "Semi Irregular OC Climbing Night @ Rockreation"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157661652008308"
         ]
     },
     {
@@ -360,6 +419,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157687915741734"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/10/sierra-club-advanced-mountaineering.html"
         ]
     },
     {
@@ -374,6 +436,23 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157687915164384"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/10/sierra-club-advanced-mountaineering.html"
+        ]
+    },
+    {
+        "date": [
+            "10/05/2017"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "Semi Irregular OC Climbing Night @ Rock City"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157687692238983"
         ]
     },
     {
@@ -406,6 +485,20 @@
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/36626703394/in/dateposted-public/",
             "https://caltopo.com/m/8APC"
+        ]
+    },
+    {
+        "date": [
+            "09/20/2017"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "Semi Irregular OC Climbing Night @ Aesthetic"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157685402684862"
         ]
     },
     {
@@ -630,6 +723,17 @@
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/36475341571/in/album-72157685119301064/",
             "https://caltopo.com/m/AQHK"
+        ]
+    },
+    {
+        "date": [
+            "08/09/2017"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "Semi Irregular OC Climbing Night @ Aesthetic"
         ]
     },
     {

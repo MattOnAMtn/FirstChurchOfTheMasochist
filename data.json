@@ -2,6 +2,58 @@
 "data": [
     {
         "date": [
+            "12/17/2017"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Desert Climbing"
+        ],
+        "tripName": [
+            "Fremont Peak & Red Mountain Near Randsburg",
+            "California P2k",
+            "Sierra Club Hundred Peaks Section",
+            "Desert Off List"
+        ],
+        "peaks": [
+            {
+                "anchor": "Fremont Peak",
+                "url": "http://peakbagger.com/peak.aspx?pid=3777",
+                "height": "4,584'"
+            },
+            {
+                "anchor": "Red Mountain",
+                "url": "http://peakbagger.com/peak.aspx?pid=3775",
+                "height": "5,264'"
+            }
+        ]
+    },
+    {
+        "date": [
+            "12/16/2017"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Desert Climbing"
+        ],
+        "tripName": [
+            "Klinker & Dome Mountain In Lava Mountains",
+            "California Wilderness High Points"
+        ],
+        "peaks": [
+            {
+                "anchor": "Klinker Mountain",
+                "url": "http://peakbagger.com/peak.aspx?pid=37368",
+                "height": "4,562'"
+            },
+            {
+                "anchor": "Dome Mountain",
+                "url": "http://peakbagger.com/peak.aspx?pid=35769",
+                "height": "4,974'"
+            }
+        ]
+    },
+    {
+        "date": [
             "12/04/2017"
         ],
         "tripType": [
@@ -359,6 +411,21 @@
         ],
         "tripRpt": [
             "http://www.firstchurchofthemasochist.com/2017/10/sierra-club-advanced-mountaineering.html"
+        ]
+    },
+    {
+        "date": [
+            "10/27/2017"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "WTC Graduation At Joshua Tree Lake",
+            "WTC 2017"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157687766851041"
         ]
     },
     {
@@ -5548,6 +5615,15 @@
                 "url": "http://www.peakbagger.com/peak.aspx?pid=4019",
                 "height": "7,148’"
             }
+        ],
+        "pics": [
+            "http://www.flickr.com/photos/matthewhengst/sets/72157638327263364/"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2013/12/mount-tipton-dps.html"
+        ],
+        "maps": [
+            "http://www.flickr.com/photos/matthewhengst/11243085493/in/set-72157638327263364"
         ]
     },
     {
@@ -5596,6 +5672,12 @@
         "tripName": [
             "Sledding Dunes At White Sands NM",
             "Turktacular 2013"
+        ],
+        "pics": [
+            "http://www.flickr.com/photos/matthewhengst/sets/72157638327045665/"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2013/11/sledding-dunes-at-white-sands.html"
         ]
     },
     {
@@ -5641,6 +5723,9 @@
         "tripName": [
             "Biosphere 2 Tour",
             "Turktacular 2013"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2013/11/guadalupe-peak-texas-state-highpoint.html"
         ]
     },
     {
@@ -14250,11 +14335,6 @@
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157600556907606/"
-        ]
-    },
-    {
-        "date": [
-            "01/19/2001"
         ]
     }
 ]

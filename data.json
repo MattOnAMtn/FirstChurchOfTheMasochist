@@ -5,14 +5,10 @@
             "12/17/2017"
         ],
         "tripType": [
-            "Peakbagging",
-            "Desert Climbing"
+            "California P2k, Sierra Club Hundred Peaks Section, Desert Off List"
         ],
         "tripName": [
-            "Fremont Peak & Red Mountain Near Randsburg",
-            "California P2k",
-            "Sierra Club Hundred Peaks Section",
-            "Desert Off List"
+            "Fremont Peak & Red Mountain Near Randsburg"
         ],
         "peaks": [
             {
@@ -54,6 +50,23 @@
     },
     {
         "date": [
+            "12/14/2017"
+        ],
+        "tripName": [
+            "2017 Newport Beach Christmas Boat Parade Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157667455474849"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/12/2017-newport-beach-christmas-boat.html"
+        ],
+        "maps": [
+            "http://2.bp.blogspot.com/-iKWBfDqkTU4/WjQFSEMbOeI/AAAAAAAHYO8/4Tq8LHiXXPIFofvQ3LczbMbMFY7HFCCUQCK4BGAYYCw/s1600/Capture.PNG"
+        ]
+    },
+    {
+        "date": [
             "12/04/2017"
         ],
         "tripType": [
@@ -62,7 +75,8 @@
         ],
         "tripName": [
             "Jubilee Mountain, Ibex Peak, & American Mine",
-            "Death Valley"
+            "Death Valley",
+            "Desert Off List"
         ],
         "peaks": [
             {
@@ -98,7 +112,8 @@
         ],
         "tripName": [
             "Ashford Peak, Desert Hound Peak, & Ashford Mine",
-            "Death Valley"
+            "Death Valley",
+            "Desert Off List"
         ],
         "peaks": [
             {
@@ -302,7 +317,7 @@
         ],
         "tripName": [
             "Moapa Peak",
-            "Desert Peak Section"
+            "Sierra Club Desert Peak Section List"
         ],
         "peaks": [
             {
@@ -332,7 +347,7 @@
         ],
         "tripName": [
             "Muddy Peak In Clark County Nevada",
-            "Desert Peak Section"
+            "Sierra Club Desert Peak Section List"
         ],
         "peaks": [
             {
@@ -534,7 +549,8 @@
         ],
         "tripName": [
             "Mount Starr King With 16 People",
-            "WTC Experience Trip"
+            "WTC Experience Trip",
+            "Sierra Slub Sierra Peak Section List"
         ],
         "peaks": [
             {
@@ -580,7 +596,8 @@
         ],
         "tripName": [
             "Koip & Kuna Via Bloody Canyon",
-            "WTC Experience Trip"
+            "WTC Experience Trip",
+            "Sierra Slub Sierra Peak Section List"
         ],
         "peaks": [
             {
@@ -617,7 +634,8 @@
         ],
         "tripName": [
             "Mount Baldwin From Bright Dot Lake Convict Canyon",
-            "WTC Experience Trip"
+            "WTC Experience Trip",
+            "Sierra Slub Sierra Peak Section List"
         ],
         "peaks": [
             {
@@ -649,7 +667,8 @@
         ],
         "tripName": [
             "Rodgers & Electra From Isbergh Pass",
-            "WTC Experience Trip"
+            "WTC Experience Trip",
+            "Sierra Slub Sierra Peak Section List"
         ],
         "peaks": [
             {
@@ -683,7 +702,8 @@
         ],
         "tripName": [
             "Duck Lake Peak & Pika Lake Loop From Lake Mary To Lake George",
-            "WTC Experience Trip"
+            "WTC Experience Trip",
+            "Sierra Slub Sierra Peak Section List"
         ],
         "peaks": [
             {
@@ -729,7 +749,8 @@
         ],
         "tripName": [
             "Hengst, White Chief, and Miners Nose In Mineral King",
-            "WTC Experience Trip"
+            "WTC Experience Trip",
+            "Sierra Slub Sierra Peak Section List"
         ],
         "peaks": [
             {
@@ -772,7 +793,8 @@
         ],
         "tripName": [
             "Red Slate",
-            "WTC Experience Trip"
+            "WTC Experience Trip",
+            "Sierra Slub Sierra Peak Section List"
         ],
         "peaks": [
             {
@@ -849,7 +871,8 @@
         "tripName": [
             "Vandever Mountain & White Chief Cave",
             "WTC Experience Trip",
-            "Car Stranded In Mineral King"
+            "Car Stranded In Mineral King",
+            "Sierra Slub Sierra Peak Section List"
         ],
         "peaks": [
             {
@@ -1772,7 +1795,7 @@
             "Paddling"
         ],
         "tripName": [
-            "Christmas Parade Paddle"
+            "2016 Newport Beach Christmas Boat Parade Paddle"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157674232631083"
@@ -3201,10 +3224,13 @@
             "Paddling"
         ],
         "tripName": [
-            "Christmas Parade Paddle"
+            "2015 Newport Beach Christmas Boat Parade Paddle In The Rain"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157663184412171/"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2015/12/2015-newport-harbor-christmas-light.html"
         ]
     },
     {
@@ -4235,10 +4261,13 @@
             "Paddling"
         ],
         "tripName": [
-            "Christmas Parade Paddle"
+            "2014 Newport Beach Christmas Boat Parade Paddle"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157647517693853/"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2014/12/kayaking-newport-harbor-christmas-light.html"
         ]
     },
     {

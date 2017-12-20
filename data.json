@@ -387,7 +387,7 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "LTC / AMP Rock Checkoff"
+            "LTC / AMP Rock Checkoff At Indian Cove"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157687326543352"
@@ -419,7 +419,9 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP16 Fall 2017 Joshua Tree"
+            "AMP Anchors & Real World Applications",
+            "Advanced Mountaineering Program (AMP16) Fall 2017",
+            "Indian Cove, Joshua Tree"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157690617377876"
@@ -445,28 +447,15 @@
     },
     {
         "date": [
-            "10/22/2017",
-            "10/23/2016"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP14 Fall 2016 Joshua Tree"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157675693981766/"
-        ]
-    },
-    {
-        "date": [
             "10/21/2017"
         ],
         "tripType": [
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP16 Fall 2017 Rappel Day"
+            "AMP Rappelling",
+            "Advanced Mountaineering Program (AMP16) Fall 2017",
+            "Stoney Point"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157689713606896"
@@ -497,7 +486,9 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP16 Fall 2017 Belay Day"
+            "AMP Belay Skills",
+            "Advanced Mountaineering Program (AMP16) Fall 2017",
+            "Stoney Point"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157687915741734"
@@ -514,7 +505,9 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "AMP16 Fall 2017 Knot & Harness Night"
+            "AMP Knots & Basic Safety Systems",
+            "Advanced Mountaineering Program (AMP16) Fall 2017",
+            "Fullerton Community Center"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157687915164384"
@@ -2218,6 +2211,21 @@
     },
     {
         "date": [
+            "10/22/2016",
+            "10/23/2016"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP14 Fall 2016 Joshua Tree"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157675693981766/"
+        ]
+    },
+    {
+        "date": [
             "10/22/2016"
         ],
         "tripType": [
@@ -3154,6 +3162,13 @@
             "Conditioning Hike To Mount Wilson",
             "WTC 2016"
         ],
+        "peaks": [
+            {
+                "anchor": "Mount Wilson",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1363",
+                "height": "5,713'"
+            }
+        ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157664572601952/"
         ]
@@ -3990,6 +4005,13 @@
         "tripName": [
             "Santiago Conditoning Hike",
             "WTC 2015"
+        ],
+        "peaks": [
+            {
+                "anchor": "Santiago Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1436",
+                "height": "5,687’"
+            }
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157650349241409/"
@@ -5235,7 +5257,8 @@
             "Desert Climbing"
         ],
         "tripName": [
-            "Old Woman DPS"
+            "Old Woman",
+            "Desert Peak Section"
         ],
         "peaks": [
             {
@@ -5257,7 +5280,8 @@
             "Desert Climbing"
         ],
         "tripName": [
-            "Stepladder DPS"
+            "Stepladder",
+            "Desert Peak Section"
         ],
         "peaks": [
             {
@@ -5281,13 +5305,6 @@
         "tripName": [
             "Santiago"
         ],
-        "peaks": [
-            {
-                "anchor": "Santiago Peak",
-                "url": "http://www.peakbagger.com/peak.aspx?pid=1436",
-                "height": "5,687’"
-            }
-        ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157640469865024/"
         ]
@@ -5302,6 +5319,13 @@
         "tripName": [
             "Conditioning Hike Santiago",
             "WTC 2014"
+        ],
+        "peaks": [
+            {
+                "anchor": "Santiago Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1436",
+                "height": "5,687’"
+            }
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157640469865024/"
@@ -6980,6 +7004,13 @@
             "Conditioning Hike Santiago",
             "WTC 2013"
         ],
+        "peaks": [
+            {
+                "anchor": "Santiago Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1436",
+                "height": "5,687’"
+            }
+        ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157632629832911/"
         ]
@@ -8535,6 +8566,13 @@
         "tripName": [
             "Conditioning Hike Wilson",
             "WTC 2012 - Kaweah Year One"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount Wilson",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1363",
+                "height": "5,713'"
+            }
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157629311913393/"
@@ -11669,6 +11707,13 @@
             "Conditioning Hike To Santiago With Group 1",
             "WTC 2010"
         ],
+        "peaks": [
+            {
+                "anchor": "Santiago Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1436",
+                "height": "5,687’"
+            }
+        ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157623201038707/"
         ]
@@ -13822,6 +13867,13 @@
         "tripName": [
             "Conditioning Hike Santiago",
             "WTC 2008 - Student Year"
+        ],
+        "peaks": [
+            {
+                "anchor": "Santiago Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1436",
+                "height": "5,687’"
+            }
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157603936818157/"

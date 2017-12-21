@@ -2,10 +2,21 @@
 "data": [
     {
         "date": [
+            "12/20/2017"
+        ],
+        "tripType": [
+            "Knee Surgery 2015"
+        ],
+        "tripName": [
+            "Patella Microfracture Follow-up 2 Years On"
+        ]
+    },
+    {
+        "date": [
             "12/17/2017"
         ],
         "tripType": [
-            "California P2k, Sierra Club Hundred Peaks Section, Desert Off List"
+            "Sierra Club Hundred Peaks Section, Desert Off List"
         ],
         "tripName": [
             "Fremont Peak & Red Mountain Near Randsburg"
@@ -387,7 +398,8 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "LTC / AMP Rock Checkoff At Indian Cove"
+            "LTC / AMP Rock Checkoff",
+            "Indian Cove"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157687326543352"
@@ -711,6 +723,20 @@
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/36090582843/in/dateposted-public/",
             "https://caltopo.com/m/270D"
+        ]
+    },
+    {
+        "date": [
+            "08/25/2017"
+        ],
+        "tripType": [
+            "Misadventure"
+        ],
+        "tripName": [
+            "SAR After Kaweah Climbing Fall"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2011/08/climbing-fall-in-9-lakes-basin-sar.html"
         ]
     },
     {
@@ -3250,6 +3276,34 @@
     },
     {
         "date": [
+            "12/10/2015"
+        ],
+        "tripType": [
+            "Knee Surgery 2015"
+        ],
+        "tripName": [
+            "Post Op Weeks 5 & 6"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2015/12/knee-surgery-2015-post-op-weeks-5-6.html"
+        ]
+    },
+    {
+        "date": [
+            "11/28/2015"
+        ],
+        "tripType": [
+            "Knee Surgery 2015"
+        ],
+        "tripName": [
+            "Injury, Pre-Surgery Decisions, Prep"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2015/10/knee-surgery-2015-injury-pre-surgery.html"
+        ]
+    },
+    {
+        "date": [
             "11/27/2015"
         ],
         "tripType": [
@@ -3261,6 +3315,20 @@
         ],
         "tripRpt": [
             "http://www.firstchurchofthemasochist.com/2015/11/el-dorado-hot-springs-in-tonopah.html"
+        ]
+    },
+    {
+        "date": [
+            "11/07/2015"
+        ],
+        "tripType": [
+            "Knee Surgery 2015"
+        ],
+        "tripName": [
+            "Surgery And The First Five Days"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2015/11/knee-surgery-2015-surgery-and-first.html"
         ]
     },
     {
@@ -9193,7 +9261,7 @@
             "Sierra Climbing"
         ],
         "tripName": [
-            "Kaweah Jamboree Plus SAR Helicopter Ride"
+            "Kaweah Climbing Jamboree Trip Ending In Injury"
         ],
         "peaks": [
             {
@@ -9246,7 +9314,7 @@
             "http://www.flickr.com/photos/matthewhengst/sets/72157627549153396/"
         ],
         "tripRpt": [
-            "https://docs.google.com/open?id=0Bxs4R_Khzq1WYWQ2M2EwYjQtY2EzNi00NDJhLWIxYWQtMDkxYzI5MjMxNDdi"
+            "http://www.firstchurchofthemasochist.com/2011/08/kaweah-range-peak-climbing-jamboree-6.html"
         ],
         "maps": [
             "http://www.flickr.com/photos/matthewhengst/6094602282/sizes/o/in/set-72157627549153396/"

@@ -2,6 +2,36 @@
 "data": [
     {
         "date": [
+            "12/26/2017"
+        ],
+        "tripName": [
+            "Enchanted Rock & Turkey Peak In The Texas Hill Country"
+        ],
+        "peaks": [
+            {
+                "anchor": "Enchanted Rock",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=26954",
+                "height": "1,825'"
+            },
+            {
+                "anchor": "Turkey Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=64904",
+                "height": "1,680'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157688814732192"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/12/enchanted-rock-turkey-peak-in-texas.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/24491310017/in/album-72157688814732192/",
+            "https://caltopo.com/m/LHLU"
+        ]
+    },
+    {
+        "date": [
             "12/20/2017"
         ],
         "tripType": [
@@ -32,6 +62,17 @@
                 "url": "http://peakbagger.com/peak.aspx?pid=3775",
                 "height": "5,264'"
             }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157688506540292"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/12/fremont-peak-red-mountain-mojave.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/27433186259/in/album-72157688506540292/",
+            "https://www.flickr.com/photos/matthewhengst/27433122409/in/album-72157688506540292/",
+            "https://caltopo.com/m/5467"
         ]
     },
     {
@@ -57,6 +98,16 @@
                 "url": "http://peakbagger.com/peak.aspx?pid=35769",
                 "height": "4,974'"
             }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157690494885844"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/12/dome-mountain-klinker-mountain-steam.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/38264821495/in/album-72157690494885844/",
+            "https://caltopo.com/m/QHRK"
         ]
     },
     {
@@ -798,6 +849,9 @@
         ],
         "tripRpt": [
             "http://www.firstchurchofthemasochist.com/2017/08/hengst-white-chief-mineral-king-wtc.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/35976281443/in/album-72157687802394666/"
         ]
     },
     {
@@ -1642,6 +1696,9 @@
         "tripName": [
             "Joshua Tree Weekend",
             "WTC 2017"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/02/wilderness-travel-course-2017-joshua.html"
         ]
     },
     {
@@ -4173,24 +4230,6 @@
             "Hot Springs"
         ],
         "tripName": [
-            "El Dorado Hot Spring – Desert View Tub",
-            "New Year’s Trip 2015"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157647829406873/"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2015/01/el-dorado-hot-springs-in-tonopah.html"
-        ]
-    },
-    {
-        "date": [
-            "01/04/2015"
-        ],
-        "tripType": [
-            "Hot Springs"
-        ],
-        "tripName": [
             "Desert View Pool",
             "El Dorado Hot Springs"
         ],
@@ -5628,6 +5667,17 @@
     },
     {
         "date": [
+            "12/29/2013"
+        ],
+        "tripName": [
+            "Garmin 650 Followup Review"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2013/12/garmin-650-followup-review.html"
+        ]
+    },
+    {
+        "date": [
             "12/28/2013"
         ],
         "tripType": [
@@ -5847,6 +5897,17 @@
         ],
         "tripRpt": [
             "http://www.firstchurchofthemasochist.com/2013/11/guadalupe-peak-texas-state-highpoint.html"
+        ]
+    },
+    {
+        "date": [
+            "11/26/2013"
+        ],
+        "tripName": [
+            "Garmin Basecamp and the curse of the corrupted (-ish) .NET install"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2013/11/garmin-basecamp-and-curse-of-corrupted.html"
         ]
     },
     {
@@ -6319,6 +6380,17 @@
         ],
         "maps": [
             "http://www.flickr.com/photos/matthewhengst/9300866757/in/set-72157634657338045"
+        ]
+    },
+    {
+        "date": [
+            "07/10/2013"
+        ],
+        "tripName": [
+            "Gear Review: Garmin Oregon 650 Initial Thoughts"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2013/07/gear-review-garmin-oregon-650-initial.html"
         ]
     },
     {
@@ -7958,6 +8030,17 @@
         ],
         "maps": [
             "http://www.flickr.com/photos/matthewhengst/7829196448/sizes/o/in/set-72157631167330424/"
+        ]
+    },
+    {
+        "date": [
+            "08/08/2012"
+        ],
+        "tripName": [
+            "A cool trick for Garmin Basecamp: synching the database across multiple machines using Dropbox"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2013/11/a-cool-trick-for-garmin-basecamp.html"
         ]
     },
     {

@@ -7344,6 +7344,9 @@
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157632161620417/"
         ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2012/11/baboquivari-sierra-club-e-provisional-2.html"
+        ],
         "maps": [
             "http://www.flickr.com/photos/matthewhengst/8242014429/in/photostream"
         ]
@@ -9967,8 +9970,14 @@
         ],
         "peaks": [
             {
-                "anchor": "Enchanted Rock (1,825')",
-                "url": "http://www.peakbagger.com/peak.aspx?pid=26954"
+                "anchor": "Enchanted Rock",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=26954",
+                "height": "1,825'"
+            },
+            {
+                "anchor": "Turkey Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=64904",
+                "height": "1,680'"
             }
         ]
     },

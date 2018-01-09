@@ -2,11 +2,44 @@
 "data": [
     {
         "date": [
+            "01/06/2018",
+            "01/07/2018"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Desert Climbing"
+        ],
+        "tripName": [
+            "Cerro Pinacate In Sonora Mexico"
+        ],
+        "peaks": [
+            {
+                "anchor": "Cerro del Pinacate",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=4103",
+                "height": "3,937’"
+            },
+            {
+                "anchor": "Carnegie Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=-19773",
+                "height": "3,707’"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157664499001808"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/25730195208/in/album-72157664499001808/",
+            "https://caltopo.com/m/VSE5"
+        ]
+    },
+    {
+        "date": [
             "12/31/2017"
         ],
         "tripType": [
             "Peakbagging",
-            "Rock Climbing"
+            "Rock Climbing",
+            "Desert Climbing"
         ],
         "tripName": [
             "Baboquivari Bushwhacking From Hell Via Thomas Canyon",
@@ -36,7 +69,8 @@
         ],
         "tripType": [
             "Peakbagging",
-            "Rock Climbing"
+            "Rock Climbing",
+            "Desert Climbing"
         ],
         "tripName": [
             "Elephant's Trunk On Elephant Dome Az"
@@ -7362,7 +7396,7 @@
             "Desert Climbing"
         ],
         "tripName": [
-            "Cerro Pinacate Turned Back At The Gate & Ajo",
+            "Cerro Pinacate Mexico Turned Back At The Gate & Ajo",
             "Matt's E Provisional #2"
         ],
         "peaks": [
@@ -7379,6 +7413,9 @@
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157632161608903/"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2012/12/cerro-del-pinacate-attempt-mount-ajo.html"
         ],
         "maps": [
             "http://www.flickr.com/photos/matthewhengst/8243082312/in/photostream"

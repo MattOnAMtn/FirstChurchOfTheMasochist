@@ -877,20 +877,6 @@
     },
     {
         "date": [
-            "08/25/2017"
-        ],
-        "tripType": [
-            "Misadventure"
-        ],
-        "tripName": [
-            "SAR After Kaweah Climbing Fall"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2011/08/climbing-fall-in-9-lakes-basin-sar.html"
-        ]
-    },
-    {
-        "date": [
             "08/24/2017"
         ],
         "tripType": [
@@ -9440,6 +9426,20 @@
         ],
         "maps": [
             "http://www.flickr.com/photos/matthewhengst/6439257241/sizes/o/in/set-72157627707777126/"
+        ]
+    },
+    {
+        "date": [
+            "08/25/2011"
+        ],
+        "tripType": [
+            "Misadventure"
+        ],
+        "tripName": [
+            "SAR After Kaweah Climbing Fall"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2011/08/climbing-fall-in-9-lakes-basin-sar.html"
         ]
     },
     {

@@ -12836,6 +12836,18 @@
             "Cooper Canyon Pawnee Mine I Provisional Backpack",
             "Matt's I Provisional"
         ],
+        "peaks": [
+            {
+                "anchor": "Beauty Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1447",
+                "height": "5,548'"
+            },
+            {
+                "anchor": "Iron Spring Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1446",
+                "height": "5,755'"
+            }
+        ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157616608364813/"
         ],

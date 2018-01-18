@@ -10954,27 +10954,133 @@
     },
     {
         "date": [
+            "11/28/2010"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "Lead Fall In JTree ER Visit",
+            "Turktacular 2010"
+        ],
+        "tripRpt": [
+            "https://drive.google.com/file/d/0Bxs4R_Khzq1WODQ3Nzk3NjItZGY2MC00OTExLWEyNzYtYTlkOGQ4N2E4Yzhk/view"
+        ]
+    },
+    {
+        "date": [
             "11/27/2010"
         ],
         "tripType": [
             "Peakbagging",
-            "Desert Climbing",
-            "Turktacular"
+            "Desert Climbing"
         ],
         "tripName": [
-            "Thanksgiving Weekend Peak Bagging, Rock Climbing, and ER Visiting",
+            "Little Picacho DPS",
             "Turktacular 2010"
         ],
+        "peaks": [
+            {
+                "anchor": "Picacho Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=13415",
+                "height": "1,920'"
+            }
+        ],
         "pics": [
-            "http://www.flickr.com/photos/matthewhengst/sets/72157625344797311/",
-            "http://www.flickr.com/photos/matthewhengst/sets/72157625372208997/",
-            "http://www.flickr.com/photos/matthewhengst/sets/72157625372292559/"
+            "https://www.flickr.com/photos/matthewhengst/albums/72157625372292559"
         ],
         "tripRpt": [
-            "https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0Bxs4R_Khzq1WODQ3Nzk3NjItZGY2MC00OTExLWEyNzYtYTlkOGQ4N2E4Yzhk&hl=en"
+            "https://drive.google.com/file/d/0Bxs4R_Khzq1WODQ3Nzk3NjItZGY2MC00OTExLWEyNzYtYTlkOGQ4N2E4Yzhk/view"
+        ]
+    },
+    {
+        "date": [
+            "11/26/2010"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
+        "tripName": [
+            "Getting #100 on the HPS List",
+            "Turktacular 2010"
+        ],
+        "peaks": [
+            {
+                "anchor": "Round Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1371",
+                "height": "5,272'"
+            },
+            {
+                "anchor": "Luna Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1372",
+                "height": "5.967'"
+            },
+            {
+                "anchor": "White Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1373",
+                "height": "7,727'"
+            },
+            {
+                "anchor": "Rattlesnake Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=13428",
+                "height": "6,131'"
+            },
+            {
+                "anchor": "Bailey Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=25543",
+                "height": "5,699'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157625372208997/"
+        ],
+        "tripRpt": [
+            "https://drive.google.com/file/d/0Bxs4R_Khzq1WODQ3Nzk3NjItZGY2MC00OTExLWEyNzYtYTlkOGQ4N2E4Yzhk/view"
+        ]
+    },
+    {
+        "date": [
+            "11/25/2010"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
+        "tripName": [
+            "Solo Hike 4 HPS Peaks",
+            "Turktacular 2010"
+        ],
+        "peaks": [
+            {
+                "anchor": "Butterfly Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1499",
+                "height": "6,240'"
+            },
+            {
+                "anchor": "Lion Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1497",
+                "height": "6,868'"
+            },
+            {
+                "anchor": "Pyramid Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1495",
+                "height": "7,035'"
+            },
+            {
+                "anchor": "Pine Mountain #2",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1496",
+                "height": "7,054'"
+            }
+        ],
+        "pics": [
+            "http://www.flickr.com/photos/matthewhengst/sets/72157625344797311/"
+        ],
+        "tripRpt": [
+            "https://drive.google.com/file/d/0Bxs4R_Khzq1WODQ3Nzk3NjItZGY2MC00OTExLWEyNzYtYTlkOGQ4N2E4Yzhk/view"
         ],
         "maps": [
-            "http://www.flickr.com/photos/matthewhengst/5208590856/sizes/o/in/set-72157625344797311/"
+            "https://www.flickr.com/photos/matthewhengst/5208590856/sizes/o/in/set-72157625344797311/"
         ]
     },
     {

@@ -13,6 +13,13 @@
             "All Day Hike To Santiago",
             "WTC 2018"
         ],
+        "peaks": [
+            {
+                "anchor": "Santiago Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=1436",
+                "height": "5,687’"
+            }
+        ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157693045212995"
         ],

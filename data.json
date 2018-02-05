@@ -2,6 +2,161 @@
 "data": [
     {
         "date": [
+            "02/03/2018"
+        ],
+        "tripType": [
+            "Wilderness Travel Course",
+            "Peakbagging",
+            "Local Hiking"
+        ],
+        "tripName": [
+            "All Day Hike To Santiago",
+            "WTC 2018"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157693045212995"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/40101919921/in/dateposted-public/",
+            "https://caltopo.com/m/3B2M"
+        ]
+    },
+    {
+        "date": [
+            "02/01/2018"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "Semi Irregular OC Climbing Night @ Aesthetic"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157665311925728"
+        ]
+    },
+    {
+        "date": [
+            "01/28/2018"
+        ],
+        "tripType": [
+            "Hot Springs"
+        ],
+        "tripName": [
+            "Deep Creek Hot Springs"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157691126199331"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/01/deep-creek-hot-springs-in-san-bernardino.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/28236527239/in/album-72157691126199331/",
+            "https://caltopo.com/m/E0MM"
+        ]
+    },
+    {
+        "date": [
+            "01/27/2018"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Desert Climbing"
+        ],
+        "tripName": [
+            "Dyadic Point & Tensor Dayhike"
+        ],
+        "peaks": [
+            {
+                "anchor": "Dyadic Point",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=37074",
+                "height": "4,360'"
+            },
+            {
+                "anchor": "Aqua Benchmark",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=3803",
+                "height": "4,419'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157663178922947"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/39296600094/in/dateposted-public/",
+            "https://caltopo.com/m/L7UC"
+        ]
+    },
+    {
+        "date": [
+            "01/21/2018"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Desert Climbing"
+        ],
+        "tripName": [
+            "Little Picacho"
+        ],
+        "peaks": [
+            {
+                "anchor": "Little Picacho Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=-27986",
+                "height": "1,508'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157689687238732"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/39814123042/in/album-72157689687238732/",
+            "https://caltopo.com/m/E6AV"
+        ]
+    },
+    {
+        "date": [
+            "01/20/2018"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Desert Climbing"
+        ],
+        "tripName": [
+            "Picacho With A Big Group"
+        ],
+        "peaks": [
+            {
+                "anchor": "Picacho Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=13415",
+                "height": "1,920'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157691775662234"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/24975813117/in/album-72157691775662234/",
+            "https://caltopo.com/m/E6AV"
+        ]
+    },
+    {
+        "date": [
+            "01/16/2018",
+            "03/20/2018"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "WTC Classroom Shots at Calvary Church",
+            "WTC 2018"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157692370405435"
+        ]
+    },
+    {
+        "date": [
             "01/14/2018"
         ],
         "tripType": [
@@ -22,6 +177,10 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157689455293702"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/38887421985/in/album-72157689455293702/",
+            "https://caltopo.com/m/J71L"
         ]
     },
     {
@@ -48,7 +207,8 @@
             "https://www.flickr.com/photos/matthewhengst/albums/72157664709822878"
         ],
         "maps": [
-            "https://www.flickr.com/photos/matthewhengst/39010515994/in/dateposted-public/"
+            "https://www.flickr.com/photos/matthewhengst/39010515994/in/dateposted-public/",
+            "https://caltopo.com/m/N12A"
         ]
     },
     {
@@ -73,6 +233,10 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157691508340044"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/27990562719/in/album-72157691508340044/",
+            "https://caltopo.com/m/JE8F"
         ]
     },
     {
@@ -1918,13 +2082,10 @@
         "tripType": [
             "Wilderness Travel Course",
             "Peakbagging",
-            "Local Hiking",
-            "Wilderness Travel Course"
+            "Local Hiking"
         ],
         "tripName": [
             "Conditioning Hike To Mount Wilson",
-            "WTC 2017",
-            "WTC Classroom Shots at Calvary Church",
             "WTC 2017"
         ],
         "peaks": [
@@ -1935,8 +2096,7 @@
             }
         ],
         "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157679669195966",
-            "https://www.flickr.com/photos/matthewhengst/albums/72157675509482624"
+            "https://www.flickr.com/photos/matthewhengst/albums/72157679669195966"
         ],
         "tripRpt": [
             "http://www.firstchurchofthemasochist.com/2017/01/wilderness-travel-course-2017.html"
@@ -2022,6 +2182,22 @@
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/32350729366/in/album-72157675844406483/"
+        ]
+    },
+    {
+        "date": [
+            "01/10/2017",
+            "03/14/2017"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "WTC Classroom Shots at Calvary Church",
+            "WTC 2017"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157675509482624"
         ]
     },
     {

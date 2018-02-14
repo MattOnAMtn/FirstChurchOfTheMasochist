@@ -2,6 +2,81 @@
 "data": [
     {
         "date": [
+            "02/12/2018"
+        ],
+        "tripType": [
+            "Out of State"
+        ],
+        "tripName": [
+            "San Quintin, Ensenada Foodie Visit, Puerto Nuevo Shopping Plus Mermaid House",
+            "Baja California, Mexico"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157663673878557"
+        ]
+    },
+    {
+        "date": [
+            "02/11/2018"
+        ],
+        "tripType": [
+            "Out of State"
+        ],
+        "tripName": [
+            "Tacos In Guerrero Negro, More Travel",
+            "Baja California, Mexico"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157692620231874"
+        ]
+    },
+    {
+        "date": [
+            "02/11/2018"
+        ],
+        "tripType": [
+            "Out of State"
+        ],
+        "tripName": [
+            "Whale Watching Laguna Ojo de Liebre Mexico",
+            "Baja California, Mexico"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157687778279510"
+        ]
+    },
+    {
+        "date": [
+            "02/10/2018"
+        ],
+        "tripType": [
+            "Out of State"
+        ],
+        "tripName": [
+            "La Bufadora, Shops, & Travel",
+            "Baja California, Mexico"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157692619867164"
+        ]
+    },
+    {
+        "date": [
+            "02/09/2018"
+        ],
+        "tripType": [
+            "Out of State"
+        ],
+        "tripName": [
+            "Ensenada Carnaval After Work",
+            "Baja California, Mexico"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157692619691274"
+        ]
+    },
+    {
+        "date": [
             "02/03/2018"
         ],
         "tripType": [
@@ -249,6 +324,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157691508340044"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/01/mustache-mosey-2018-providence-benchmark.html"
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/27990562719/in/album-72157691508340044/",

@@ -17,6 +17,29 @@
     },
     {
         "date": [
+            "03/03/2018"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Desert Climbing"
+        ],
+        "tripName": [
+            "Palen Mountain List Finish Extravaganza",
+            "Craig Barlow, Craig Jagow, John Ray and Mark McCormick DPS List Finish"
+        ],
+        "peaks": [
+            {
+                "anchor": "Palen Mountains High Point",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=16805",
+                "height": "3,848'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157691137655032"
+        ]
+    },
+    {
+        "date": [
             "02/23/2018",
             "02/25/2018"
         ],

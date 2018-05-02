@@ -16,6 +16,18 @@
     },
     {
         "date": [
+            "04/29/2018"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Sierra Climbing"
+        ],
+        "tripName": [
+            "Spanish Needle & East (aka Beast) Lamont From Lamont Meadow"
+        ]
+    },
+    {
+        "date": [
             "04/28/2018"
         ],
         "tripType": [
@@ -25,6 +37,9 @@
             "AMP Rappelling",
             "Advanced Mountaineering Program (AMP17) Spring 2018",
             "Stoney Point"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157666413251907"
         ]
     },
     {
@@ -38,6 +53,9 @@
             "AMP Belay Skills",
             "Advanced Mountaineering Program (AMP17) Spring 2018",
             "Stoney Point"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157666065654497"
         ]
     },
     {
@@ -97,6 +115,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157693933769421"
+        ],
+        "maps": [
+            "https://caltopo.com/m/VD8F"
         ]
     },
     {
@@ -110,10 +131,16 @@
             "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "Unofficial WTC AMP Alumni Climbing Weekend At Alabama Hills"
+            "Unofficial WTC Alumni Climbing Weekend At Alabama Hills"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157695501571835"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/04/alabama-hills-rock-climbing-weekend-for.html"
+        ],
+        "maps": [
+            "https://caltopo.com/m/D61Q"
         ]
     },
     {
@@ -138,8 +165,12 @@
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157695315943185"
         ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/03/backpacking-trans-catalina-trail-in.html"
+        ],
         "maps": [
-            "https://www.flickr.com/photos/matthewhengst/40571120564/in/album-72157689546749070/"
+            "https://www.flickr.com/photos/matthewhengst/40571120564/in/album-72157689546749070/",
+            "https://caltopo.com/m/4D04"
         ]
     },
     {
@@ -164,8 +195,12 @@
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157667473617888"
         ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/03/backpacking-trans-catalina-trail-in.html"
+        ],
         "maps": [
-            "https://www.flickr.com/photos/matthewhengst/40571120564/in/album-72157689546749070/"
+            "https://www.flickr.com/photos/matthewhengst/40571120564/in/album-72157689546749070/",
+            "https://caltopo.com/m/4D04"
         ]
     },
     {
@@ -189,8 +224,12 @@
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157695316725015"
         ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/03/backpacking-trans-catalina-trail-in.html"
+        ],
         "maps": [
-            "https://www.flickr.com/photos/matthewhengst/40571120564/in/album-72157689546749070/"
+            "https://www.flickr.com/photos/matthewhengst/40571120564/in/album-72157689546749070/",
+            "https://caltopo.com/m/4D04"
         ]
     },
     {
@@ -208,8 +247,12 @@
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157689546749070"
         ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/03/backpacking-trans-catalina-trail-in.html"
+        ],
         "maps": [
-            "https://www.flickr.com/photos/matthewhengst/40571120564/in/album-72157689546749070/"
+            "https://www.flickr.com/photos/matthewhengst/40571120564/in/album-72157689546749070/",
+            "https://caltopo.com/m/4D04"
         ]
     },
     {
@@ -227,8 +270,12 @@
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157693517392321"
         ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/03/backpacking-trans-catalina-trail-in.html"
+        ],
         "maps": [
-            "https://www.flickr.com/photos/matthewhengst/40571120564/in/album-72157689546749070/"
+            "https://www.flickr.com/photos/matthewhengst/40571120564/in/album-72157689546749070/",
+            "https://caltopo.com/m/4D04"
         ]
     },
     {
@@ -330,8 +377,12 @@
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157692149955811"
         ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/03/sheep-and-martinez-backpack-santa-rosa.html"
+        ],
         "maps": [
-            "https://www.flickr.com/photos/matthewhengst/26712610608/in/album-72157692149955811/"
+            "https://www.flickr.com/photos/matthewhengst/26712610608/in/album-72157692149955811/",
+            "https://caltopo.com/m/05DP"
         ]
     },
     {
@@ -6192,6 +6243,21 @@
             "03/02/2014"
         ],
         "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Snow Travel Icehouse Canyon",
+            "WTC 2014"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157641788262854/"
+        ]
+    },
+    {
+        "date": [
+            "03/02/2014"
+        ],
+        "tripType": [
             "Peakbagging",
             "Desert Climbing"
         ],
@@ -6211,17 +6277,19 @@
     },
     {
         "date": [
-            "03/02/2014"
+            "02/15/2014",
+            "02/16/2014"
         ],
         "tripType": [
             "Wilderness Travel Course"
         ],
         "tripName": [
-            "Snow Travel Icehouse Canyon",
+            "Joshua Tree Weekend",
+            "Hippies Dirty or Otherwise Theme",
             "WTC 2014"
         ],
         "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157641788262854/"
+            "https://www.flickr.com/photos/matthewhengst/sets/72157641131129115/"
         ]
     },
     {
@@ -6240,23 +6308,6 @@
                 "url": "http://www.peakbagger.com/peak.aspx?pid=26401",
                 "height": "4,377’"
             }
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157641131129115/"
-        ]
-    },
-    {
-        "date": [
-            "02/15/2014",
-            "02/16/2014"
-        ],
-        "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Joshua Tree Weekend",
-            "Hippies Dirty or Otherwise Theme",
-            "WTC 2014"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157641131129115/"
@@ -6313,21 +6364,6 @@
             "02/02/2014"
         ],
         "tripType": [
-            "Peakbagging",
-            "Local Hiking"
-        ],
-        "tripName": [
-            "Santiago"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157640469865024/"
-        ]
-    },
-    {
-        "date": [
-            "02/02/2014"
-        ],
-        "tripType": [
             "Wilderness Travel Course"
         ],
         "tripName": [
@@ -6340,6 +6376,21 @@
                 "url": "http://www.peakbagger.com/peak.aspx?pid=1436",
                 "height": "5,687’"
             }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157640469865024/"
+        ]
+    },
+    {
+        "date": [
+            "02/02/2014"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
+        "tripName": [
+            "Santiago"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157640469865024/"
@@ -9272,13 +9323,10 @@
             "04/21/2012"
         ],
         "tripType": [
-            "Local Hiking"
+            "Advanced Mountaineering Program"
         ],
         "tripName": [
-            "Tenaja Falls, San Mateo near Fishermans Camp"
-        ],
-        "pics": [
-            "http://www.flickr.com/photos/matthewhengst/sets/72157629877927897/"
+            "AMP5 Spring 2012 Belay Day"
         ]
     },
     {
@@ -9286,10 +9334,13 @@
             "04/21/2012"
         ],
         "tripType": [
-            "Advanced Mountaineering Program"
+            "Local Hiking"
         ],
         "tripName": [
-            "AMP5 Spring 2012 Belay Day"
+            "Tenaja Falls, San Mateo near Fishermans Camp"
+        ],
+        "pics": [
+            "http://www.flickr.com/photos/matthewhengst/sets/72157629877927897/"
         ]
     },
     {
@@ -9463,10 +9514,11 @@
             "Wilderness Travel Course"
         ],
         "tripName": [
-            "WTC Snow Camp At South Lake"
+            "Snow Camp South Lake Hard Haul",
+            "WTC 2012 - Kaweah Year One"
         ],
         "pics": [
-            "http://www.flickr.com/photos/matthewhengst/sets/72157629309380018/"
+            "https://www.flickr.com/photos/matthewhengst/sets/72157629309380018/"
         ]
     },
     {
@@ -9478,11 +9530,10 @@
             "Wilderness Travel Course"
         ],
         "tripName": [
-            "Snow Camp South Lake Hard Haul",
-            "WTC 2012 - Kaweah Year One"
+            "WTC Snow Camp At South Lake"
         ],
         "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157629309380018/"
+            "http://www.flickr.com/photos/matthewhengst/sets/72157629309380018/"
         ]
     },
     {
@@ -10218,10 +10269,10 @@
             "Paddling"
         ],
         "tripName": [
-            "Anacapa Channel Island Sea Caves Kayaking"
+            "Anacapa Sea Cave Paddle"
         ],
         "pics": [
-            "http://www.flickr.com/photos/matthewhengst/sets/72157627631069061/"
+            "https://www.flickr.com/photos/matthewhengst/sets/72157627631069061/"
         ]
     },
     {
@@ -10232,10 +10283,10 @@
             "Paddling"
         ],
         "tripName": [
-            "Anacapa Sea Cave Paddle"
+            "Anacapa Channel Island Sea Caves Kayaking"
         ],
         "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157627631069061/"
+            "http://www.flickr.com/photos/matthewhengst/sets/72157627631069061/"
         ]
     },
     {
@@ -10864,6 +10915,18 @@
     },
     {
         "date": [
+            "05/07/2011",
+            "05/08/2011"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP3 Spring 2011 Joshua Tree"
+        ]
+    },
+    {
+        "date": [
             "05/07/2011"
         ],
         "tripType": [
@@ -10882,18 +10945,6 @@
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157626681196852/"
-        ]
-    },
-    {
-        "date": [
-            "05/07/2011",
-            "05/08/2011"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP3 Spring 2011 Joshua Tree"
         ]
     },
     {
@@ -10932,6 +10983,17 @@
     },
     {
         "date": [
+            "04/23/2011"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP3 Spring 2011 Belay Day"
+        ]
+    },
+    {
+        "date": [
             "04/23/2011",
             "04/24/2011"
         ],
@@ -10947,17 +11009,6 @@
         ],
         "tripRpt": [
             "https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0Bxs4R_Khzq1WN2MwZTgyOWItOWU5Yy00NWUxLWIzOGQtNDAxMGE4NjBjODc4&hl=en"
-        ]
-    },
-    {
-        "date": [
-            "04/23/2011"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP3 Spring 2011 Belay Day"
         ]
     },
     {

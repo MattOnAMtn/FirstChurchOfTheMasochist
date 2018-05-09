@@ -2,6 +2,15 @@
 "data": [
     {
         "date": [
+            "05/11/2018",
+            "05/13/2018"
+        ],
+        "tripName": [
+            "Wilderness First Aid Recert With Adventure Risk Management"
+        ]
+    },
+    {
+        "date": [
             "05/05/2018",
             "05/06/2018"
         ],
@@ -12,6 +21,9 @@
             "AMP Anchors & Real World Applications",
             "Advanced Mountaineering Program (AMP17) Spring 2018",
             "Indian Cove, Joshua Tree"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157693421897552"
         ]
     },
     {
@@ -24,6 +36,24 @@
         ],
         "tripName": [
             "Spanish Needle & East (aka Beast) Lamont From Lamont Meadow"
+        ],
+        "peaks": [
+            {
+                "anchor": "Spanish Needle",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=13505",
+                "height": "7,841'"
+            },
+            {
+                "anchor": "East Lamont Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=26716",
+                "height": "7,475'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157694545561021"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/40915131525/in/album-72157694545561021/"
         ]
     },
     {
@@ -40,6 +70,20 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157666413251907"
+        ]
+    },
+    {
+        "date": [
+            "04/25/2018"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "Semi Irregular OC Climbing Night @ Aesthetic"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157666265071847"
         ]
     },
     {

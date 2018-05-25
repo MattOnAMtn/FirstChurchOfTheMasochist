@@ -2,11 +2,26 @@
 "data": [
     {
         "date": [
+            "05/19/2018",
+            "05/20/2018"
+        ],
+        "tripName": [
+            "LTC / AMP Rock Checkoff"
+        ]
+    },
+    {
+        "date": [
             "05/11/2018",
             "05/13/2018"
         ],
+        "tripType": [
+            "Training"
+        ],
         "tripName": [
-            "Wilderness First Aid Recert With Adventure Risk Management"
+            "Wilderness First Aid Recert With Wilderness Medical Associates"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157696196082104"
         ]
     },
     {
@@ -51,6 +66,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157694545561021"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/04/spanish-needle-east-aka-beast-lamont.html"
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/40915131525/in/album-72157694545561021/"
@@ -160,7 +178,11 @@
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157693933769421"
         ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/04/dyadic-point-spectre-peak-m-rock.html"
+        ],
         "maps": [
+            "https://www.flickr.com/photos/matthewhengst/41627943394/in/dateposted-public/",
             "https://caltopo.com/m/VD8F"
         ]
     },
@@ -482,6 +504,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157663673878557"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/02/whale-watching-at-laguna-ojo-de-liebre.html"
         ]
     },
     {
@@ -497,6 +522,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157692620231874"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/02/whale-watching-at-laguna-ojo-de-liebre.html"
         ]
     },
     {
@@ -512,6 +540,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157687778279510"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/02/whale-watching-at-laguna-ojo-de-liebre.html"
         ]
     },
     {
@@ -527,6 +558,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157692619867164"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/02/whale-watching-at-laguna-ojo-de-liebre.html"
         ]
     },
     {
@@ -542,6 +576,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157692619691274"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/02/whale-watching-at-laguna-ojo-de-liebre.html"
         ]
     },
     {
@@ -6287,21 +6324,6 @@
             "03/02/2014"
         ],
         "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "Snow Travel Icehouse Canyon",
-            "WTC 2014"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157641788262854/"
-        ]
-    },
-    {
-        "date": [
-            "03/02/2014"
-        ],
-        "tripType": [
             "Peakbagging",
             "Desert Climbing"
         ],
@@ -6321,19 +6343,17 @@
     },
     {
         "date": [
-            "02/15/2014",
-            "02/16/2014"
+            "03/02/2014"
         ],
         "tripType": [
             "Wilderness Travel Course"
         ],
         "tripName": [
-            "Joshua Tree Weekend",
-            "Hippies Dirty or Otherwise Theme",
+            "Snow Travel Icehouse Canyon",
             "WTC 2014"
         ],
         "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157641131129115/"
+            "https://www.flickr.com/photos/matthewhengst/sets/72157641788262854/"
         ]
     },
     {
@@ -6352,6 +6372,23 @@
                 "url": "http://www.peakbagger.com/peak.aspx?pid=26401",
                 "height": "4,377’"
             }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157641131129115/"
+        ]
+    },
+    {
+        "date": [
+            "02/15/2014",
+            "02/16/2014"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Joshua Tree Weekend",
+            "Hippies Dirty or Otherwise Theme",
+            "WTC 2014"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157641131129115/"
@@ -6408,6 +6445,21 @@
             "02/02/2014"
         ],
         "tripType": [
+            "Peakbagging",
+            "Local Hiking"
+        ],
+        "tripName": [
+            "Santiago"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157640469865024/"
+        ]
+    },
+    {
+        "date": [
+            "02/02/2014"
+        ],
+        "tripType": [
             "Wilderness Travel Course"
         ],
         "tripName": [
@@ -6420,21 +6472,6 @@
                 "url": "http://www.peakbagger.com/peak.aspx?pid=1436",
                 "height": "5,687’"
             }
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157640469865024/"
-        ]
-    },
-    {
-        "date": [
-            "02/02/2014"
-        ],
-        "tripType": [
-            "Peakbagging",
-            "Local Hiking"
-        ],
-        "tripName": [
-            "Santiago"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157640469865024/"
@@ -9367,17 +9404,6 @@
             "04/21/2012"
         ],
         "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP5 Spring 2012 Belay Day"
-        ]
-    },
-    {
-        "date": [
-            "04/21/2012"
-        ],
-        "tripType": [
             "Local Hiking"
         ],
         "tripName": [
@@ -9385,6 +9411,17 @@
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157629877927897/"
+        ]
+    },
+    {
+        "date": [
+            "04/21/2012"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP5 Spring 2012 Belay Day"
         ]
     },
     {
@@ -9558,11 +9595,10 @@
             "Wilderness Travel Course"
         ],
         "tripName": [
-            "Snow Camp South Lake Hard Haul",
-            "WTC 2012 - Kaweah Year One"
+            "WTC Snow Camp At South Lake"
         ],
         "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157629309380018/"
+            "http://www.flickr.com/photos/matthewhengst/sets/72157629309380018/"
         ]
     },
     {
@@ -9574,10 +9610,11 @@
             "Wilderness Travel Course"
         ],
         "tripName": [
-            "WTC Snow Camp At South Lake"
+            "Snow Camp South Lake Hard Haul",
+            "WTC 2012 - Kaweah Year One"
         ],
         "pics": [
-            "http://www.flickr.com/photos/matthewhengst/sets/72157629309380018/"
+            "https://www.flickr.com/photos/matthewhengst/sets/72157629309380018/"
         ]
     },
     {
@@ -10313,10 +10350,10 @@
             "Paddling"
         ],
         "tripName": [
-            "Anacapa Sea Cave Paddle"
+            "Anacapa Channel Island Sea Caves Kayaking"
         ],
         "pics": [
-            "https://www.flickr.com/photos/matthewhengst/sets/72157627631069061/"
+            "http://www.flickr.com/photos/matthewhengst/sets/72157627631069061/"
         ]
     },
     {
@@ -10327,10 +10364,10 @@
             "Paddling"
         ],
         "tripName": [
-            "Anacapa Channel Island Sea Caves Kayaking"
+            "Anacapa Sea Cave Paddle"
         ],
         "pics": [
-            "http://www.flickr.com/photos/matthewhengst/sets/72157627631069061/"
+            "https://www.flickr.com/photos/matthewhengst/sets/72157627631069061/"
         ]
     },
     {
@@ -10959,18 +10996,6 @@
     },
     {
         "date": [
-            "05/07/2011",
-            "05/08/2011"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP3 Spring 2011 Joshua Tree"
-        ]
-    },
-    {
-        "date": [
             "05/07/2011"
         ],
         "tripType": [
@@ -10989,6 +11014,18 @@
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157626681196852/"
+        ]
+    },
+    {
+        "date": [
+            "05/07/2011",
+            "05/08/2011"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP3 Spring 2011 Joshua Tree"
         ]
     },
     {
@@ -11027,17 +11064,6 @@
     },
     {
         "date": [
-            "04/23/2011"
-        ],
-        "tripType": [
-            "Advanced Mountaineering Program"
-        ],
-        "tripName": [
-            "AMP3 Spring 2011 Belay Day"
-        ]
-    },
-    {
-        "date": [
             "04/23/2011",
             "04/24/2011"
         ],
@@ -11053,6 +11079,17 @@
         ],
         "tripRpt": [
             "https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0Bxs4R_Khzq1WN2MwZTgyOWItOWU5Yy00NWUxLWIzOGQtNDAxMGE4NjBjODc4&hl=en"
+        ]
+    },
+    {
+        "date": [
+            "04/23/2011"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP3 Spring 2011 Belay Day"
         ]
     },
     {

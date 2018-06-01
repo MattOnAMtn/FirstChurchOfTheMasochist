@@ -1626,6 +1626,57 @@
     },
     {
         "date": [
+            "09/30/2017",
+            "10/03/2017"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Sierra Climbing"
+        ],
+        "tripName": [
+            "Vogelsang, Florence, Simmons, Parsons, and Amelia Earhart WTC Experience Trip",
+            "WTC Experience Trip"
+        ],
+        "peaks": [
+            {
+                "anchor": "Vogelsang Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=13556",
+                "height": "11493'"
+            },
+            {
+                "anchor": "Mount Florence",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2619",
+                "height": "12,561'"
+            },
+            {
+                "anchor": "Simmons Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=58415",
+                "height": "12,497'"
+            },
+            {
+                "anchor": "Parsons Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2618",
+                "height": "12,147'"
+            },
+            {
+                "anchor": "Amelia Earhart Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=21597",
+                "height": "11,974'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157661160425418"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/09/vogelsang-florence-simmons-parsons-and.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/37502119551/in/album-72157661160425418/",
+            "https://caltopo.com/m/8172"
+        ]
+    },
+    {
+        "date": [
             "09/22/2017",
             "09/24/2017"
         ],

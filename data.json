@@ -2,6 +2,38 @@
 "data": [
     {
         "date": [
+            "05/26/2018",
+            "05/28/2018"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Sierra Climbing"
+        ],
+        "tripName": [
+            "Jerky Meadows To Coyote & Angora Via Kern Loop",
+            "Memorial Day Massacre 2018"
+        ],
+        "peaks": [
+            {
+                "anchor": "Coyote Peaks",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=13514",
+                "height": "10,897'"
+            },
+            {
+                "anchor": "Angora Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=13513",
+                "height": "10,202'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157697411524155"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/42497921491"
+        ]
+    },
+    {
+        "date": [
             "05/19/2018",
             "05/20/2018"
         ],
@@ -510,6 +542,9 @@
         ],
         "tripRpt": [
             "http://www.firstchurchofthemasochist.com/2018/02/whale-watching-at-laguna-ojo-de-liebre.html"
+        ],
+        "maps": [
+            "https://www.google.com/maps/d/u/0/edit?mid=1jASzD5c8_JuJfOnEUA61ChdP7nbSXBrs&ll=29.434750960327676%2C-114.95015632812499&z=8"
         ]
     },
     {
@@ -528,6 +563,9 @@
         ],
         "tripRpt": [
             "http://www.firstchurchofthemasochist.com/2018/02/whale-watching-at-laguna-ojo-de-liebre.html"
+        ],
+        "maps": [
+            "https://www.google.com/maps/d/u/0/edit?mid=1jASzD5c8_JuJfOnEUA61ChdP7nbSXBrs&ll=29.434750960327676%2C-114.95015632812499&z=8"
         ]
     },
     {
@@ -546,6 +584,9 @@
         ],
         "tripRpt": [
             "http://www.firstchurchofthemasochist.com/2018/02/whale-watching-at-laguna-ojo-de-liebre.html"
+        ],
+        "maps": [
+            "https://www.google.com/maps/d/u/0/edit?mid=1jASzD5c8_JuJfOnEUA61ChdP7nbSXBrs&ll=29.434750960327676%2C-114.95015632812499&z=8"
         ]
     },
     {
@@ -564,6 +605,9 @@
         ],
         "tripRpt": [
             "http://www.firstchurchofthemasochist.com/2018/02/whale-watching-at-laguna-ojo-de-liebre.html"
+        ],
+        "maps": [
+            "https://www.google.com/maps/d/u/0/edit?mid=1jASzD5c8_JuJfOnEUA61ChdP7nbSXBrs&ll=29.434750960327676%2C-114.95015632812499&z=8"
         ]
     },
     {
@@ -582,6 +626,9 @@
         ],
         "tripRpt": [
             "http://www.firstchurchofthemasochist.com/2018/02/whale-watching-at-laguna-ojo-de-liebre.html"
+        ],
+        "maps": [
+            "https://www.google.com/maps/d/u/0/edit?mid=1jASzD5c8_JuJfOnEUA61ChdP7nbSXBrs&ll=29.434750960327676%2C-114.95015632812499&z=8"
         ]
     },
     {

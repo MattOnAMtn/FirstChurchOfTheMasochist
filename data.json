@@ -2,6 +2,94 @@
 "data": [
     {
         "date": [
+            "06/23/2018",
+            "06/24/2018"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Sierra Climbing"
+        ],
+        "tripName": [
+            "Lubna Debini I Provisional Eval"
+        ],
+        "peaks": [
+            {
+                "anchor": "Smith Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=13512",
+                "height": "9,520'"
+            },
+            {
+                "anchor": "Jackass Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=24580",
+                "height": "9,280'"
+            },
+            {
+                "anchor": "Crag Peak (USGS)",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=13511",
+                "height": "9,480'"
+            }
+        ]
+    },
+    {
+        "date": [
+            "06/15/2018",
+            "06/17/2018"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Sierra Climbing"
+        ],
+        "tripName": [
+            "Mount Hilgard From Pine Creek"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount Hilgard",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2670",
+                "height": "13,361'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157670256027188"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/41979966365",
+            "https://caltopo.com/m/M04G"
+        ]
+    },
+    {
+        "date": [
+            "06/09/2018",
+            "06/10/2018"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Sierra Climbing"
+        ],
+        "tripName": [
+            "Hockett Peak From Jerky Meadows",
+            "Victor Gomez I Provisional Eval"
+        ],
+        "peaks": [
+            {
+                "anchor": "Hockett Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=70205",
+                "height": "8,552'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157696220142051"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/06/hockett-peak-from-jerky-meadows-sierra.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/42906665941",
+            "https://caltopo.com/m/K4J0"
+        ]
+    },
+    {
+        "date": [
             "06/02/2018",
             "06/04/2018"
         ],

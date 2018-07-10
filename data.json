@@ -2,6 +2,72 @@
 "data": [
     {
         "date": [
+            "07/08/2018"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "Mount Emmerson SE Face 5.4 Route"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount Emerson",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2683",
+                "height": "13,204'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157695713084302"
+        ],
+        "maps": [
+            "https://caltopo.com/m/5781"
+        ]
+    },
+    {
+        "date": [
+            "07/07/2018"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "Crystal Crag North Arete 5.7 Route"
+        ],
+        "peaks": [
+            {
+                "anchor": "Crystal Crag",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=31405",
+                "height": "10,377'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157668953048057"
+        ]
+    },
+    {
+        "date": [
+            "06/30/2018",
+            "07/04/2018"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "San Juan Islands Washington 5 Day Paddle Adventure"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157692942625490"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/29356781168/in/dateposted-public/",
+            "https://caltopo.com/m/AGSL"
+        ]
+    },
+    {
+        "date": [
             "06/23/2018",
             "06/24/2018"
         ],
@@ -10,6 +76,7 @@
             "Sierra Climbing"
         ],
         "tripName": [
+            "Smith, USGS Crag, & Jackass Southern Sierra",
             "Lubna Debini I Provisional Eval"
         ],
         "peaks": [

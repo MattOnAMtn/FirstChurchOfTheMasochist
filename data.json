@@ -2,11 +2,41 @@
 "data": [
     {
         "date": [
+            "07/20/2018",
+            "07/22/2018"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Sierra Climbing"
+        ],
+        "tripName": [
+            "Mount Mallory & Lone Pine Peak",
+            "WTC Experience Trip"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount Mallory",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2838",
+                "height": "13,845'"
+            },
+            {
+                "anchor": "Lone Pine Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2833",
+                "height": "12,944'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157699385416135"
+        ]
+    },
+    {
+        "date": [
             "07/08/2018"
         ],
         "tripType": [
             "Peakbagging",
-            "Rock Climbing"
+            "Rock Climbing",
+            "Sierra Climbing"
         ],
         "tripName": [
             "Mount Emmerson SE Face 5.4 Route"
@@ -45,6 +75,13 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157668953048057"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/07/crystal-crag-north-arete-route-mammoth.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/43280169152",
+            "https://caltopo.com/m/RS0N"
         ]
     },
     {
@@ -7164,6 +7201,9 @@
                 "url": "http://www.peakbagger.com/peak.aspx?pid=3946",
                 "height": "7,122’"
             }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157638327848783"
         ]
     },
     {
@@ -7178,6 +7218,9 @@
         "tripName": [
             "Sedona Devil’s Bridge",
             "Turktacular 2013"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157638327721043"
         ]
     },
     {

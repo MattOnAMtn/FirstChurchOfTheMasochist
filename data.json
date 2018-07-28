@@ -2,6 +2,26 @@
 "data": [
     {
         "date": [
+            "07/24/2018"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "Ortega Falls Rock Climbing After Work In Orange County"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157669477427397"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/07/ortega-falls-rock-climbing-after-work.html"
+        ],
+        "maps": [
+            "https://caltopo.com/m/5RLL"
+        ]
+    },
+    {
+        "date": [
             "07/20/2018",
             "07/22/2018"
         ],
@@ -51,7 +71,11 @@
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157695713084302"
         ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/07/mount-emerson-se-face-route-piute-pass.html"
+        ],
         "maps": [
+            "https://www.flickr.com/photos/matthewhengst/41513178700/in/album-72157695713084302/",
             "https://caltopo.com/m/5781"
         ]
     },

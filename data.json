@@ -26,6 +26,17 @@
     },
     {
         "date": [
+            "07/26/2018"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ]
+    },
+    {
+        "date": [
             "07/24/2018"
         ],
         "tripType": [
@@ -175,6 +186,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157692942625490"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/06/san-juan-islands-washington-5-day.html"
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/29356781168/in/dateposted-public/",

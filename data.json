@@ -2,6 +2,30 @@
 "data": [
     {
         "date": [
+            "07/28/2018",
+            "07/29/2018"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Sierra Climbing"
+        ],
+        "tripName": [
+            "Mount Oan Campbell From Florence Lake",
+            "WTC Experience Trip"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount Ian Campbell",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=30839",
+                "height": "10616'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157693832408840"
+        ]
+    },
+    {
+        "date": [
             "07/24/2018"
         ],
         "tripType": [
@@ -47,6 +71,36 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157699385416135"
+        ]
+    },
+    {
+        "date": [
+            "07/14/2018",
+            "07/15/2018"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Sierra Climbing"
+        ],
+        "tripName": [
+            "Temple Crag From South Fork Big Pine Creek"
+        ],
+        "peaks": [
+            {
+                "anchor": "Temple Crag ",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2722",
+                "height": "12976'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157699143390625"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/07/temple-crag-from-south-fork-big-pine.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/42712353225/in/dateposted-public/",
+            "https://caltopo.com/m/CNR6"
         ]
     },
     {

@@ -98,6 +98,23 @@
             "Trapezoid, Johnson, and Hurd From Treasure Lakes",
             "Alpine Beer/Hot Tea Tasting Trip ",
             "WTC Experience Trip"
+        ],
+        "peaks": [
+            {
+                "anchor": "Trapezoid Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=31637",
+                "height": "12,920'"
+            },
+            {
+                "anchor": "Mount Johnson",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2700",
+                "height": "12,871'"
+            },
+            {
+                "anchor": "Hurd Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=21593",
+                "height": "12,237'"
+            }
         ]
     },
     {

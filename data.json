@@ -2,6 +2,106 @@
 "data": [
     {
         "date": [
+            "08/29/2018"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/14698974@N00/sets/72157700794389725"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/08/newport-harbor-pizza-paddle-september.html"
+        ],
+        "maps": [
+            "https://caltopo.com/m/6Q3C"
+        ]
+    },
+    {
+        "date": [
+            "08/25/2018",
+            "08/26/2018"
+        ],
+        "tripType": [
+            "Sierra Climbing",
+            "Peakbagging"
+        ],
+        "tripName": [
+            "Mount Crocker From McGee Creek *AND* Mosquito Flats",
+            "WTC Experience Trip"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount Crocker",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=38723",
+                "height": "12,458'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157672767152638"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/44297701101/in/album-72157672767152638/",
+            "https://caltopo.com/m/ED5U"
+        ]
+    },
+    {
+        "date": [
+            "08/17/2018",
+            "08/29/2018"
+        ],
+        "tripType": [
+            "Sierra Climbing",
+            "Peakbagging"
+        ],
+        "tripName": [
+            "Sawtooth Peak, Needham Mountain, and Mineral Peak In Mineral King",
+            "WTC Experience Trip"
+        ],
+        "peaks": [
+            {
+                "anchor": "Sawtooth Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=13517",
+                "height": "12,343'"
+            },
+            {
+                "anchor": "Needham Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=13518",
+                "height": "12,520'"
+            },
+            {
+                "anchor": "Mineral Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=29900",
+                "height": "11,615'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157697277678222"
+        ],
+        "maps": [
+            "https://caltopo.com/m/S7S6"
+        ]
+    },
+    {
+        "date": [
+            "08/04/2018",
+            "08/06/2018"
+        ],
+        "tripType": [
+            "Sierra Climbing",
+            "Peakbagging"
+        ],
+        "tripName": [
+            "Trapezoid, Johnson, and Hurd From Treasure Lakes",
+            "Alpine Beer/Hot Tea Tasting Trip ",
+            "WTC Experience Trip"
+        ]
+    },
+    {
+        "date": [
             "07/28/2018",
             "07/29/2018"
         ],
@@ -245,6 +345,17 @@
     },
     {
         "date": [
+            "06/21/2018"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ]
+    },
+    {
+        "date": [
             "06/15/2018",
             "06/17/2018"
         ],
@@ -400,6 +511,17 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157696196082104"
+        ]
+    },
+    {
+        "date": [
+            "05/09/2018"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
         ]
     },
     {
@@ -3977,6 +4099,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157672729031121"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2016/09/royce-merriam-are-too-damn-cold.html"
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/29367145254/in/dateposted-public/"

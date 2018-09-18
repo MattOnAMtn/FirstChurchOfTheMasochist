@@ -2,6 +2,24 @@
 "data": [
     {
         "date": [
+            "08/31/2018",
+            "09/02/2018"
+        ],
+        "tripType": [
+            "Sierra Climbing"
+        ],
+        "tripName": [
+            "Sawmill Pass To Wood Lake Labor Day Abort"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157700714123804"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/43818165884/in/album-72157700714123804/"
+        ]
+    },
+    {
+        "date": [
             "08/29/2018"
         ],
         "tripType": [
@@ -213,6 +231,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157699385416135"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/07/mount-mallory-and-lone-pine-peak-from.html"
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/44374610891",

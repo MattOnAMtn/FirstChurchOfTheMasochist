@@ -2,6 +2,36 @@
 "data": [
     {
         "date": [
+            "09/29/2018",
+            "10/01/2018"
+        ],
+        "tripType": [
+            "Sierra Climbing",
+            "Peakbagging"
+        ],
+        "tripName": [
+            "Piute Mountain From Robinson Creek"
+        ],
+        "peaks": [
+            {
+                "anchor": "Piute Mountain",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=2598",
+                "height": "10,541'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157696118613960"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/09/piute-mountain-from-robinson-creek.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/45062926311/in/album-72157696118613960/",
+            "https://caltopo.com/m/2K4E"
+        ]
+    },
+    {
+        "date": [
             "09/21/2018",
             "09/23/2018"
         ],

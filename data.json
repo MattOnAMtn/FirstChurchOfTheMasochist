@@ -2,6 +2,71 @@
 "data": [
     {
         "date": [
+            "10/27/2018",
+            "10/28/2018"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP Anchors & Real World Applications",
+            "Advanced Mountaineering Program (AMP18) Fall 2018",
+            "Indian Cove, Joshua Tree"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157701425503681"
+        ]
+    },
+    {
+        "date": [
+            "10/20/2018"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP Rappelling Skills",
+            "Advanced Mountaineering Program (AMP18) Fall 2018",
+            "Stoney Point"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157702660895215"
+        ]
+    },
+    {
+        "date": [
+            "10/13/2018"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP Belay Skills",
+            "Advanced Mountaineering Program (AMP18) Fall 2018",
+            "Stoney Point"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157699374649452"
+        ]
+    },
+    {
+        "date": [
+            "10/10/2018"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP Knots & Basic Safety Systems",
+            "Advanced Mountaineering Program (AMP18) Fall 2018",
+            "Fullerton Community Center"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157674382549418"
+        ]
+    },
+    {
+        "date": [
             "09/29/2018",
             "10/01/2018"
         ],
@@ -51,6 +116,13 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157698490369192"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/09/sibling-sierra-sojourn-to-mount-silliman.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/31232479458",
+            "https://caltopo.com/m/HGJ6"
         ]
     },
     {
@@ -152,7 +224,11 @@
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157697277678222"
         ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/08/sawtooth-peak-needham-mountain-and.html"
+        ],
         "maps": [
+            "https://www.flickr.com/photos/matthewhengst/43334027475",
             "https://caltopo.com/m/S7S6"
         ]
     },

@@ -2,6 +2,26 @@
 "data": [
     {
         "date": [
+            "12/01/2018"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Newport Harbor Pizza Paddle - Halloween 2017 Pirate Edition"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157687859542651"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2017/10/newport-harbor-pizza-paddle-halloween.html"
+        ],
+        "maps": [
+            "http://caltopo.com/m/6Q3C"
+        ]
+    },
+    {
+        "date": [
             "10/27/2018",
             "10/28/2018"
         ],

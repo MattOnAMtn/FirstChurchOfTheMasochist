@@ -2,6 +2,68 @@
 "data": [
     {
         "date": [
+            "12/18/2018"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "SSI Advanced Open Water Deep Class"
+        ]
+    },
+    {
+        "date": [
+            "12/16/2018"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "San Diego Wreck Dive With Sea Stallion"
+        ]
+    },
+    {
+        "date": [
+            "12/11/2018"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "SSI Advanced Open Water Wreck & Night Class"
+        ]
+    },
+    {
+        "date": [
+            "12/08/2018"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Cee Ray Boat To Catalina With Sea Stallion (SSI Open Water Dives 1-3)",
+            "Big Geiger Cove & Lulu Reef, Catalina"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157704470197675"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
+            "12/04/2018"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "SSI Advanced Open Water Nav Class"
+        ]
+    },
+    {
+        "date": [
             "12/01/2018"
         ],
         "tripType": [
@@ -18,6 +80,163 @@
         ],
         "maps": [
             "http://caltopo.com/m/6Q3C"
+        ]
+    },
+    {
+        "date": [
+            "11/25/2018"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Desert Climbing"
+        ],
+        "tripName": [
+            "Observation Point Zion ",
+            "Turktacular 2018"
+        ],
+        "peaks": [
+            {
+                "anchor": "Observation Point",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=26899",
+                "height": 6507
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157703987044304"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/11/observation-point-zion-peakbagging.html"
+        ],
+        "maps": [
+            "https://caltopo.com/m/QF2H"
+        ]
+    },
+    {
+        "date": [
+            "11/24/2018"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Desert Climbing"
+        ],
+        "tripName": [
+            "Roof & Hepworth via Gifford Canyon Zion ",
+            "Turktacular 2018"
+        ],
+        "peaks": [
+            {
+                "anchor": "Roof Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=39309",
+                "height": 6553
+            },
+            {
+                "anchor": "Hepworth",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=38864",
+                "height": 6548
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157673935776107"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/11/roof-peak-hepworth-via-gifford-canyon.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/32352201488/in/album-72157673935776107/",
+            "https://caltopo.com/m/8BB8"
+        ]
+    },
+    {
+        "date": [
+            "11/23/2018"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Desert Climbing"
+        ],
+        "tripName": [
+            "Nippletop Zion",
+            "Turktacular 2018"
+        ],
+        "peaks": [
+            {
+                "anchor": "Nippletop",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=38827",
+                "height": 6715
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157703977977844"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/11/nippletop-zion-peakbagging.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/44407117320",
+            "https://caltopo.com/m/8RNR"
+        ]
+    },
+    {
+        "date": [
+            "11/23/2018"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Desert Climbing"
+        ],
+        "tripName": [
+            "Jenny Peak & Jennys Nipples Zion",
+            "Turktacular 2018"
+        ],
+        "peaks": [
+            {
+                "anchor": "Jenny Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=57067",
+                "height": 6310
+            },
+            {
+                "anchor": "Jenny's Nipples",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=-74131",
+                "height": 6240
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157700786695992"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/11/jenny-peak-jennys-nipples-zion.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/46058085492",
+            "https://caltopo.com/m/UQML"
+        ]
+    },
+    {
+        "date": [
+            "11/22/2018"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Desert Climbing"
+        ],
+        "tripName": [
+            "Arrival & Thanksgiving Dinner Zion",
+            "Turktacular 2018"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157702548600631"
+        ]
+    },
+    {
+        "date": [
+            "11/17/2018",
+            "11/18/2018"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "SSI Open Water Classroom & Pool With Sea Stallion"
         ]
     },
     {

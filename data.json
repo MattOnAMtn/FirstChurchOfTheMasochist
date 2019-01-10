@@ -2,6 +2,150 @@
 "data": [
     {
         "date": [
+            "01/01/2019"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Turner River Florida Everglades Paddle",
+            "Florida News Years Dive-cation of Amazing Awesomeness 2019"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157705542362634"
+        ],
+        "maps": [
+            "https://caltopo.com/m/NELS"
+        ]
+    },
+    {
+        "date": [
+            "12/31/2018"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Vandenberg Wreck Dive With Randy The Viking",
+            "Florida News Years Dive-cation of Amazing Awesomeness 2019"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157675345996197"
+        ],
+        "maps": [
+            "https://caltopo.com/m/NELS"
+        ]
+    },
+    {
+        "date": [
+            "12/30/2018"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Key West Reef + Cayman Wreck With Lost Reef",
+            "Florida News Years Dive-cation of Amazing Awesomeness 2019"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157677531136458"
+        ],
+        "maps": [
+            "https://caltopo.com/m/NELS"
+        ]
+    },
+    {
+        "date": [
+            "12/29/2018"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Looe Key 6 Dive Endurance Day - 4 Reef + 2 Night!",
+            "Florida News Years Dive-cation of Amazing Awesomeness 2019"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157705543324484"
+        ],
+        "maps": [
+            "https://caltopo.com/m/NELS"
+        ]
+    },
+    {
+        "date": [
+            "12/28/2018"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Ginnie Springs Ballroom Freshwater Cavern Dive",
+            "Florida News Years Dive-cation of Amazing Awesomeness 2019"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157677501752328"
+        ],
+        "maps": [
+            "https://caltopo.com/m/NELS"
+        ]
+    },
+    {
+        "date": [
+            "12/28/2018"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Devil's Den Freshwater Cavern Dive",
+            "Florida News Years Dive-cation of Amazing Awesomeness 2019"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157702184070172"
+        ],
+        "maps": [
+            "https://caltopo.com/m/NELS"
+        ]
+    },
+    {
+        "date": [
+            "12/27/2018"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Rainbow River KP Hole Freshwater Drift Dive",
+            "Florida News Years Dive-cation of Amazing Awesomeness 2019"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157677501857058"
+        ],
+        "maps": [
+            "https://caltopo.com/m/NELS"
+        ]
+    },
+    {
+        "date": [
+            "12/27/2018"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Snorkeling with the Manatees in Crystal River Florida",
+            "Florida News Years Dive-cation of Amazing Awesomeness 2019"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157702062328012"
+        ],
+        "maps": [
+            "https://caltopo.com/m/NELS"
+        ]
+    },
+    {
+        "date": [
             "12/18/2018"
         ],
         "tripType": [
@@ -20,6 +164,23 @@
         ],
         "tripName": [
             "San Diego Wreck Dive With Sea Stallion"
+        ]
+    },
+    {
+        "date": [
+            "12/15/2018"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Diving La Jolla Shores First Time On Our Own"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157703309003831"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/12/diving-la-jolla-shores-first-time.html"
         ]
     },
     {
@@ -46,6 +207,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157704470197675"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/11/open-water-scuba-certification-with-ssi.html"
         ],
         "maps": [
             "https://caltopo.com/m/EGDQ"
@@ -240,6 +404,9 @@
         ],
         "tripName": [
             "SSI Open Water Classroom & Pool With Sea Stallion"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/11/open-water-scuba-certification-with-ssi.html"
         ]
     },
     {
@@ -427,6 +594,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157672767152638"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/08/mount-crocker-from-mcgee-creek-and.html"
         ],
         "maps": [
             "https://www.flickr.com/photos/matthewhengst/44297701101/in/album-72157672767152638/",

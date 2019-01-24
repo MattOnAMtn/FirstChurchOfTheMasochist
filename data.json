@@ -2,6 +2,131 @@
 "data": [
     {
         "date": [
+            "01/22/2019",
+            "03/26/2019"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "WTC Classroom Shots at Calvary Church"
+        ]
+    },
+    {
+        "date": [
+            "01/20/2019"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "LTC / AMP Rock Checkoff",
+            "Alabama Hills"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157704522169851"
+        ]
+    },
+    {
+        "date": [
+            "01/19/2019"
+        ],
+        "tripType": [
+            "Rock Climbing"
+        ],
+        "tripName": [
+            "Alabama Hills Climbing Day"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157688984806853"
+        ]
+    },
+    {
+        "date": [
+            "01/13/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Kingman Wash & Willow Beach Lake Mead Diving",
+            "Sin City Scuba"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157702432032162"
+        ],
+        "maps": [
+            "https://caltopo.com/m/8CUT"
+        ]
+    },
+    {
+        "date": [
+            "01/12/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Cabinsite Point Lake Mojave Diving",
+            "Dive Shack USA"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157705715020455"
+        ],
+        "maps": [
+            "https://caltopo.com/m/8CUT"
+        ]
+    },
+    {
+        "date": [
+            "01/06/2019"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Mustache Mosey",
+            "Desert Climbing"
+        ],
+        "tripName": [
+            "Chemehuevi Peak DPS",
+            "Mustache Mosey 2019"
+        ],
+        "peaks": [
+            {
+                "anchor": "Chemehuevi Peak",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=3807",
+                "height": 3694
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157702277735652"
+        ]
+    },
+    {
+        "date": [
+            "01/05/2019"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Mustache Mosey",
+            "Desert Climbing"
+        ],
+        "tripName": [
+            "Whipple Mountain DPS",
+            "Mustache Mosey 2019"
+        ],
+        "peaks": [
+            {
+                "anchor": "Whipple Mountains High Point",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=16803",
+                "height": 4130
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157704118763681"
+        ]
+    },
+    {
+        "date": [
             "01/01/2019"
         ],
         "tripType": [
@@ -67,6 +192,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157705543324484"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/12/diving-looe-key-in-florida-keys-6-dive.html"
         ],
         "maps": [
             "https://caltopo.com/m/NELS"
@@ -11324,7 +11452,8 @@
             "http://www.flickr.com/photos/matthewhengst/sets/72157628004697837/"
         ],
         "maps": [
-            "http://www.flickr.com/photos/matthewhengst/6343381501/sizes/o/in/set-72157628004697837/"
+            "http://www.flickr.com/photos/matthewhengst/6343381501/sizes/o/in/set-72157628004697837/",
+            "https://www.flickr.com/photos/matthewhengst/6344130538/in/album-72157628004697837/"
         ]
     },
     {

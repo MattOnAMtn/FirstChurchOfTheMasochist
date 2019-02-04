@@ -2,6 +2,46 @@
 "data": [
     {
         "date": [
+            "01/30/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Pre-Work Dive At Shaw's Cove"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157678255016928"
+        ]
+    },
+    {
+        "date": [
+            "01/26/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Diving The Yukon and Ruby E Wrecks",
+            "Sea Stallion, Humbolt, San Diego"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157689169287613"
+        ]
+    },
+    {
+        "date": [
+            "01/25/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Pre-Work Dive At Shaw's Cove"
+        ]
+    },
+    {
+        "date": [
             "01/22/2019",
             "03/26/2019"
         ],
@@ -52,11 +92,14 @@
             "Scuba"
         ],
         "tripName": [
-            "Kingman Wash & Willow Beach Lake Mead Diving",
-            "Sin City Scuba"
+            "Cabinsite Point Lake Mojave Diving",
+            "Dive Shack USA"
         ],
         "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157702432032162"
+            "https://www.flickr.com/photos/matthewhengst/albums/72157705715020455"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/01/a-cold-damn-dive-from-cabinsite-point.html"
         ],
         "maps": [
             "https://caltopo.com/m/8CUT"
@@ -70,11 +113,14 @@
             "Scuba"
         ],
         "tripName": [
-            "Cabinsite Point Lake Mojave Diving",
-            "Dive Shack USA"
+            "Kingman Wash & Willow Beach Lake Mead Diving",
+            "Sin City Scuba"
         ],
         "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157705715020455"
+            "https://www.flickr.com/photos/matthewhengst/albums/72157702432032162"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/01/diving-lake-mead-at-kingman-wash-willow.html"
         ],
         "maps": [
             "https://caltopo.com/m/8CUT"
@@ -172,11 +218,14 @@
             "Scuba"
         ],
         "tripName": [
-            "Key West Reef + Cayman Wreck With Lost Reef",
+            "Key West Reef + Cayman Salvager Wreck With Lost Reef",
             "Florida News Years Dive-cation of Amazing Awesomeness 2019"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157677531136458"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/12/diving-key-west-florida-cayman-salvager.html"
         ],
         "maps": [
             "https://caltopo.com/m/NELS"

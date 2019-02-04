@@ -350,6 +350,25 @@
     },
     {
         "date": [
+            "12/26/2018",
+            "01/02/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Florida Diving Planning & Particulars",
+            "Florida News Years Dive-cation of Amazing Awesomeness 2019"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2018/12/florida-news-years-2019-dive-cation-of.html"
+        ],
+        "maps": [
+            "https://caltopo.com/m/NELS"
+        ]
+    },
+    {
+        "date": [
             "12/18/2018"
         ],
         "tripType": [

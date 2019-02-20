@@ -2,6 +2,42 @@
 "data": [
     {
         "date": [
+            "02/10/2019"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Kaweah Group Full Day Hike To Sierra Peak",
+            "WTC 2019"
+        ],
+        "peaks": [
+            {
+                "anchor": "Sierra Peak",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=1434",
+                "height": "3,045'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157706731309184"
+        ]
+    },
+    {
+        "date": [
+            "02/07/2019"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157705124403031"
+        ]
+    },
+    {
+        "date": [
             "01/30/2019"
         ],
         "tripType": [
@@ -1699,6 +1735,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157666429157538"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/46246643485/in/dateposted-public/"
         ]
     },
     {
@@ -4027,6 +4066,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157678948898581/"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/33002866422/in/album-72157678948898581/"
         ]
     },
     {

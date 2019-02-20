@@ -12,7 +12,7 @@
             "WTC 2019"
         ],
         "peaks": [
-            {
+            { 
                 "anchor": "Sierra Peak",
                 "url": "https://www.peakbagger.com/peak.aspx?pid=1434",
                 "height": "3,045'"
@@ -5642,6 +5642,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157665358979480/"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/32218924117"
         ]
     },
     {

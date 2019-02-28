@@ -12,7 +12,7 @@
             "WTC 2019"
         ],
         "peaks": [
-            { 
+            {
                 "anchor": "Sierra Peak",
                 "url": "https://www.peakbagger.com/peak.aspx?pid=1434",
                 "height": "3,045'"
@@ -20,6 +20,13 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157706731309184"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/02/kaweah-group-heads-up-sierra-peak-for.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/46361249504",
+            "https://caltopo.com/m/1TU0"
         ]
     },
     {

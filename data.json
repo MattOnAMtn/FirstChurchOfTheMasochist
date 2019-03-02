@@ -2,6 +2,34 @@
 "data": [
     {
         "date": [
+            "02/27/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Pre-Work Dive At Crescent (Dive #36)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157707049787995"
+        ]
+    },
+    {
+        "date": [
+            "02/26/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Pre-Work Dive At Shaw's Cove (Dive #35)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157678983696018"
+        ]
+    },
+    {
+        "date": [
             "02/10/2019"
         ],
         "tripType": [
@@ -51,7 +79,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Pre-Work Dive At Shaw's Cove"
+            "Pre-Work Dive At Shaw's Cove (Dive #34)"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157678255016928"
@@ -65,7 +93,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Diving The Yukon and Ruby E Wrecks",
+            "Diving The Yukon and Ruby E Wrecks (Dives #31-33)",
             "Sea Stallion, Humbolt, San Diego"
         ],
         "pics": [
@@ -80,13 +108,24 @@
             "Scuba"
         ],
         "tripName": [
-            "Pre-Work Dive At Shaw's Cove"
+            "Pre-Work Dive At Shaw's Cove (Dive #30)"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157689377939453"
         ],
         "tripRpt": [
             "http://www.firstchurchofthemasochist.com/2019/01/diving-before-work-at-shaws-cove-laguna.html"
+        ]
+    },
+    {
+        "date": [
+            "01/24/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Night Dive At Crescent With Sea Stallion"
         ]
     },
     {
@@ -141,7 +180,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Cabinsite Point Lake Mojave Diving",
+            "Cabinsite Point Lake Mojave Diving (Dive #28)",
             "Dive Shack USA"
         ],
         "pics": [
@@ -162,7 +201,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Kingman Wash & Willow Beach Lake Mead Diving",
+            "Kingman Wash & Willow Beach Lake Mead Diving (Dives #26-27)",
             "Sin City Scuba"
         ],
         "pics": [
@@ -252,7 +291,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Vandenberg Wreck Dive With Randy The Viking",
+            "Vandenberg Wreck Dive With Randy The Viking (Dives #23-24)",
             "Florida News Years Dive-cation of Amazing Awesomeness 2019"
         ],
         "pics": [
@@ -273,7 +312,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Key West Reef + Cayman Salvager Wreck With Lost Reef",
+            "Key West Reef + Cayman Salvager Wreck With Lost Reef (Dives #19-22)",
             "Florida News Years Dive-cation of Amazing Awesomeness 2019"
         ],
         "pics": [
@@ -294,7 +333,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Looe Key 6 Dive Endurance Day - 4 Reef + 2 Night!",
+            "Looe Key 6 Dive Endurance Day - 4 Reef + 2 Night! (Dives #13-18)",
             "Florida News Years Dive-cation of Amazing Awesomeness 2019"
         ],
         "pics": [
@@ -315,7 +354,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Ginnie Springs Ballroom Freshwater Cavern Dive",
+            "Ginnie Springs Ballroom Freshwater Cavern Dive (Dive #12)",
             "Florida News Years Dive-cation of Amazing Awesomeness 2019"
         ],
         "pics": [
@@ -336,7 +375,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Devil's Den Freshwater Cavern Dive",
+            "Devil's Den Freshwater Cavern Dive (Dive #11)",
             "Florida News Years Dive-cation of Amazing Awesomeness 2019"
         ],
         "pics": [
@@ -357,7 +396,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Rainbow River KP Hole Freshwater Drift Dive",
+            "Rainbow River KP Hole Freshwater Drift Dive (Dive #10)",
             "Florida News Years Dive-cation of Amazing Awesomeness 2019"
         ],
         "pics": [
@@ -440,7 +479,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Diving La Jolla Shores First Time On Our Own"
+            "Diving La Jolla Shores First Time On Our Own (Dives #5-6)"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157703309003831"
@@ -468,7 +507,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Cee Ray Boat To Catalina With Sea Stallion (SSI Open Water Dives 1-3)",
+            "Cee Ray Boat To Catalina With Sea Stallion (SSI Open Water Dives #1-3)",
             "Big Geiger Cove & Lulu Reef, Catalina"
         ],
         "pics": [

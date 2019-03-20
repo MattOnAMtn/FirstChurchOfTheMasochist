@@ -50,6 +50,33 @@
     },
     {
         "date": [
+            "03/10/2019"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "A Hard Day and a Broken Leg on Mount Waterman",
+            "WTC 2019 Snow Travel Day"
+        ],
+        "peaks": [
+            {
+                "anchor": "Waterman Mountain",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=1324",
+                "height": "8,038'"
+            },
+            {
+                "anchor": "Waterman Benchmark",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=-33227",
+                "height": "7,910'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157677153125817"
+        ]
+    },
+    {
+        "date": [
             "03/03/2019"
         ],
         "tripType": [
@@ -130,6 +157,22 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157678983696018"
+        ]
+    },
+    {
+        "date": [
+            "02/23/2019",
+            "02/24/2019"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Kaweah Group Joshua Tree Weekend",
+            "WTC 2019"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157678942809698"
         ]
     },
     {

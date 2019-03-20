@@ -2,6 +2,110 @@
 "data": [
     {
         "date": [
+            "03/17/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Channel Island Diving With Spectre Dive Boat (Dives #41-43)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/sets/72157690455285113"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
+            "03/16/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Diving The Catalina Dive Park At Casino Point (Dives #38-40)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157707650855514"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
+            "03/14/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Pre-Work Dive At Shaw's Cove (Dive #37)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157707571261274"
+        ]
+    },
+    {
+        "date": [
+            "03/03/2019"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Desert Climbing",
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Stewart Point",
+            "Alex Hunt I Provisional"
+        ],
+        "peaks": [
+            {
+                "anchor": "Stewart Point",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=16789",
+                "height": "5,266'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157690161652233"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/32387996477",
+            "https://caltopo.com/m/VB0A"
+        ]
+    },
+    {
+        "date": [
+            "03/02/2019"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Desert Climbing",
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Pahrump Attempt In The Rain",
+            "Alex Hunt I Provisional"
+        ],
+        "peaks": [
+            {
+                "anchor": "Pahrump Point",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=13403",
+                "height": "5744'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157690161471783"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/32387996477",
+            "https://caltopo.com/m/VB0A"
+        ]
+    },
+    {
+        "date": [
             "02/27/2019"
         ],
         "tripType": [
@@ -231,7 +335,7 @@
             {
                 "anchor": "Chemehuevi Peak",
                 "url": "https://www.peakbagger.com/peak.aspx?pid=3807",
-                "height": 3694
+                "height": "3,694'"
             }
         ],
         "pics": [
@@ -255,7 +359,7 @@
             {
                 "anchor": "Whipple Mountains High Point",
                 "url": "https://www.peakbagger.com/peak.aspx?pid=16803",
-                "height": 4130
+                "height": "4,130'"
             }
         ],
         "pics": [
@@ -468,7 +572,8 @@
             "Scuba"
         ],
         "tripName": [
-            "San Diego Wreck Dive With Sea Stallion"
+            "San Diego Wreck Dive With Sea Stallion (Dives #7-9)",
+            "Mission Bay & NOSC Tower Attempt"
         ]
     },
     {
@@ -486,6 +591,20 @@
         ],
         "tripRpt": [
             "http://www.firstchurchofthemasochist.com/2018/12/diving-la-jolla-shores-first-time.html"
+        ]
+    },
+    {
+        "date": [
+            "12/14/2018"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Diving Crescent Bay (SSI Open Water Cert Dive #4)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157674620998467"
         ]
     },
     {
@@ -567,7 +686,7 @@
             {
                 "anchor": "Observation Point",
                 "url": "http://www.peakbagger.com/peak.aspx?pid=26899",
-                "height": 6507
+                "height": "6,507'"
             }
         ],
         "pics": [
@@ -596,12 +715,12 @@
             {
                 "anchor": "Roof Peak",
                 "url": "http://www.peakbagger.com/peak.aspx?pid=39309",
-                "height": 6553
+                "height": "6,553'"
             },
             {
                 "anchor": "Hepworth",
                 "url": "http://www.peakbagger.com/peak.aspx?pid=38864",
-                "height": 6548
+                "height": "6,548'"
             }
         ],
         "pics": [
@@ -631,7 +750,7 @@
             {
                 "anchor": "Nippletop",
                 "url": "http://www.peakbagger.com/peak.aspx?pid=38827",
-                "height": 6715
+                "height": "6,715'"
             }
         ],
         "pics": [
@@ -661,12 +780,12 @@
             {
                 "anchor": "Jenny Peak",
                 "url": "http://www.peakbagger.com/peak.aspx?pid=57067",
-                "height": 6310
+                "height": "6,310'"
             },
             {
                 "anchor": "Jenny's Nipples",
                 "url": "http://www.peakbagger.com/peak.aspx?pid=-74131",
-                "height": 6240
+                "height": "6,240'"
             }
         ],
         "pics": [

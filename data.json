@@ -2,6 +2,108 @@
 "data": [
     {
         "date": [
+            "04/18/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Pre-Work Dive At Shaw's Cove (Dive #52)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157704640958532"
+        ]
+    },
+    {
+        "date": [
+            "04/16/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Pre-Work Dive At Crescent Bay (Dive #51)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157690955462603"
+        ]
+    },
+    {
+        "date": [
+            "04/15/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Night Dive At Diver's Cove (Dive #50)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157708221509794"
+        ]
+    },
+    {
+        "date": [
+            "04/14/2019"
+        ],
+        "tripType": [
+            "Desert Climbing",
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Rosa Point DPS",
+            "Randy de los Santos I Provisonal #2"
+        ],
+        "peaks": [
+            {
+                "anchor": "Rosa Point",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=1510",
+                "height": "5,000'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157677770938857"
+        ]
+    },
+    {
+        "date": [
+            "04/13/2019"
+        ],
+        "tripType": [
+            "Desert Climbing",
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Sheep Hole Mountain DPS",
+            "Emily Nelson I Provisional #2"
+        ],
+        "peaks": [
+            {
+                "anchor": "Sheep Hole Mountains High Point",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=16794",
+                "height": "2,218'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157690955425393"
+        ]
+    },
+    {
+        "date": [
+            "04/11/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Pre-Work Dive At Shaw's Cove (Dive #49)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157690856478143"
+        ]
+    },
+    {
+        "date": [
             "04/09/2019"
         ],
         "tripType": [
@@ -70,6 +172,13 @@
         ],
         "tripName": [
             "Buckskin Gulch / Paria Canyon To Lee's Ferry"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157690742686363"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/46623134265/in/album-72157690742686363/",
+            "https://caltopo.com/m/M21R"
         ]
     },
     {
@@ -198,7 +307,7 @@
         ],
         "tripName": [
             "Stewart Point",
-            "Alex Hunt I Provisional"
+            "Alex Hunt I Provisional #2"
         ],
         "peaks": [
             {

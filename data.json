@@ -2,16 +2,125 @@
 "data": [
     {
         "date": [
+            "05/04/2019",
+            "05/05/2019"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP Anchors & Real World Applications",
+            "Advanced Mountaineering Program (AMP19) Spring 2019"
+        ]
+    },
+    {
+        "date": [
+            "04/27/2019"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP Rappelling Skills",
+            "Advanced Mountaineering Program (AMP19) Spring 2019"
+        ]
+    },
+    {
+        "date": [
+            "04/24/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Pre-Work Dive At Shaw's Cove, Laguna Beach (Dive #57)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157706721600871"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
+            "04/23/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Night Dive At Shaw's Cove, Laguna Beach (Dive #56)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157706721601931"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
+            "04/21/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Diving Catalina Island With Pacific Star Dive Boat (Dives #53-55)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157680006146868"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
+            "04/20/2019"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP Belay Skills",
+            "Advanced Mountaineering Program (AMP19) Spring 2019"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157677899886567"
+        ]
+    },
+    {
+        "date": [
             "04/18/2019"
         ],
         "tripType": [
             "Scuba"
         ],
         "tripName": [
-            "Pre-Work Dive At Shaw's Cove (Dive #52)"
+            "Pre-Work Dive At Shaw's Cove, Laguna Beach (Dive #52)"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157704640958532"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
+            "04/17/2019"
+        ],
+        "tripType": [
+            "Advanced Mountaineering Program"
+        ],
+        "tripName": [
+            "AMP Knots & Basic Safety Systems",
+            "Advanced Mountaineering Program (AMP19) Spring 2019"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157706727153081"
         ]
     },
     {
@@ -22,10 +131,13 @@
             "Scuba"
         ],
         "tripName": [
-            "Pre-Work Dive At Crescent Bay (Dive #51)"
+            "Pre-Work Dive At Crescent Bay, Laguna Beach (Dive #51)"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157690955462603"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
         ]
     },
     {
@@ -36,10 +148,13 @@
             "Scuba"
         ],
         "tripName": [
-            "Night Dive At Diver's Cove (Dive #50)"
+            "Night Dive At Diver's Cove, Laguna Beach (Dive #50)"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157708221509794"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
         ]
     },
     {
@@ -96,10 +211,13 @@
             "Scuba"
         ],
         "tripName": [
-            "Pre-Work Dive At Shaw's Cove (Dive #49)"
+            "Pre-Work Dive At Shaw's Cove, Laguna Beach (Dive #49)"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157690856478143"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
         ]
     },
     {
@@ -110,7 +228,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Pre-Work Dive At Fisherman's Cove (Dive #48)"
+            "Pre-Work Dive At Fisherman's Cove, Laguna Beach (Dive #48)"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157690824348913"
@@ -130,7 +248,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Night Dive At Diver's Cove South (Dive #47)"
+            "Night Dive At Diver's Cove South, Laguna Beach (Dive #47)"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157704492277732"
@@ -150,7 +268,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Pre-Work Dive At Diver's Cove South (Dive #46)"
+            "Pre-Work Dive At Diver's Cove South, Laguna Beach (Dive #46)"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157690756752933"
@@ -189,7 +307,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Pre-Work Dive At Diver's Cove South (Dive #45)"
+            "Pre-Work Dive At Diver's Cove South, Laguna Beach (Dive #45)"
         ],
         "tripRpt": [
             "http://www.firstchurchofthemasochist.com/2019/03/diving-before-work-divers-cove-in.html"
@@ -206,7 +324,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Pre-Work Dive At Diver's Cove North (Dive #44)"
+            "Pre-Work Dive At Diver's Cove North, Laguna Beach (Dive #44)"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157677405937217"
@@ -260,7 +378,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Pre-Work Dive At Shaw's Cove (Dive #37)"
+            "Pre-Work Dive At Shaw's Cove, Laguna Beach (Dive #37)"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157707571261274"
@@ -360,7 +478,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Pre-Work Dive At Crescent (Dive #36)"
+            "Pre-Work Dive At Crescent, Laguna Beach (Dive #36)"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157707049787995"
@@ -377,7 +495,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Pre-Work Dive At Shaw's Cove (Dive #35)"
+            "Pre-Work Dive At Shaw's Cove, Laguna Beach (Dive #35)"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157678983696018"
@@ -453,7 +571,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Pre-Work Dive At Shaw's Cove (Dive #34)"
+            "Pre-Work Dive At Shaw's Cove, Laguna Beach (Dive #34)"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157678255016928"
@@ -485,7 +603,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Pre-Work Dive At Shaw's Cove (Dive #30)"
+            "Pre-Work Dive At Shaw's Cove, Laguna Beach (Dive #30)"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157689377939453"
@@ -502,7 +620,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Night Dive At Crescent With Sea Stallion"
+            "Night Dive At Crescent Bay, Laguna Beach With Sea Stallion"
         ]
     },
     {
@@ -874,7 +992,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Diving Crescent Bay (SSI Open Water Cert Dive #4)"
+            "Diving Crescent Bay, Laguna Beach (SSI Open Water Cert Dive #4)"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157674620998467"

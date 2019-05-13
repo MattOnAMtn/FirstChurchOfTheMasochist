@@ -2,6 +2,52 @@
 "data": [
     {
         "date": [
+            "05/11/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Diving Catalina Island Lulu Reef (Dives #65-67)",
+            "Cee Ray Dive Boat & Sea Stallion "
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157678216475447"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
+            "05/10/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Pre-Work Dive At Shaw's Cove, Laguna Beach (Dive #64)"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
+            "05/09/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Pre-Work Dive At Shaw's Cove, Laguna Beach (Dive #63)"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
             "05/04/2019",
             "05/05/2019"
         ],
@@ -11,6 +57,43 @@
         "tripName": [
             "AMP Anchors & Real World Applications",
             "Advanced Mountaineering Program (AMP19) Spring 2019"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157678134645037"
+        ]
+    },
+    {
+        "date": [
+            "05/02/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Pre-Work Dive At Shaw's Cove, Laguna Beach (Dive #62)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157708230023985"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
+            "05/01/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "USC Catalina Hyperbaric Chamber Day 2019 + Bottom Scratcher Dives (Dives #60-61)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157691247137653"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
         ]
     },
     {
@@ -23,6 +106,43 @@
         "tripName": [
             "AMP Rappelling Skills",
             "Advanced Mountaineering Program (AMP19) Spring 2019"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157705001332432"
+        ]
+    },
+    {
+        "date": [
+            "04/26/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Pre-Work Dive At Shaw's Cove, Laguna Beach (Dive #59)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157708113200295"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
+            "04/25/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Pre-Work Dive At Diver's Cove, Laguna Beach (Dive #58)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157691117889553"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
         ]
     },
     {

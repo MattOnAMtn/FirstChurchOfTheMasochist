@@ -2,6 +2,28 @@
 "data": [
     {
         "date": [
+            "06/13/2019"
+        ],
+        "tripName": [
+            "Diving Shaw's Cove At Night (Dive #75)"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
+            "06/13/2019"
+        ],
+        "tripName": [
+            "Diving Leo Carillo In Horrible Vis (Dive #74)"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
             "06/09/2019"
         ],
         "tripType": [

@@ -2,6 +2,77 @@
 "data": [
     {
         "date": [
+            "06/17/2019",
+            "06/21/2019"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Sierra Climbing",
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Kennedy Meadows To Horseshoe Meadow",
+            "Hitting Olancha Peak, Cartago, and Muah",
+            "Forks of the Kern Abort"
+        ],
+        "peaks": [
+            {
+                "anchor": "Olancha Peak",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=2870",
+                "height": "12,123'"
+            },
+            {
+                "anchor": "Cartago Peak",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=13519",
+                "height": "10,480'"
+            },
+            {
+                "anchor": "Muah Mountain",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=2869",
+                "height": "11,016'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157709240205803"
+        ]
+    },
+    {
+        "date": [
+            "06/15/2019",
+            "06/16/2019"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Sierra Climbing",
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Smith, USGS Crag, & Jackass From Hooker Meadow",
+            "Alain I Provisonal / WTC Experience Trip"
+        ],
+        "peaks": [
+            {
+                "anchor": "Smith Mountain",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=13512",
+                "height": "9,520'"
+            },
+            {
+                "anchor": "Jackass Peak",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=24580",
+                "height": "9,280'"
+            },
+            {
+                "anchor": "Crag (USGS) Peak",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=-60871",
+                "height": "9,440'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157709239831837"
+        ]
+    },
+    {
+        "date": [
             "06/13/2019"
         ],
         "tripName": [
@@ -78,6 +149,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157708977268531"
+        ],
+        "tripRpt": [
+            "https://caltopo.com/m/Q58U"
         ]
     },
     {
@@ -315,6 +389,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157680006146868"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/04/diving-catalina-island-rock-quarry.html"
         ],
         "maps": [
             "https://caltopo.com/m/EGDQ"

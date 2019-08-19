@@ -82,6 +82,20 @@
     },
     {
         "date": [
+            "07/31/2019"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Midsummer Newport Harbor Pizza Paddle"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157710024883482"
+        ]
+    },
+    {
+        "date": [
             "07/30/2019"
         ],
         "tripType": [
@@ -136,6 +150,20 @@
         ],
         "tripName": [
             "Diving Vancouver Island HMCS Saskatchewan and Clark Rock (Dives #97 & 98)"
+        ]
+    },
+    {
+        "date": [
+            "07/20/2019"
+        ],
+        "tripType": [
+            "Hot Springs"
+        ],
+        "tripName": [
+            "Fifth Water Hot Spring"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157710428391006"
         ]
     },
     {
@@ -219,7 +247,11 @@
             "Scuba"
         ],
         "tripName": [
-            "Diving Homestead Crater (Dive #96)"
+            "Diving Homestead Crater (Dive #96)",
+            "Warm Water US Diving Destination"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157710428676381"
         ]
     },
     {

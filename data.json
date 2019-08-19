@@ -2,6 +2,228 @@
 "data": [
     {
         "date": [
+            "08/17/2019",
+            "08/18/2019"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Sierra Climbing",
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Mount Lewis via Bloody Canyon",
+            "WTC Experience Trip"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount Lewis",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=29914",
+                "height": "12,320'"
+            }
+        ]
+    },
+    {
+        "date": [
+            "08/04/2019",
+            "08/15/2019"
+        ],
+        "tripType": [
+            "Thru-Hiking",
+            "Peakbagging",
+            "Sierra Climbing"
+        ],
+        "tripName": [
+            "John Muir Trail In 11 Days"
+        ],
+        "peaks": [
+            {
+                "anchor": "Half Dome",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=2611",
+                "height": "8,840'"
+            },
+            {
+                "anchor": "Mount Whitney",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=2829",
+                "height": "14,498'"
+            },
+            {
+                "anchor": "Mount Muir",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=2832",
+                "height": "14,012'"
+            }
+        ]
+    },
+    {
+        "date": [
+            "08/02/2019",
+            "08/04/2019"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Sierra Climbing",
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Crown Point & Cirque Mountain from Twin Lakes",
+            "WTC Experience Trip"
+        ],
+        "peaks": [
+            {
+                "anchor": "Crown Point",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=2593",
+                "height": "11,346'"
+            },
+            {
+                "anchor": "Cirque Mountain",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=43510",
+                "height": "10,713'"
+            }
+        ]
+    },
+    {
+        "date": [
+            "07/30/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Freezing My Bejeebies Off  At Shaw's Cove Dive #100 aka Naked Dive"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157709995456217"
+        ]
+    },
+    {
+        "date": [
+            "07/29/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Diving Shaw's Cove In The Morning (Dive #99)"
+        ]
+    },
+    {
+        "date": [
+            "07/27/2019",
+            "07/28/2019"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Sierra Climbing",
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Mount Hopkins In Pioneer Basin",
+            "WTC Experience Trip"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount Hopkins",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=38721",
+                "height": "12,304'"
+            }
+        ]
+    },
+    {
+        "date": [
+            "07/23/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Diving Vancouver Island HMCS Saskatchewan and Clark Rock (Dives #97 & 98)"
+        ]
+    },
+    {
+        "date": [
+            "07/18/2019"
+        ],
+        "tripType": [
+            "Peakbagging"
+        ],
+        "tripName": [
+            "Cirque Peak Banff National Park Canada"
+        ],
+        "peaks": [
+            {
+                "anchor": "Cirque Peak",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=4587",
+                "height": "9,820'"
+            }
+        ]
+    },
+    {
+        "date": [
+            "07/17/2019"
+        ],
+        "tripType": [
+            "Peakbagging"
+        ],
+        "tripName": [
+            "Sulpher Skyline Jasper National Park Canada"
+        ],
+        "peaks": [
+            {
+                "anchor": "Sulphur Skyline",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=29533",
+                "height": "6,765'"
+            }
+        ]
+    },
+    {
+        "date": [
+            "07/13/2019",
+            "07/15/2019"
+        ],
+        "tripType": [
+            "Peakbagging"
+        ],
+        "tripName": [
+            "Mount Merritt Glacier National Park"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount Merritt",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=4761",
+                "height": "9,430'"
+            }
+        ]
+    },
+    {
+        "date": [
+            "07/12/2019"
+        ],
+        "tripType": [
+            "Peakbagging"
+        ],
+        "tripName": [
+            "Mount Washburn Yellowstone National Park"
+        ],
+        "peaks": [
+            {
+                "anchor": "Mount Washburn",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=4937",
+                "height": "10,243'"
+            }
+        ]
+    },
+    {
+        "date": [
+            "07/10/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Diving Homestead Crater (Dive #96)"
+        ]
+    },
+    {
+        "date": [
             "07/05/2019"
         ],
         "tripType": [
@@ -21,7 +243,7 @@
         ],
         "tripName": [
             "Diving K2 (Gili Banta), Hot Rocks (Sangiang Island), Bontoh Reef (Sangiang Island), Bontoh Village Night Dive (Sangiang Island) (Dives #90-93)",
-            "Mermaid II Liveaboard Out of Bali Indonesia To Komodo National Park"
+            "Mermaid II Liveaboard Out of Bali Indonesia to Komodo National Park"
         ]
     },
     {
@@ -33,7 +255,7 @@
         ],
         "tripName": [
             "Diving Crystal Rock (Gili Lawa), Castle Rock Current Dive (Gili Lawa), Darat Reef Night Dive (Gili Lawa) (Dives #87-89)",
-            "Mermaid II Liveaboard Out of Bali Indonesia To Komodo National Park"
+            "Mermaid II Liveaboard Out of Bali Indonesia to Komodo National Park"
         ]
     },
     {
@@ -45,7 +267,7 @@
         ],
         "tripName": [
             "Diving Manta Alley 2x (Komodo Island), 3 Sisters (Padar Keul), Padoe Kecil Night Dive (Padar Keul) (Dives #83-86)",
-            "Mermaid II Liveaboard Out of Bali Indonesia To Komodo National Park"
+            "Mermaid II Liveaboard Out of Bali Indonesia to Komodo National Park"
         ]
     },
     {
@@ -57,7 +279,7 @@
         ],
         "tripName": [
             "Diving Batu Monco (Komodo Island), Shot Gun (Gili Laua Laut), Siaba Besar (Linta Strait), Soro Lia Night Dive (Komodo Island) (Dives #79-82)",
-            "Mermaid II Liveaboard Out of Bali Indonesia To Komodo National Park"
+            "Mermaid II Liveaboard Out of Bali Indonesia to Komodo National Park"
         ]
     },
     {
@@ -69,7 +291,7 @@
         ],
         "tripName": [
             "Diving Angel Reef (Moyo Island), Satanda Reef (Satonda Island), Satonda Bay Night Dive (Satonda Island) (Dives #76-78)",
-            "Mermaid II Liveaboard Out of Bali Indonesia To Komodo National Park"
+            "Mermaid II Liveaboard Out of Bali Indonesia to Komodo National Park"
         ]
     },
     {
@@ -1041,7 +1263,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Night Dive At Crescent Bay, Laguna Beach With Sea Stallion"
+            "Night Dive At Crescent Bay, Laguna Beach With Sea Stallion (Dive #29)"
         ]
     },
     {
@@ -1117,7 +1339,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Kingman Wash & Willow Beach Lake Mead Diving (Dives #26-27)",
+            "Kingman Wash & Willow Beach Lake Mead Diving (Dives #25-27)",
             "Sin City Scuba"
         ],
         "pics": [

@@ -51,6 +51,9 @@
                 "url": "https://www.peakbagger.com/peak.aspx?pid=2832",
                 "height": "14,012'"
             }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157710429969632"
         ]
     },
     {
@@ -106,6 +109,12 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157709995456217"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/07/my-100th-dive-aka-naked-dive-at-shaws.html"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
         ]
     },
     {
@@ -150,6 +159,26 @@
         ],
         "tripName": [
             "Diving Vancouver Island HMCS Saskatchewan and Clark Rock (Dives #97 & 98)"
+        ]
+    },
+    {
+        "date": [
+            "07/20/2019",
+            "07/22/2019"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Sayward Forest Canoe Route Portage Loop In Three Days",
+            "Vancouver Island, Canada"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157710443852706"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/48586673731",
+            "https://caltopo.com/m/3NKF"
         ]
     },
     {
@@ -264,6 +293,9 @@
         "tripName": [
             "Diving Sumbawa Wall (Sumbawa Besar) & Angel Reef (Moyo Island) (Dives #94-95)",
             "Mermaid II Liveaboard Out of Bali Indonesia To Komodo National Park"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157709527319677"
         ]
     },
     {
@@ -276,6 +308,9 @@
         "tripName": [
             "Diving K2 (Gili Banta), Hot Rocks (Sangiang Island), Bontoh Reef (Sangiang Island), Bontoh Village Night Dive (Sangiang Island) (Dives #90-93)",
             "Mermaid II Liveaboard Out of Bali Indonesia to Komodo National Park"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157709527159886"
         ]
     },
     {
@@ -288,6 +323,9 @@
         "tripName": [
             "Diving Crystal Rock (Gili Lawa), Castle Rock Current Dive (Gili Lawa), Darat Reef Night Dive (Gili Lawa) (Dives #87-89)",
             "Mermaid II Liveaboard Out of Bali Indonesia to Komodo National Park"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157709526763916"
         ]
     },
     {
@@ -300,6 +338,9 @@
         "tripName": [
             "Diving Manta Alley 2x (Komodo Island), 3 Sisters (Padar Keul), Padoe Kecil Night Dive (Padar Keul) (Dives #83-86)",
             "Mermaid II Liveaboard Out of Bali Indonesia to Komodo National Park"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157709527604741"
         ]
     },
     {
@@ -312,6 +353,9 @@
         "tripName": [
             "Diving Batu Monco (Komodo Island), Shot Gun (Gili Laua Laut), Siaba Besar (Linta Strait), Soro Lia Night Dive (Komodo Island) (Dives #79-82)",
             "Mermaid II Liveaboard Out of Bali Indonesia to Komodo National Park"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157709526182991"
         ]
     },
     {
@@ -324,6 +368,9 @@
         "tripName": [
             "Diving Angel Reef (Moyo Island), Satanda Reef (Satonda Island), Satonda Bay Night Dive (Satonda Island) (Dives #76-78)",
             "Mermaid II Liveaboard Out of Bali Indonesia to Komodo National Park"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157709519596766"
         ]
     },
     {

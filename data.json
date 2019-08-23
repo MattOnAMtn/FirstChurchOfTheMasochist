@@ -54,6 +54,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157710429969632"
+        ],
+        "maps": [
+            "https://caltopo.com/m/F0CD"
         ]
     },
     {
@@ -183,20 +186,6 @@
     },
     {
         "date": [
-            "07/20/2019"
-        ],
-        "tripType": [
-            "Hot Springs"
-        ],
-        "tripName": [
-            "Fifth Water Hot Spring"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157710428391006"
-        ]
-    },
-    {
-        "date": [
             "07/18/2019"
         ],
         "tripType": [
@@ -281,6 +270,33 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157710428676381"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/07/warm-water-scuba-diving-at-homestead.html"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
+            "07/10/2019"
+        ],
+        "tripType": [
+            "Hot Springs"
+        ],
+        "tripName": [
+            "Fifth Water Hot Spring"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157710428391006"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/07/fifth-water-hot-spring-utah.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/48607478443",
+            "https://caltopo.com/m/U7RF"
         ]
     },
     {

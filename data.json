@@ -2,6 +2,95 @@
 "data": [
     {
         "date": [
+            "09/04/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Morning Dive At Fisherman's Cove, Laguna Beach (Dive #107)"
+        ]
+    },
+    {
+        "date": [
+            "09/03/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Morning Dive At Crescent Bay, Laguna Beach (Dive #106)"
+        ]
+    },
+    {
+        "date": [
+            "09/02/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Diving Anacapa: Windfield Scott, Cathedral Cove, Portugese Rock (Dives #103-105)",
+            "Peace Dive Boat Ventura"
+        ]
+    },
+    {
+        "date": [
+            "08/26/2019",
+            "08/31/2019"
+        ],
+        "tripType": [
+            "Sierra Climbing",
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Theodore Solomons Trail - Horseshoe Meadow to Roads End"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157710651891576"
+        ],
+        "maps": [
+            "https://caltopo.com/m/T8R1"
+        ]
+    },
+    {
+        "date": [
+            "08/24/2019",
+            "08/25/2019"
+        ],
+        "tripType": [
+            "Peakbagging",
+            "Sierra Climbing",
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "Duck Lake Peak & Pika Lake",
+            "WTC Experience Trip"
+        ],
+        "peaks": [
+            {
+                "anchor": "Duck Lake Peak",
+                "url": "http://www.peakbagger.com/peak.aspx?pid=38609",
+                "height": "12,051'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157710645974738"
+        ]
+    },
+    {
+        "date": [
+            "08/22/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Morning Dive At Shaw's Cove, Laguna Beach (Dive #102)"
+        ]
+    },
+    {
+        "date": [
             "08/17/2019",
             "08/18/2019"
         ],
@@ -20,6 +109,16 @@
                 "url": "https://www.peakbagger.com/peak.aspx?pid=29914",
                 "height": "12,320'"
             }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157710430234007"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/08/mount-lewis-via-bloody-canyon-wtc.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/48579431657",
+            "https://caltopo.com/m/E661"
         ]
     },
     {
@@ -98,6 +197,17 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157710024883482"
+        ]
+    },
+    {
+        "date": [
+            "07/30/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Diver's Cove Night Dive (Dive #101)"
         ]
     },
     {
@@ -405,6 +515,16 @@
                 "url": "https://www.peakbagger.com/peak.aspx?pid=26856",
                 "height": "5,633'"
             }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157709523396446"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/07/playing-tourist-on-mount-batur-bali.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/48679953806",
+            "https://caltopo.com/m/1U7L"
         ]
     },
     {

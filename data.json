@@ -2,6 +2,60 @@
 "data": [
     {
         "date": [
+            "10/05/2019"
+        ],
+        "tripName": [
+            "Diving Oil Rigs Ellen, Elly, and Eureka (Dives #119-121)",
+            "Sundiver Express Dive Boat, San Pedro"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157711208157677"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
+            "10/04/2019"
+        ],
+        "tripName": [
+            "Reef Point & Pelican Point Crystal Cove Dives (Dives #117-118)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157711196263157"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
+            "10/03/2019"
+        ],
+        "tripName": [
+            "La Jolla Cove 2 Dives With Jack & Seals (Dives #115-116)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157711208154081"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
+            "09/30/2019"
+        ],
+        "tripName": [
+            "Morning Dive At Crescent Bay, Laguna Beach (Dive #114)"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
             "09/28/2019"
         ],
         "tripType": [
@@ -13,6 +67,12 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157711117471306"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/09/diving-catalina-midnight-hour-wreck.html"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
         ]
     },
     {
@@ -27,6 +87,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157711126572283"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
         ]
     },
     {
@@ -41,6 +104,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157711080748348"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
         ]
     },
     {
@@ -51,10 +117,16 @@
             "Paddling"
         ],
         "tripName": [
-            "Late Summer Newport Harbor Pizza Paddle"
+            "Newport Harbor Pizza Paddle We're Back -ish Edition"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157711121328533"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/09/newport-harbor-pizza-paddle-september.html"
+        ],
+        "maps": [
+            "https://caltopo.com/m/6Q3C"
         ]
     },
     {
@@ -66,6 +138,9 @@
         ],
         "tripName": [
             "Morning Dive At Crescent Bay, Laguna Beach (Dive #108)"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
         ]
     },
     {
@@ -129,6 +204,9 @@
         ],
         "tripName": [
             "Morning Dive At Fisherman's Cove, Laguna Beach (Dive #107)"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
         ]
     },
     {
@@ -140,6 +218,9 @@
         ],
         "tripName": [
             "Morning Dive At Crescent Bay, Laguna Beach (Dive #106)"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
         ]
     },
     {
@@ -155,6 +236,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157710666529988"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
         ]
     },
     {
@@ -210,6 +294,9 @@
         ],
         "tripName": [
             "Morning Dive At Shaw's Cove, Laguna Beach (Dive #102)"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
         ]
     },
     {
@@ -334,6 +421,9 @@
         ],
         "tripName": [
             "Diver's Cove Night Dive (Dive #101)"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
         ]
     },
     {

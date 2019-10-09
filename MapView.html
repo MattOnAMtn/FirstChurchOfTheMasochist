@@ -23,7 +23,7 @@ function initialize() {
   }
   var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
   var georssLayer = new google.maps.KmlLayer({
-    url: 'https://www.blogger.com/feeds/3234858971354240406/posts/default?max=500&max-results=500'
+    url: 'https://www.blogger.com/feeds/3234858971354240406/posts/default?max=50&max-results=50'
   });
   georssLayer.setMap(map);
 }

@@ -2,6 +2,45 @@
 "data": [
     {
         "date": [
+            "10/07/2019"
+        ],
+        "tripName": [
+            "Diving Crescennt Solo (Dive #126)"
+        ]
+    },
+    {
+        "date": [
+            "10/07/2019"
+        ],
+        "tripName": [
+            "Diving Crescent Bay Seal Rock & Crescent South (Dives #124 & 125)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157711240567213"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/10/two-days-of-morning-dives-at-crescent.html"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
+            "10/06/2019"
+        ],
+        "tripName": [
+            "Diving Crescent Bay & Shaw's Cove Laguna Beach (Dives #122 & 123)"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/10/two-days-of-morning-dives-at-crescent.html"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
             "10/05/2019"
         ],
         "tripName": [
@@ -10,6 +49,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157711208157677"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/10/diving-oil-rigs-ellen-elly-eureka-with.html"
         ],
         "maps": [
             "https://caltopo.com/m/EGDQ"
@@ -24,6 +66,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157711196263157"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/10/diving-crystal-cove-at-reef-point.html"
         ],
         "maps": [
             "https://caltopo.com/m/EGDQ"

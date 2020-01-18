@@ -2,13 +2,126 @@
 "data": [
     {
         "date": [
+            "01/12/2020",
+            "01/16/2020"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Section Hiking The Desert Trail: Mexican Border to Borrego Springs",
+            "The Desert Trail"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157712717604153"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2020/01/section-hiking-desert-trail-mexican.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/49401587581",
+            "https://caltopo.com/m/TLMJ"
+        ]
+    },
+    {
+        "date": [
+            "01/08/2020"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Diving Crescent Bay North & South (Dives #237-238)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157712592447882"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2020/01/a-return-to-cold-water-diving-at.html"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
+            "01/03/2020",
+            "01/05/2020"
+        ],
+        "tripType": [
+            "Local Hiking"
+        ],
+        "tripName": [
+            "Backpacking Santa Cruz Island Prisoners Harbor to Scorpion Harbor",
+            "Santa Cruz Island, Channel Islands National Park"
+        ],
+        "peaks": [
+            {
+                "anchor": "El Montanon Peak",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=18343",
+                "height": "1,808'"
+            },
+            {
+                "anchor": "High Mount Benchmark",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=31233",
+                "height": "1,581'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157712548453388"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2020/01/backpacking-santa-cruz-island-prisoners.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/49405412967",
+            "https://caltopo.com/m/QV31"
+        ]
+    },
+    {
+        "date": [
+            "12/26/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Diving the San Marcos River and Comal River in Texas (Dives #235-236)"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157712449732367"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/12/diving-san-marcos-river-and-comal-river.html"
+        ],
+        "maps": [
+            "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
+            "12/23/2019"
+        ],
+        "tripType": [
+            "Thailand DMT"
+        ],
+        "tripName": [
+            "Looking Back & Lessons Learned",
+            "Living the Life of a Divemaster Trainee in Khao Lak Thailand"
+        ]
+    },
+    {
+        "date": [
             "12/20/2019",
             "12/22/2019"
+        ],
+        "tripType": [
+            "Scuba"
         ],
         "tripName": [
             "Diving / Guiding In The Similan Islands (Dives #227- 234)",
             "Similan Quest Dive Boat, Similan Islands, Thailand",
-            "SDI Divemaster Trainee With Sign Scuba"
+            "SDI Divemaster Training With Sign Scuba"
         ]
     },
     {
@@ -28,50 +141,32 @@
     },
     {
         "date": [
-            "11/20/2019"
+            "12/19/2019"
         ],
         "tripType": [
-            "Scuba"
+            "Thailand DMT"
         ],
         "tripName": [
-            "Diving China Wall, Hideaway Bay, Stonehenge (Dives #178-180)",
-            "Similan Quest Dive Boat, Similan Islands, Thailand"
+            "Diving Richelieu Rock",
+            "Living the Life of a Divemaster Trainee in Khao Lak Thailand"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/12/diving-richelieu-rock-khao-lak-thailand.html"
         ]
     },
     {
         "date": [
-            "11/19/2019"
+            "12/10/2019"
         ],
         "tripType": [
-            "Scuba"
+            "Thailand DMT"
         ],
         "tripName": [
-            "Diving Turtle Rock, Deep Sixth, West of Eden, Honeymoon Bay (Dives #174-177)",
-            "Similan Quest Dive Boat, Similan Islands, Thailand"
-        ]
-    },
-    {
-        "date": [
-            "11/18/2019"
+            "Working The Similan Islands & Koh Bon Via Liveaboard",
+            "Living the Life of a Divemaster Trainee in Khao Lak Thailand"
         ],
-        "tripType": [
-            "Scuba"
-        ],
-        "tripName": [
-            "Diving Island 9 Namchai Bay, North Point, Three Trees, Donald Duck Bay (Dives #170-173)",
-            "Similan Quest Dive Boat, Similan Islands, Thailand"
-        ]
-    },
-    {
-        "date": [
-            "11/17/2019"
-        ],
-        "tripType": [
-            "Scuba"
-        ],
-        "tripName": [
-            "Diving Koh Bon Bay, Koh Bon Water Fall, Koh Bon North, & Island 8 Waterfall Bay (Dives #166-169)",
-            "Similan Quest Dive Boat, Similan Islands, Thailand"
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/12/living-life-of-divemaster-trainee-in.html"
         ]
     },
     {
@@ -83,21 +178,9 @@
             "Scuba"
         ],
         "tripName": [
-            "Diving / Guiding In The Similan Islands (Dives #162- 224)",
+            "Diving / Guiding In The Similan Islands (Dives #162-224)",
             "Similan Quest Dive Boat, Similan Islands, Thailand",
-            "SDI Divemaster Trainee With Sign Scuba"
-        ]
-    },
-    {
-        "date": [
-            "11/16/2019"
-        ],
-        "tripType": [
-            "Scuba"
-        ],
-        "tripName": [
-            "Diving Turtle Rock, Christmas Point, Donald Duck Bay (Dives #163-165)",
-            "Similan Quest Dive Boat, Similan Islands, Thailand"
+            "SDI Divemaster Training With Sign Scuba"
         ]
     },
     {
@@ -109,7 +192,7 @@
         ],
         "tripName": [
             "Guiding The Boonsung Wreck From A Long-Tail Boat (Dives #160-161)",
-            "SDI Divemaster Trainee With Sign Scuba",
+            "SDI Divemaster Training With Sign Scuba",
             "Khao Lak, Thailand"
         ],
         "pics": [
@@ -117,77 +200,6 @@
         ],
         "tripRpt": [
             "http://www.firstchurchofthemasochist.com/2019/11/living-life-of-divemaster-trainee-in_70.html"
-        ]
-    },
-    {
-        "date": [
-            "11/15/2019"
-        ],
-        "tripType": [
-            "Scuba"
-        ],
-        "tripName": [
-            "Diving Boonsung Wreck From A Longtail Khao Lak, Thailand (Dives #161-162)"
-        ]
-    },
-    {
-        "date": [
-            "11/08/2019"
-        ],
-        "tripType": [
-            "Scuba"
-        ],
-        "tripName": [
-            "Diving Tuna Wreck Zodiac, Deep Six, West of Eden (Dives #158-160)",
-            "Similan Quest Dive Boat, Similan Islands, Thailand"
-        ]
-    },
-    {
-        "date": [
-            "11/07/2019"
-        ],
-        "tripType": [
-            "Scuba"
-        ],
-        "tripName": [
-            "Diving Koh Bon 2x,  Honeymoon Bay OW Assist (Dives #155-157)",
-            "Similan Quest Dive Boat, Similan Islands, Thailand"
-        ]
-    },
-    {
-        "date": [
-            "11/03/2019"
-        ],
-        "tripType": [
-            "Scuba"
-        ],
-        "tripName": [
-            "Diving Kon Bon (Dives #152-154)",
-            "Similan Quest Dive Boat, Similan Islands, Thailand"
-        ]
-    },
-    {
-        "date": [
-            "11/02/2019"
-        ],
-        "tripType": [
-            "Scuba"
-        ],
-        "tripName": [
-            "Diving Tuna Wreck, Num Chai Bay, Three Trees, Old Man Bay (Dives #148-151)",
-            "Similan Quest Dive Boat, Similan Islands, Thailand"
-        ]
-    },
-    {
-        "date": [
-            "11/01/2019"
-        ],
-        "tripType": [
-            "Scuba"
-        ],
-        "tripName": [
-            "Diving Island 4 West of Eden, Deep Sixth, Honeymoon Bay (Dives #145-147)",
-            "Similan Quest Dive Boat, Similan Islands, Thailand"
         ]
     },
     {
@@ -200,7 +212,7 @@
         ],
         "tripName": [
             "Diving / Guiding In The Similan Islands (Dives #145-159)",
-            "SDI Divemaster Trainee With Sign Scuba",
+            "SDI Divemaster Training With Sign Scuba",
             "Khao Lak, Thailand"
         ]
     },

@@ -2,6 +2,29 @@
 "data": [
     {
         "date": [
+            "01/19/2020",
+            "01/21/2020"
+        ],
+        "tripType": [
+            "Paddling",
+            "Hot Springs"
+        ],
+        "tripName": [
+            "Paddling Black Canyon & Visiting Arizona, Boy Scout, Gold Strike, and Sauna Hot Springs"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157712786872328"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2020/01/paddling-black-canyon-visiting-arizona.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/49427718562/in/album-72157712786872328/",
+            "https://caltopo.com/m/SN74"
+        ]
+    },
+    {
+        "date": [
             "01/12/2020",
             "01/16/2020"
         ],

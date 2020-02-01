@@ -749,6 +749,17 @@
     },
     {
         "date": [
+            "09/20/2019"
+        ],
+        "tripName": [
+            "Matt's Guide To The Theodore Solomons Trail"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/09/matts-guide-to-theodore-solomons-trail.html"
+        ]
+    },
+    {
+        "date": [
             "09/09/2019",
             "09/19/2019"
         ],
@@ -761,6 +772,12 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157711054172187"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/09/hiking-theodore-solomons-trail-north.html"
+        ],
+        "maps": [
+            "https://caltopo.com/m/T8R1"
         ]
     },
     {
@@ -841,6 +858,9 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157710651891576"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2019/08/hiking-theodore-solomons-trail-south.html"
         ],
         "maps": [
             "https://caltopo.com/m/T8R1"

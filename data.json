@@ -2,6 +2,35 @@
 "data": [
     {
         "date": [
+            "02/05/2020",
+            "02/09/2020"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Section Hiking The Hot Spring Trail: Santa Barbara To Ojai",
+            "The Hot Spring Trail National Scenic Trail Proposal"
+        ],
+        "peaks": [
+            {
+                "anchor": "Montecito Peak",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=13483",
+                "height": "3,214'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157713050000833"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2020/02/section-hiking-hot-spring-trail-santa.html"
+        ],
+        "maps": [
+            "https://caltopo.com/m/3NR4"
+        ]
+    },
+    {
+        "date": [
             "01/26/2020"
         ],
         "tripType": [

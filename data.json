@@ -2,11 +2,64 @@
 "data": [
     {
         "date": [
+            "03/26/2020"
+        ],
+        "tripType": [
+            "Local Hiking"
+        ],
+        "tripName": [
+            "Chaparrosa Peak Escape From Isolation"
+        ],
+        "peaks": [
+            {
+                "anchor": "Chaparrosa Peak",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=1406",
+                "height": "5,541'"
+            }
+        ]
+    },
+    {
+        "date": [
+            "03/04/2020",
+            "03/08/2020"
+        ],
+        "tripType": [
+            "Thru-Hiking",
+            "Local Hiking"
+        ],
+        "tripName": [
+            "Thru-Hiking The Santa Monica Mountains Backbone Trail (BBT)"
+        ],
+        "peaks": [
+            {
+                "anchor": "Eagle Rock",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=-24733",
+                "height": "1,957'"
+            },
+            {
+                "anchor": "Sandstone Peak",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=1431",
+                "height": "3,111'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157713486594642"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2020/03/thru-hiking-santa-monica-mountains.html"
+        ],
+        "maps": [
+            "https://caltopo.com/m/7LG7"
+        ]
+    },
+    {
+        "date": [
             "02/05/2020",
             "02/09/2020"
         ],
         "tripType": [
-            "Thru-Hiking"
+            "Thru-Hiking",
+            "Local Hiking"
         ],
         "tripName": [
             "Section Hiking The Hot Spring Trail: Santa Barbara To Ojai",

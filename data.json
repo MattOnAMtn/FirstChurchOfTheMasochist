@@ -2,6 +2,26 @@
 "data": [
     {
         "date": [
+            "04/09/2020",
+            "04/16/2020"
+        ],
+        "tripType": [
+            "Local Hiking",
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Section Hiking The Condor Trail: Bottchers to Kirk",
+            "The Condor Trail"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157713942624277"
+        ],
+        "maps": [
+            "https://caltopo.com/m/E6U5"
+        ]
+    },
+    {
+        "date": [
             "03/26/2020"
         ],
         "tripType": [

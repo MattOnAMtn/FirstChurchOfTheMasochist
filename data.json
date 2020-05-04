@@ -2,6 +2,52 @@
 "data": [
     {
         "date": [
+            "04/22/2020",
+            "04/26/2020"
+        ],
+        "tripType": [
+            "Local Hiking",
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Section Hiking The Condor Trail: Lower Rancho Nuevo to Piedra Blanca",
+            "The Condor Trail, Los Padres"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157714080745592"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2020/04/section-hiking-condor-trail-lower.html"
+        ],
+        "maps": [
+            "https://caltopo.com/m/E6U5"
+        ]
+    },
+    {
+        "date": [
+            "04/18/2020",
+            "04/22/2020"
+        ],
+        "tripType": [
+            "Local Hiking",
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Section Hiking The Condor Trail: Cuesta Pass on the 101 to Adobe TH on the 166",
+            "The Condor Trail, Los Padres"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157714078416831"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2020/04/section-hiking-condor-trail-cuesta-pass.html"
+        ],
+        "maps": [
+            "https://caltopo.com/m/E6U5"
+        ]
+    },
+    {
+        "date": [
             "04/09/2020",
             "04/16/2020"
         ],
@@ -10,11 +56,14 @@
             "Thru-Hiking"
         ],
         "tripName": [
-            "Section Hiking The Condor Trail: Bottchers to Kirk",
-            "The Condor Trail"
+            "Section Hiking The Condor Trail: Bottchers Gap to Kirk Creek",
+            "The Condor Trail, Los Padres"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157713942624277"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2020/04/section-hiking-condor-trail-bottchers.html"
         ],
         "maps": [
             "https://caltopo.com/m/E6U5"

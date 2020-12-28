@@ -2,6 +2,119 @@
 "data": [
     {
         "date": [
+            "09/02/2020",
+            "02/29/2020"
+        ],
+        "tripName": [
+            "Washington",
+            "Thru Hiking the Pacific Crest Trail in the Summer of COVID-19"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157716404949436"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2020/09/washington-thru-hiking-pacific-crest.html"
+        ]
+    },
+    {
+        "date": [
+            "08/13/2020",
+            "08/31/2020"
+        ],
+        "tripName": [
+            "Oregon",
+            "Thru Hiking the Pacific Crest Trail in the Summer of COVID-19"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157716404756843"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2020/08/oregon-thru-hiking-pacific-crest-trail.html"
+        ]
+    },
+    {
+        "date": [
+            "07/13/2020",
+            "08/10/2020"
+        ],
+        "tripName": [
+            "Nothern California",
+            "Thru Hiking the Pacific Crest Trail in the Summer of COVID-19"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157716404351128"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2020/08/northern-california-thru-hiking-pacific.html"
+        ]
+    },
+    {
+        "date": [
+            "06/20/2020",
+            "07/11/2020"
+        ],
+        "tripName": [
+            "Sierra Nevada",
+            "Thru Hiking the Pacific Crest Trail in the Summer of COVID-19"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157716403783826"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2020/07/sierra-nevada-thru-hiking-pacific-crest.html"
+        ]
+    },
+    {
+        "date": [
+            "05/04/2020",
+            "06/19/2020"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Southern California Desert",
+            "Thru Hiking The Pacific Crest Trail"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157716403277321"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2020/06/southern-california-desert-thru-hiking.html"
+        ]
+    },
+    {
+        "date": [
+            "05/03/2020"
+        ],
+        "tripType": [
+            "Long Distance Hiking"
+        ],
+        "tripName": [
+            "Planning & Prep",
+            "Thru Hiking the Pacific Crest Trail in the Summer of COVID-19"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2020/06/planning-preperation-for-hiking-pacific.html"
+        ]
+    },
+    {
+        "date": [
+            "05/02/2020"
+        ],
+        "tripType": [
+            "Long Distance Hiking"
+        ],
+        "tripName": [
+            "Pandemic Crest Trail",
+            "Thru Hiking the Pacific Crest Trail in the Summer of COVID-19"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2020/05/pandemic-crest-trail-thru-hiking.html"
+        ]
+    },
+    {
+        "date": [
             "04/22/2020",
             "04/26/2020"
         ],

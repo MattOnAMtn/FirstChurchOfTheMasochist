@@ -2,11 +2,62 @@
 "data": [
     {
         "date": [
+            "12/20/2024",
+            "01/05/2025"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Raja Ampat Indonesia on the Ilike Liveaboard Dive xxx-40x"
+        ]
+    },
+    {
+        "date": [
+            "11/23/2024",
+            "12/01/2024"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Thanksgiving At Buddy Dive Bonaire"
+        ]
+    },
+    {
+        "date": [
+            "12/28/2023",
+            "01/06/2024"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Christmas / New Years In Socorro Mexico on the Quino Liveaboard"
+        ]
+    },
+    {
+        "date": [
+            "06/07/2022",
+            "06/19/2022"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Return to Komodo Indonesia on the Mermaid II Liveaboard"
+        ]
+    },
+    {
+        "date": [
             "09/02/2020",
             "02/29/2020"
         ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
         "tripName": [
-            "Washington",
+            "Washington Section of the PCT",
             "Thru Hiking the Pacific Crest Trail in the Summer of COVID-19"
         ],
         "pics": [
@@ -21,8 +72,11 @@
             "08/13/2020",
             "08/31/2020"
         ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
         "tripName": [
-            "Oregon",
+            "Oregon Section of the PCT",
             "Thru Hiking the Pacific Crest Trail in the Summer of COVID-19"
         ],
         "pics": [
@@ -37,8 +91,11 @@
             "07/13/2020",
             "08/10/2020"
         ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
         "tripName": [
-            "Nothern California",
+            "Nothern California Section of the PCT",
             "Thru Hiking the Pacific Crest Trail in the Summer of COVID-19"
         ],
         "pics": [
@@ -53,8 +110,11 @@
             "06/20/2020",
             "07/11/2020"
         ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
         "tripName": [
-            "Sierra Nevada",
+            "Sierra Nevada Section of the PCT",
             "Thru Hiking the Pacific Crest Trail in the Summer of COVID-19"
         ],
         "pics": [
@@ -73,7 +133,7 @@
             "Thru-Hiking"
         ],
         "tripName": [
-            "Southern California Desert",
+            "Southern California Desert Section of the PCT",
             "Thru Hiking The Pacific Crest Trail"
         ],
         "pics": [
@@ -106,7 +166,7 @@
             "Long Distance Hiking"
         ],
         "tripName": [
-            "Pandemic Crest Trail",
+            "Pandemic Crest Trail: The Choice to Go or Not To Go",
             "Thru Hiking the Pacific Crest Trail in the Summer of COVID-19"
         ],
         "tripRpt": [
@@ -430,21 +490,6 @@
             "12/19/2019"
         ],
         "tripType": [
-            "Scuba"
-        ],
-        "tripName": [
-            "Diving Richelieu Rock With Big Blue (Dives #225-226)",
-            "Khao Lak, Thailand"
-        ],
-        "pics": [
-            "https://www.flickr.com/photos/matthewhengst/albums/72157712285285136"
-        ]
-    },
-    {
-        "date": [
-            "12/19/2019"
-        ],
-        "tripType": [
             "Thailand DMT"
         ],
         "tripName": [
@@ -453,6 +498,21 @@
         ],
         "tripRpt": [
             "http://www.firstchurchofthemasochist.com/2019/12/diving-richelieu-rock-khao-lak-thailand.html"
+        ]
+    },
+    {
+        "date": [
+            "12/19/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Diving Richelieu Rock With Big Blue (Dives #225-226)",
+            "Khao Lak, Thailand"
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157712285285136"
         ]
     },
     {
@@ -489,12 +549,11 @@
             "11/15/2019"
         ],
         "tripType": [
-            "Scuba"
+            "Thailand DMT"
         ],
         "tripName": [
-            "Guiding The Boonsung Wreck From A Long-Tail Boat (Dives #160-161)",
-            "SDI Divemaster Training With Sign Scuba",
-            "Khao Lak, Thailand"
+            "Dive Guiding The Boonsung Wreck From A Long-Trail Boat",
+            "Living the Life of a Divemaster Trainee in Khao Lak Thailand"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157712000246591"
@@ -508,11 +567,12 @@
             "11/15/2019"
         ],
         "tripType": [
-            "Thailand DMT"
+            "Scuba"
         ],
         "tripName": [
-            "Dive Guiding The Boonsung Wreck From A Long-Trail Boat",
-            "Living the Life of a Divemaster Trainee in Khao Lak Thailand"
+            "Guiding The Boonsung Wreck From A Long-Tail Boat (Dives #160-161)",
+            "SDI Divemaster Training With Sign Scuba",
+            "Khao Lak, Thailand"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157712000246591"
@@ -538,20 +598,6 @@
     },
     {
         "date": [
-            "10/31/2019",
-            "11/08/2019"
-        ],
-        "tripType": [
-            "Scuba"
-        ],
-        "tripName": [
-            "Diving / Guiding In The Similan Islands (Dives #145-159)",
-            "SDI Divemaster Training With Sign Scuba",
-            "Khao Lak, Thailand"
-        ]
-    },
-    {
-        "date": [
             "10/31/2019"
         ],
         "tripType": [
@@ -563,6 +609,20 @@
         ],
         "tripRpt": [
             "http://www.firstchurchofthemasochist.com/2019/11/living-life-of-divemaster-trainee-in.html"
+        ]
+    },
+    {
+        "date": [
+            "10/31/2019",
+            "11/08/2019"
+        ],
+        "tripType": [
+            "Scuba"
+        ],
+        "tripName": [
+            "Diving / Guiding In The Similan Islands (Dives #145-159)",
+            "SDI Divemaster Training With Sign Scuba",
+            "Khao Lak, Thailand"
         ]
     },
     {
@@ -1340,7 +1400,7 @@
             "Scuba"
         ],
         "tripName": [
-            "Freezing My Bejeebies Off  At Shaw's Cove Dive #100 aka Naked Dive"
+            "Freezing My Bejeebies Off At Shaw's Cove Dive #100 aka Naked Dive"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157709995456217"
@@ -19806,10 +19866,47 @@
         ],
         "tripType": [
             "Peakbagging",
-            "Local Hiking"
+            "Local Hiking",
+            "Paddling",
+            "Paddling",
+            "Thru-Hiking",
+            "Thru-Hiking",
+            "Thru-Hiking",
+            "Thru-Hiking",
+            "Local Hiking",
+            "Thru-Hiking",
+            "Paddling",
+            "Paddling",
+            "Paddling",
+            "Paddling",
+            "Thru-Hiking",
+            "Thru-Hiking",
+            "Thru-Hiking"
         ],
         "tripName": [
-            "Santiago Completely Unprepared"
+            "Santiago Completely Unprepared",
+            "Two Ways to Finish the Mississippi River: The Atchafalaya vs Main Channel",
+            "Mississippi River Source to Sea '23",
+            "Canoe vs Kayak for the Mississippi Source to Sea: What We Used and Why",
+            "Mississippi River Source to Sea '23",
+            "What I Carry to Stay Charged Thru-Hiking (Hint: It’s Not Nitecore or a Solar Panel)",
+            "Planning Resources For Hiking The American Discovery Trail",
+            "Matt & Jen's Favorite Thru Hiking Trail Dinner | Freeze Dried Beans + Minute Rice + Taco Seasoning",
+            "My Continental Divide '22-23 Thru Hike By The Numbers",
+            "San Mateo Backpacking Loop AKA My 70 Mile Thru Hike Conditioning Trip In Orange County",
+            "My Triple Crown of Hiking By The Numbers",
+            "How We Got to and From The River",
+            "Mississippi River Source to Sea '23",
+            "Powering Our Paddle With a $250 Voltaic Solar Box",
+            "Mississippi River Source to Sea '23",
+            "Our Mississippi River Thru Paddle By The Numbers",
+            "Mississippi River Source to Sea '23",
+            "River Coordinates & Distances",
+            "Mississippi River Source to Sea '23",
+            "Eastern Continental Trail 2021: Key West to Canada By The Numbers",
+            "302 Days and 5,000 Miles Later: Hiking Key West to Canada Along The Eastern Continental Trail",
+            "Gear I Used to Hike the Pacific Crest Trail in 2020",
+            "Thru Hiking the Pacific Crest Trail in the Summer of COVID-19"
         ],
         "peaks": [
             {
@@ -19820,6 +19917,23 @@
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157600556907606/"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2025/05/two-ways-to-finish-mississippi-river.html",
+            "https://www.firstchurchofthemasochist.com/2025/05/canoe-vs-kayak-for-mississippi-source.html",
+            "https://www.firstchurchofthemasochist.com/2025/05/what-i-carry-to-stay-charged-thru.html",
+            "https://www.firstchurchofthemasochist.com/2025/05/planning-resources-for-hiking-american.html",
+            "https://www.firstchurchofthemasochist.com/2024/02/matt-jens-favorite-thru-hiking-trail.html",
+            "https://www.firstchurchofthemasochist.com/2025/05/my-continental-divide-trail-2022-3-thru.html",
+            "https://www.firstchurchofthemasochist.com/2025/02/san-mateo-backpacking-loop-aka-my-70.html",
+            "https://www.firstchurchofthemasochist.com/2023/12/triple-crown-of-hiking.html",
+            "https://www.firstchurchofthemasochist.com/2023/08/how-we-got-to-and-from-river.html",
+            "https://www.firstchurchofthemasochist.com/2023/08/powering-our-paddle-with-my-250-voltaic.html",
+            "https://www.firstchurchofthemasochist.com/2023/08/our-mississippi-river-thru-paddle-by.html",
+            "https://www.firstchurchofthemasochist.com/2023/08/river-coordinates-distances-mississippi.html",
+            "https://www.firstchurchofthemasochist.com/2022/01/eastern-continental-trail-2021-key-west.html",
+            "https://www.firstchurchofthemasochist.com/2021/11/302-days-and-5000-miles-later-hiking.html",
+            "https://www.firstchurchofthemasochist.com/2020/11/pct2020-gear.html"
         ]
     }
 ]

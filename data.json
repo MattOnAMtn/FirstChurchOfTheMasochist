@@ -2,6 +2,223 @@
 "data": [
     {
         "date": [
+            "05/25/2025"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Two Ways to Finish the Mississippi River: The Atchafalaya vs Main Channel",
+            "Mississippi River Source to Sea '23"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2025/05/two-ways-to-finish-mississippi-river.html"
+        ]
+    },
+    {
+        "date": [
+            "05/25/2025"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Canoe vs Kayak for the Mississippi Source to Sea: What We Used and Why",
+            "Mississippi River Source to Sea '23"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2025/05/canoe-vs-kayak-for-mississippi-source.html"
+        ]
+    },
+    {
+        "date": [
+            "05/25/2025"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "What I Carry to Stay Charged Thru-Hiking (Hint: It’s Not Nitecore or a Solar Panel)"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2025/05/what-i-carry-to-stay-charged-thru.html"
+        ]
+    },
+    {
+        "date": [
+            "05/25/2025"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Planning Resources For Hiking The American Discovery Trail"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2025/05/planning-resources-for-hiking-american.html"
+        ]
+    },
+    {
+        "date": [
+            "05/25/2025"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Matt & Jen's Favorite Thru Hiking Trail Dinner | Freeze Dried Beans + Minute Rice + Taco Seasoning"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2024/02/matt-jens-favorite-thru-hiking-trail.html"
+        ]
+    },
+    {
+        "date": [
+            "05/25/2025"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "My Continental Divide '22-23 Thru Hike By The Numbers"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2025/05/my-continental-divide-trail-2022-3-thru.html"
+        ]
+    },
+    {
+        "date": [
+            "05/25/2025"
+        ],
+        "tripType": [
+            "Local Hiking"
+        ],
+        "tripName": [
+            "San Mateo Backpacking Loop AKA My 70 Mile Thru Hike Conditioning Trip In Orange County"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2025/02/san-mateo-backpacking-loop-aka-my-70.html"
+        ]
+    },
+    {
+        "date": [
+            "05/25/2025"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "My Triple Crown of Hiking By The Numbers"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2023/12/triple-crown-of-hiking.html"
+        ]
+    },
+    {
+        "date": [
+            "05/25/2025"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "How We Got to and From The River",
+            "Mississippi River Source to Sea '23"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2023/08/how-we-got-to-and-from-river.html"
+        ]
+    },
+    {
+        "date": [
+            "05/25/2025"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Powering Our Paddle With a $250 Voltaic Solar Box",
+            "Mississippi River Source to Sea '23"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2023/08/powering-our-paddle-with-my-250-voltaic.html"
+        ]
+    },
+    {
+        "date": [
+            "05/25/2025"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Our Mississippi River Thru Paddle By The Numbers",
+            "Mississippi River Source to Sea '23"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2023/08/our-mississippi-river-thru-paddle-by.html"
+        ]
+    },
+    {
+        "date": [
+            "05/25/2025"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "River Coordinates & Distances",
+            "Mississippi River Source to Sea '23"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2023/08/river-coordinates-distances-mississippi.html"
+        ]
+    },
+    {
+        "date": [
+            "05/25/2025"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Eastern Continental Trail 2021: Key West to Canada By The Numbers"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2022/01/eastern-continental-trail-2021-key-west.html"
+        ]
+    },
+    {
+        "date": [
+            "05/25/2025"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "302 Days and 5,000 Miles Later: Hiking Key West to Canada Along The Eastern Continental Trail"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2021/11/302-days-and-5000-miles-later-hiking.html"
+        ]
+    },
+    {
+        "date": [
+            "05/25/2025"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Gear I Used to Hike the Pacific Crest Trail in 2020",
+            "Thru Hiking the Pacific Crest Trail in the Summer of COVID-19"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2020/11/pct2020-gear.html"
+        ]
+    },
+    {
+        "date": [
             "12/20/2024",
             "01/05/2025"
         ],
@@ -19866,47 +20083,10 @@
         ],
         "tripType": [
             "Peakbagging",
-            "Local Hiking",
-            "Paddling",
-            "Paddling",
-            "Thru-Hiking",
-            "Thru-Hiking",
-            "Thru-Hiking",
-            "Thru-Hiking",
-            "Local Hiking",
-            "Thru-Hiking",
-            "Paddling",
-            "Paddling",
-            "Paddling",
-            "Paddling",
-            "Thru-Hiking",
-            "Thru-Hiking",
-            "Thru-Hiking"
+            "Local Hiking"
         ],
         "tripName": [
-            "Santiago Completely Unprepared",
-            "Two Ways to Finish the Mississippi River: The Atchafalaya vs Main Channel",
-            "Mississippi River Source to Sea '23",
-            "Canoe vs Kayak for the Mississippi Source to Sea: What We Used and Why",
-            "Mississippi River Source to Sea '23",
-            "What I Carry to Stay Charged Thru-Hiking (Hint: It’s Not Nitecore or a Solar Panel)",
-            "Planning Resources For Hiking The American Discovery Trail",
-            "Matt & Jen's Favorite Thru Hiking Trail Dinner | Freeze Dried Beans + Minute Rice + Taco Seasoning",
-            "My Continental Divide '22-23 Thru Hike By The Numbers",
-            "San Mateo Backpacking Loop AKA My 70 Mile Thru Hike Conditioning Trip In Orange County",
-            "My Triple Crown of Hiking By The Numbers",
-            "How We Got to and From The River",
-            "Mississippi River Source to Sea '23",
-            "Powering Our Paddle With a $250 Voltaic Solar Box",
-            "Mississippi River Source to Sea '23",
-            "Our Mississippi River Thru Paddle By The Numbers",
-            "Mississippi River Source to Sea '23",
-            "River Coordinates & Distances",
-            "Mississippi River Source to Sea '23",
-            "Eastern Continental Trail 2021: Key West to Canada By The Numbers",
-            "302 Days and 5,000 Miles Later: Hiking Key West to Canada Along The Eastern Continental Trail",
-            "Gear I Used to Hike the Pacific Crest Trail in 2020",
-            "Thru Hiking the Pacific Crest Trail in the Summer of COVID-19"
+            "Santiago Completely Unprepared"
         ],
         "peaks": [
             {
@@ -19917,23 +20097,6 @@
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157600556907606/"
-        ],
-        "tripRpt": [
-            "https://www.firstchurchofthemasochist.com/2025/05/two-ways-to-finish-mississippi-river.html",
-            "https://www.firstchurchofthemasochist.com/2025/05/canoe-vs-kayak-for-mississippi-source.html",
-            "https://www.firstchurchofthemasochist.com/2025/05/what-i-carry-to-stay-charged-thru.html",
-            "https://www.firstchurchofthemasochist.com/2025/05/planning-resources-for-hiking-american.html",
-            "https://www.firstchurchofthemasochist.com/2024/02/matt-jens-favorite-thru-hiking-trail.html",
-            "https://www.firstchurchofthemasochist.com/2025/05/my-continental-divide-trail-2022-3-thru.html",
-            "https://www.firstchurchofthemasochist.com/2025/02/san-mateo-backpacking-loop-aka-my-70.html",
-            "https://www.firstchurchofthemasochist.com/2023/12/triple-crown-of-hiking.html",
-            "https://www.firstchurchofthemasochist.com/2023/08/how-we-got-to-and-from-river.html",
-            "https://www.firstchurchofthemasochist.com/2023/08/powering-our-paddle-with-my-250-voltaic.html",
-            "https://www.firstchurchofthemasochist.com/2023/08/our-mississippi-river-thru-paddle-by.html",
-            "https://www.firstchurchofthemasochist.com/2023/08/river-coordinates-distances-mississippi.html",
-            "https://www.firstchurchofthemasochist.com/2022/01/eastern-continental-trail-2021-key-west.html",
-            "https://www.firstchurchofthemasochist.com/2021/11/302-days-and-5000-miles-later-hiking.html",
-            "https://www.firstchurchofthemasochist.com/2020/11/pct2020-gear.html"
         ]
     }
 ]

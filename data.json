@@ -1,5 +1,52 @@
+  GitHub
+
+JSON Output
 {
 "data": [
+    {
+        "date": [
+            "06/05/2025"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Why the Mississippi River Might Be the Best Long-Distance Trip in the U.S. ",
+            "Mississippi River Source to Sea '23"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2025/06/why-mississippi-river-might-be-best.html"
+        ]
+    },
+    {
+        "date": [
+            "06/05/2025"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "How I Track My Hikes & Paddles Using Google Sheets",
+            "Trip Planning"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2025/06/how-i-track-my-hikes-paddles-using.html"
+        ]
+    },
+    {
+        "date": [
+            "05/29/2025"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "My American Discovery Trail 2024-2026(?) Thru Hike By The Numbers | Delaware to San Francisco On Foot"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2025/05/my-american-discovery-trail-2024-2026.html"
+        ]
+    },
     {
         "date": [
             "05/25/2025"
@@ -263,6 +310,21 @@
         ],
         "tripName": [
             "Return to Komodo Indonesia on the Mermaid II Liveaboard"
+        ]
+    },
+    {
+        "date": [
+            "09/29/2020"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "My Pacific Crest Trail 2020 Thru Hike By The Numbers",
+            "Thru Hiking the Pacific Crest Trail in the Summer of COVID-19"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2020/09/my-pacific-crest-trail-2020-thru-hike.html"
         ]
     },
     {
@@ -1303,8 +1365,12 @@
         "date": [
             "09/20/2019"
         ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
         "tripName": [
-            "Matt's Guide To The Theodore Solomons Trail"
+            "Matt's Guide To The Theodore Solomons Trail",
+            "By The Numbers, 2019 Thru Hike"
         ],
         "tripRpt": [
             "http://www.firstchurchofthemasochist.com/2019/09/matts-guide-to-theodore-solomons-trail.html"

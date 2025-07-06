@@ -287,6 +287,27 @@
     },
     {
         "date": [
+            "03/27/2024",
+            "11/25/2024"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "American Discovery Trail Eastbound Delaware to Moab"
+        ],
+        "pics": [
+            "https://www.youtube.com/playlist?list=PLgw5mInRAREYcdWnhWuxTsiksf4Jipjqa"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/search/label/American%20Discovery%20Trail"
+        ],
+        "maps": [
+            "https://blogger.googleusercontent.com/img/a/AVvXsEiK2uMsN27xrRxyKR4UfOvQt1S_cRkRgFHpET6FIl7aSiedtvOzJpfmaVEme6UqBJ5-fai7EgYG5v--GYzR_717on1UsN2mxoG6LZAqay2W0Hjlq5lUz5viUD1g28xeUU_tVeRVrJvEJKLRIxYPmtGx4nRylx2K4r9TsnyZfsI0Y8YPv9TozP4QNDlWb-I"
+        ]
+    },
+    {
+        "date": [
             "12/28/2023",
             "01/06/2024"
         ],
@@ -299,6 +320,110 @@
     },
     {
         "date": [
+            "10/01/2023",
+            "12/11/2023"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Continental Divide Trail Return",
+            "Colorado to New Mexico"
+        ]
+    },
+    {
+        "date": [
+            "06/02/2023",
+            "08/20/2023"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Mississippi River Source to Sea Thru Paddle"
+        ],
+        "pics": [
+            "https://www.youtube.com/playlist?list=PLgw5mInRAREayIdcDWaE_IMoTNw3OoKeM"
+        ],
+        "tripRpt": [
+            "https://www.firstchurchofthemasochist.com/2023/08/our-mississippi-river-thru-paddle-by.html"
+        ],
+        "maps": [
+            "https://blogger.googleusercontent.com/img/a/AVvXsEhq0FiqdyIn6MG2vKGuaAL17jmxvk1FxBy30sOxEx2tufJd1bI9R68o3wemD6MbdVMKN4m2Z5Fp4t7txfjvDA8kmN95iNfELroRDx2LnS_aTQA-0rJag3QhbyBDluVpVKxsRFrBS-ABUQ9ZPoi_05DLayZNlaF2xqUWNSuyfLHkx4ez1_1E7RxyBUs0Xxo"
+        ]
+    },
+    {
+        "date": [
+            "04/01/2023",
+            "05/28/2023"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Grand Enchantment Trail Eastbound Thru Hike"
+        ],
+        "pics": [
+            "https://www.youtube.com/playlist?list=PLgw5mInRAREbpOGkbtRN66sYyZTU3Vb6P"
+        ]
+    },
+    {
+        "date": [
+            "03/18/2023",
+            "03/31/2023"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Arizona Trail Northbound Snow Closure Aborted Thru Hike"
+        ],
+        "pics": [
+            "https://www.youtube.com/playlist?list=PLgw5mInRAREZzByMi-sKxff7kS25muoCQ"
+        ]
+    },
+    {
+        "date": [
+            "12/18/2022",
+            "01/01/2023"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Suwannee River Florida Thru Paddle"
+        ],
+        "pics": [
+            "https://www.youtube.com/playlist?list=PLgw5mInRAREZPGVxm059rxEnA3AgbhhtE"
+        ]
+    },
+    {
+        "date": [
+            "11/11/2022",
+            "11/13/2022"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Black Canyon Two Night Paddle"
+        ]
+    },
+    {
+        "date": [
+            "06/28/2022",
+            "10/17/2022"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Continental Divide Trail Thru Hike",
+            "Canada to Colorado COVID + Noro Abort"
+        ]
+    },
+    {
+        "date": [
             "06/07/2022",
             "06/19/2022"
         ],
@@ -307,6 +432,31 @@
         ],
         "tripName": [
             "Return to Komodo Indonesia on the Mermaid II Liveaboard"
+        ]
+    },
+    {
+        "date": [
+            "04/01/2022",
+            "04/10/2022"
+        ],
+        "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "Green River Utah Thru Paddle"
+        ]
+    },
+    {
+        "date": [
+            "12/29/2020",
+            "10/29/2021"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Eastern Continental Trail Key West to Canada",
+            "Florida Trail, Alabama Roadwalk, Pinhoti Trail, Appalachian Trail, IAT"
         ]
     },
     {
@@ -621,7 +771,8 @@
             "Hot Springs"
         ],
         "tripName": [
-            "Paddling Black Canyon & Visiting Arizona, Boy Scout, Gold Strike, and Sauna Hot Springs"
+            "Black Canyon Two Night Paddle ",
+            "Arizona, Boy Scout, Gold Strike, and Sauna Hot Springs"
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/albums/72157712786872328"
@@ -675,6 +826,41 @@
         ],
         "maps": [
             "https://caltopo.com/m/EGDQ"
+        ]
+    },
+    {
+        "date": [
+            "01/03/2020",
+            "01/05/2020"
+        ],
+        "tripType": [
+            "Local Hiking"
+        ],
+        "tripName": [
+            "Backpacking Santa Cruz Island Prisoners Harbor to Scorpion Harbor",
+            "Santa Cruz Island, Channel Islands National Park"
+        ],
+        "peaks": [
+            {
+                "anchor": "El Montanon Peak",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=18343",
+                "height": "1,808'"
+            },
+            {
+                "anchor": "High Mount Benchmark",
+                "url": "https://www.peakbagger.com/peak.aspx?pid=31233",
+                "height": "1,581'"
+            }
+        ],
+        "pics": [
+            "https://www.flickr.com/photos/matthewhengst/albums/72157712548453388"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2020/01/backpacking-santa-cruz-island-prisoners.html"
+        ],
+        "maps": [
+            "https://www.flickr.com/photos/matthewhengst/49405412967",
+            "https://caltopo.com/m/QV31"
         ]
     },
     {
@@ -2017,8 +2203,7 @@
         ],
         "tripType": [
             "Peakbagging",
-            "Sierra Climbing",
-            "Thru-Hiking"
+            "Sierra Climbing"
         ],
         "tripName": [
             "Kennedy Meadows To Horseshoe Meadow",
@@ -2754,6 +2939,17 @@
             "03/14/2019"
         ],
         "tripType": [
+            "Paddling"
+        ],
+        "tripName": [
+            "After Work Newport Harbor Pizza Paddle"
+        ]
+    },
+    {
+        "date": [
+            "03/14/2019"
+        ],
+        "tripType": [
             "Scuba"
         ],
         "tripName": [
@@ -2764,17 +2960,6 @@
         ],
         "maps": [
             "https://caltopo.com/m/EGDQ"
-        ]
-    },
-    {
-        "date": [
-            "03/14/2019"
-        ],
-        "tripType": [
-            "Paddling"
-        ],
-        "tripName": [
-            "After Work Newport Harbor Pizza Paddle"
         ]
     },
     {
@@ -8802,20 +8987,6 @@
             "10/28/2015"
         ],
         "tripType": [
-            "Wilderness Travel Course"
-        ],
-        "tripName": [
-            "WTC 2015 Year In Review"
-        ],
-        "tripRpt": [
-            "http://www.firstchurchofthemasochist.com/2015/10/sierra-club-wilderness-travel-course.html"
-        ]
-    },
-    {
-        "date": [
-            "10/28/2015"
-        ],
-        "tripType": [
             "Paddling"
         ],
         "tripName": [
@@ -8823,6 +8994,20 @@
         ],
         "pics": [
             "https://www.flickr.com/photos/matthewhengst/sets/72157663296842476/"
+        ]
+    },
+    {
+        "date": [
+            "10/28/2015"
+        ],
+        "tripType": [
+            "Wilderness Travel Course"
+        ],
+        "tripName": [
+            "WTC 2015 Year In Review"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2015/10/sierra-club-wilderness-travel-course.html"
         ]
     },
     {
@@ -11572,6 +11757,27 @@
         "tripName": [
             "JMT Fast Pack",
             "John Muir Trail"
+        ],
+        "pics": [
+            "http://www.flickr.com/photos/matthewhengst/sets/72157635811112054/"
+        ],
+        "tripRpt": [
+            "http://www.firstchurchofthemasochist.com/2013/09/john-muir-trail-happy-isles-to.html"
+        ],
+        "maps": [
+            "http://caltopo.com/map?id=6P74"
+        ]
+    },
+    {
+        "date": [
+            "09/14/2013",
+            "09/22/2013"
+        ],
+        "tripType": [
+            "Peakbagging"
+        ],
+        "tripName": [
+            "John Muir Trail Happy Isles to Kearsarge Snow Abort"
         ],
         "pics": [
             "http://www.flickr.com/photos/matthewhengst/sets/72157635811112054/"

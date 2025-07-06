@@ -329,6 +329,9 @@
         "tripName": [
             "Continental Divide Trail Return",
             "Colorado to New Mexico"
+        ],
+        "pics": [
+            "https://www.youtube.com/playlist?list=PLgw5mInRAREad4yba5tNpXiuPYUKgWfQF"
         ]
     },
     {
@@ -420,6 +423,9 @@
         "tripName": [
             "Continental Divide Trail Thru Hike",
             "Canada to Colorado COVID + Noro Abort"
+        ],
+        "pics": [
+            "https://www.youtube.com/playlist?list=PLgw5mInRAREad4yba5tNpXiuPYUKgWfQF"
         ]
     },
     {
@@ -436,6 +442,18 @@
     },
     {
         "date": [
+            "04/16/2022",
+            "05/15/2022"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Condor Trail Thru Hike"
+        ]
+    },
+    {
+        "date": [
             "04/01/2022",
             "04/10/2022"
         ],
@@ -444,6 +462,96 @@
         ],
         "tripName": [
             "Green River Utah Thru Paddle"
+        ]
+    },
+    {
+        "date": [
+            "03/10/2022",
+            "03/20/2022"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "San Diego Trans County Trail"
+        ]
+    },
+    {
+        "date": [
+            "12/22/2021",
+            "12/29/2021"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Lone Star Trail Thru Hike Texas",
+            "Christmas Norovirus"
+        ]
+    },
+    {
+        "date": [
+            "09/06/2021",
+            "10/26/2021"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "International Appalachian Trail (Maine, New Brunswick, PEI, Nova Scotia)",
+            "Eastern Continental Trail Key West to Canada"
+        ]
+    },
+    {
+        "date": [
+            "04/25/2021",
+            "09/05/2021"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Appalachian Trail",
+            "Eastern Continental Trail Key West to Canada"
+        ]
+    },
+    {
+        "date": [
+            "04/01/2021",
+            "04/19/2021"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Pinhoti Trail",
+            "Eastern Continental Trail Key West to Canada"
+        ]
+    },
+    {
+        "date": [
+            "03/20/2021",
+            "03/31/2021"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Alabama Roadwalk",
+            "Eastern Continental Trail Key West to Canada"
+        ]
+    },
+    {
+        "date": [
+            "01/12/2021",
+            "03/19/2021"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Florida Trail",
+            "Eastern Continental Trail Key West to Canada"
         ]
     },
     {
@@ -457,6 +565,22 @@
         "tripName": [
             "Eastern Continental Trail Key West to Canada",
             "Florida Trail, Alabama Roadwalk, Pinhoti Trail, Appalachian Trail, IAT"
+        ],
+        "pics": [
+            "https://www.youtube.com/playlist?list=PLgw5mInRAREYk-R_M818n0sOWRS1CjZI0"
+        ]
+    },
+    {
+        "date": [
+            "12/29/2020",
+            "01/11/2021"
+        ],
+        "tripType": [
+            "Thru-Hiking"
+        ],
+        "tripName": [
+            "Keys Everglade Roadwalk",
+            "Eastern Continental Trail Key West to Canada"
         ]
     },
     {
